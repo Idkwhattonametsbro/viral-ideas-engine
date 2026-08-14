@@ -4,14 +4,14 @@
     {
       "source": "GitHub",
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
-      "points": 92773,
+      "points": 92805,
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me",
-      "points": 7319,
+      "points": 7321,
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "score": 5.6
     },
@@ -67,7 +67,7 @@
     {
       "source": "GitHub",
       "title": "LaoFeng-mouse/flyingmouse-format - 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/",
-      "points": 2925,
+      "points": 2926,
       "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
       "score": 3.5
     },
@@ -107,5 +107,5 @@
       "score": 2.35
     }
   ],
-  "count": 26
+  "count": 32
 }
