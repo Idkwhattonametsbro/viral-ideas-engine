@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nexus Viral Ideas Engine</title>
+<style>
+  :root { --bg:#F5F5F7; --card:#fff; --line:#E8E8ED; --ink:#1D1D1F; --mut:#6E6E73; --acc:#0A84FF; }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { font-family: Inter, system-ui, -apple-system, sans-serif; background:var(--bg); color:var(--ink); padding-bottom:60px; }
+  header { background:#fff; border-bottom:1px solid var(--line); padding:14px 18px; display:flex; align-items:center; gap:12px; position:sticky; top:0; z-index:20; flex-wrap:wrap; }
+  .logo { width:36px; height:36px; border-radius:11px; background:#1D1D1F; color:#fff; display:flex; align-items:center; justify-content:center; font-weight:800; }
+  header h1 { font-size:16px; } header .sub { font-size:11px; color:var(--mut); }
+  .tabs { display:flex; gap:6px; margin-left:auto; }
+  .tab { background:#fff; border:1px solid var(--line); border-radius:10px; padding:8px 14px; font-size:11px; font-weight:700; cursor:pointer; color:var(--mut); }
+  .tab.on { background:#1D1D1F; color:#fff; border-color:#1D1D1F; }
+  main { max-width:680px; margin:0 auto; padding:18px 14px; }
+  .banner { background:#fff; border:1px solid var(--line); border-radius:14px; padding:13px 16px; margin-bottom:14px; font-size:12.5px; line-height:1.6; color:#55504A; }
+  .banner b { color:var(--ink); }
+  .genbar { display:flex; gap:8px; align-items:center; margin-bottom:14px; flex-wrap:wrap; }
+  .gen { background:#1D1D1F; color:#fff; border:none; border-radius:12px; padding:12px 20px; font-size:12.5px; font-weight:800; cursor:pointer; }
+  .gen:disabled { opacity:.5; cursor:wait; }
+  .genstatus { font-size:11px; color:var(--mut); }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:16px; margin-bottom:12px; }
+  .card h2 { font-size:11px; letter-spacing:.12em; color:var(--acc); margin-bottom:8px; text-transform:uppercase; }
+  .card .content { font-size:14px; line-height:1.7; white-space:pre-wrap; word-break:break-word; }
+  .audio { width:100%; margin:8px 0; }
+  .btn { display:inline-block; background:#1D1D1F; color:#fff; text-decoration:none; border:none; border-radius:9px; padding:9px 16px; font-size:11px; font-weight:700; cursor:pointer; margin-top:8px; }
+  .btn.ghost { background:#fff; color:var(--ink); border:1px solid var(--line); }
+  .meta { font-size:11px; color:var(--mut); margin-top:8px; }
+  .day { border:1px solid var(--line); border-radius:10px; padding:8px 12px; font-size:12px; margin-bottom:6px; display:flex; justify-content:space-between; align-items:center; color:var(--mut); }
+  .day.on { background:#F0F7FF; border-color:var(--acc); color:var(--ink); font-weight:700; }
+  .loading { text-align:center; padding:40px 0; color:var(--mut); font-size:13px; }
+  .link { color:var(--acc); text-decoration:none; font-weight:600; }
+</style>
+</head>
+<body>
+<header>
+  <div class="logo">N</div>
+  <div><h1>VIRAL IDEAS ENGINE</h1><div class="sub">researches the web · iconic ideas · script + voiceover · you edit</div></div>
+  <div class="tabs">
+    <button class="tab on" data-t="pack">PACK</button>
+    <button class="tab" data-t="research">RESEARCH</button>
+  </div>
+</header>
+<main>
+  <div class="banner">
+    <b>Your daily viral machine:</b> the engine browses Hacker News, Reddit, Bing News and GitHub twice a day,
+    picks the hottest tech topic, matches it to a proven viral format, and produces the <b>script, title, caption,
+    hashtags, tips, thumbnail idea, voiceover MP3 and caption SRT</b>. You take those into your editor, cut it, post it.
+  </div>
+  <div class="genbar">
+    <button class="gen" id="genbtn">GENERATE NOW</button>
+    <span class="genstatus" id="genstatus"></span>
+  </div>
+  <section class="panel on" id="p-pack">
+    <div id="pack-loading" class="loading">Loading today's pack...</div>
+    <div id="pack-content" style="display:none"></div>
+  </section>
+  <section class="panel" id="p-research">
+    <div id="res-loading" class="loading">Loading research...</div>
+    <div id="res-content" style="display:none"></div>
+  </section>
+</main>
+<script>
+  const REPO = 'Idkwhattonametsbro/viral-ideas-engine';
+  const API = 'https://api.github.com/repos/' + REPO;
+  const TOKEN_KEY = 'nexus_viral_token';
+  function esc(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+  async function get(u){ const r = await fetch(u, { cache: 'no-store' }); if(!r.ok) throw new Error('HTTP '+r.status); return r.text(); }
+
+  function renderPack(json, md){
+    const p = json;
+    const sections = [
+      ['FORMAT + SOURCE TOPIC', 'Format: ' + p.format + '\nSource topic: ' + p.source_topic],
+      ['SCRIPT (read in your editor)', p.script],
+      ['TITLE', p.title],
+      ['CAPTION', p.caption],
+      ['HASHTAGS', (p.hashtags||[]).join(' ')],
+      ['POSTING TIPS', (p.tips||[]).map(t=>'- '+t).join('\n')],
+      ['THUMBNAIL IDEA', p.thumbnail],
+    ];
+    return sections.map(s => `<div class="card"><h2>${esc(s[0])}</h2><div class="content">${esc(s[1])}</div>
+      <button class="btn ghost" data-c="${esc(s[1])}">Copy</button></div>`).join('') +
+      `<div class="card"><h2>Voiceover + captions</h2>
+       <audio class="audio" controls preload="none"><source src="../feed/voiceover_latest.mp3" type="audio/mpeg"></audio>
+       <a class="btn" href="../feed/voiceover_latest.mp3" download>⬇ Download MP3</a>
+       <a class="btn ghost" href="../feed/captions_latest.srt" download>⬇ Captions (SRT)</a>
+       <div class="meta">Drop the SRT into your editor for perfect caption sync.</div></div>` +
+      `<button class="btn" data-c="${esc(md)}">Copy entire pack</button>`;
+  }
+
+  async function loadPack(){
+    try {
+      const [jsonTxt, md] = await Promise.all([get('../feed/latest.json'), get('../feed/latest.md')]);
+      const p = JSON.parse(jsonTxt);
+      document.getElementById('pack-content').innerHTML = renderPack(p, md);
+      document.getElementById('pack-content').style.display = 'block';
+      document.getElementById('pack-loading').style.display = 'none';
+    } catch(e){
+      document.getElementById('pack-loading').textContent = 'No pack yet - the engine runs twice daily, or hit GENERATE NOW.';
+    }
+  }
+
+  async function loadResearch(){
+    try {
+      const jsonTxt = await get('../research/latest.json');
+      const d = JSON.parse(jsonTxt);
+      const items = (d.top||[]).map(it =>
+        `<div class="day"><span>${esc(it.title)}</span><span style="font-size:10px">${esc(it.source)} · ${it.score}</span></div>`).join('');
+      document.getElementById('res-content').innerHTML =
+        `<div class="card"><h2>What the web is talking about right now</h2>${items}</div>`;
+      document.getElementById('res-content').style.display = 'block';
+      document.getElementById('res-loading').style.display = 'none';
+    } catch(e){
+      document.getElementById('res-loading').textContent = 'No research yet.';
+    }
+  }
+
+  async function generateNow(){
+    const btn = document.getElementById('genbtn');
+    const status = document.getElementById('genstatus');
+    let token = '';
+    try { token = localStorage.getItem(TOKEN_KEY) || ''; } catch(e){}
+    if (!token){
+      token = prompt('Paste a GitHub fine-grained token (Actions read/write, this repo only). Stored only in this browser.\nCreate: github.com/settings/personal-access-tokens');
+      if (!token) return;
+      try { localStorage.setItem(TOKEN_KEY, token); } catch(e){}
+    }
+    btn.disabled = true;
+    status.textContent = 'Researching + generating...';
+    try {
+      const r = await fetch(API + '/actions/workflows/daily.yml/dispatches', {
+        method: 'POST',
+        headers: { 'Authorization': 'Bearer ' + token, 'Accept': 'application/vnd.github+json', 'Content-Type': 'application/json' },
+        body: JSON.stringify({ ref: 'main' })
+      });
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      for (let i = 0; i < 14; i++){
+        await new Promise(r => setTimeout(r, 5000));
+        const rr = await fetch(API + '/actions/runs?per_page=1', { headers: { 'Authorization': 'Bearer ' + token, 'Accept': 'application/vnd.github+json' } });
+        const dd = await rr.json();
+        const run = dd.workflow_runs && dd.workflow_runs[0];
+        if (run && run.status === 'completed'){
+          status.textContent = run.conclusion === 'success' ? 'Done ✓ fresh pack loaded.' : 'Run failed: ' + run.conclusion;
+          await loadPack(); await loadResearch();
+          break;
+        } else {
+          status.textContent = 'Working... ' + (run ? run.status : 'queued');
+        }
+      }
+    } catch(e){
+      status.textContent = 'Failed: ' + (e.message || e);
+    } finally {
+      btn.disabled = false;
+    }
+  }
+
+  document.querySelectorAll('.tab').forEach(b => b.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(x => x.classList.remove('on'));
+    document.querySelectorAll('.panel').forEach(x => x.classList.remove('on'));
+    b.classList.add('on');
+    document.getElementById('p-' + b.dataset.t).classList.add('on');
+  }));
+  document.getElementById('genbtn').addEventListener('click', generateNow);
+  document.addEventListener('click', (e) => {
+    if (e.target.classList && e.target.classList.contains('btn') && e.target.dataset.c !== undefined){
+      const t = e.target.dataset.c;
+      if (navigator.clipboard) navigator.clipboard.writeText(t);
+      e.target.textContent = 'Copied ✓';
+      setTimeout(() => e.target.textContent = 'Copy', 1500);
+    }
+  });
+  loadPack(); loadResearch();
+</script>
+</body>
+</html>

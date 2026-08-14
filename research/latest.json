@@ -1,0 +1,111 @@
+{
+  "date": "2026-08-14",
+  "top": [
+    {
+      "source": "GitHub",
+      "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
+      "points": 91926,
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me",
+      "points": 7188,
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "imsai-sh/zhuzhiliao - 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+      "points": 2763,
+      "url": "https://github.com/imsai-sh/zhuzhiliao",
+      "score": 5.6
+    },
+    {
+      "source": "HackerNews",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "points": 671,
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "score": 5.2
+    },
+    {
+      "source": "HackerNews",
+      "title": "Every Fucking Website",
+      "points": 303,
+      "url": "https://lxe.github.io/everywebsite/",
+      "score": 4.22
+    },
+    {
+      "source": "HackerNews",
+      "title": "Gemini 3.7 Flash",
+      "points": 931,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R",
+      "points": 16028,
+      "url": "https://github.com/firecrawl/anydoc",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "FareedKhan-dev/kimi-k3-in-c - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99:",
+      "points": 5583,
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "ZzzLc0405/photo-abstract-editorial -",
+      "points": 3685,
+      "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "Zeejay0/gathered-scenes-zine-skill -",
+      "points": 3522,
+      "url": "https://github.com/Zeejay0/gathered-scenes-zine-skill",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "LaoFeng-mouse/flyingmouse-format - 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/",
+      "points": 2906,
+      "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
+      "score": 3.5
+    },
+    {
+      "source": "HackerNews",
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "points": 838,
+      "url": "https://z.ai/blog/glm-5.3",
+      "score": 3.46
+    },
+    {
+      "source": "HackerNews",
+      "title": "Mistral OCR 4.1",
+      "points": 394,
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "score": 2.82
+    },
+    {
+      "source": "HackerNews",
+      "title": "Why does Opus 5 feel worse to work with?",
+      "points": 356,
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "score": 2.75
+    },
+    {
+      "source": "HackerNews",
+      "title": "Hello, me. It's been a while",
+      "points": 329,
+      "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+      "score": 2.69
+    }
+  ],
+  "count": 26
+}
