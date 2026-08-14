@@ -4,14 +4,14 @@
     {
       "source": "GitHub",
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
-      "points": 91926,
+      "points": 92014,
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me",
-      "points": 7188,
+      "points": 7199,
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "score": 5.6
     },
@@ -32,9 +32,9 @@
     {
       "source": "HackerNews",
       "title": "Every Fucking Website",
-      "points": 303,
+      "points": 310,
       "url": "https://lxe.github.io/everywebsite/",
-      "score": 4.22
+      "score": 4.25
     },
     {
       "source": "HackerNews",
@@ -60,7 +60,7 @@
     {
       "source": "GitHub",
       "title": "ZzzLc0405/photo-abstract-editorial -",
-      "points": 3685,
+      "points": 3686,
       "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
       "score": 3.5
     },
@@ -74,14 +74,14 @@
     {
       "source": "GitHub",
       "title": "LaoFeng-mouse/flyingmouse-format - 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/",
-      "points": 2906,
+      "points": 2909,
       "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
       "score": 3.5
     },
     {
       "source": "HackerNews",
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-      "points": 838,
+      "points": 841,
       "url": "https://z.ai/blog/glm-5.3",
       "score": 3.46
     },
@@ -107,5 +107,5 @@
       "score": 2.69
     }
   ],
-  "count": 26
+  "count": 32
 }
