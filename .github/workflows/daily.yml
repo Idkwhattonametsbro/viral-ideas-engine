@@ -59,3 +59,5 @@ jobs:
             git commit -m "content: viral pack + voiceover [skip ci]"
           fi
           git push || (git pull --rebase --autostash && git push)
+          # Trigger the Pages deploy explicitly (it doesn't auto-run on [skip ci] commits)
+          sleep 5

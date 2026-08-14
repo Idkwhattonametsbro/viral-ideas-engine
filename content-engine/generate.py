@@ -294,14 +294,24 @@ def probe_dur(path: Path) -> float:
 
 
 def build_voiceover(chunks, voice, tmpdir):
-    """One continuous MP3 + SRT with real timings."""
+    """One continuous MP3 + SRT with real timings (parallel TTS)."""
+    import concurrent.futures as cf
     mp3s, durs = [], []
-    for i, ch in enumerate(chunks):
-        mp3 = tmpdir / f"c{i}.mp3"
-        if tts(ch, voice, mp3):
-            d = probe_dur(mp3)
-            mp3s.append((mp3, d))
-            durs.append(d)
+    with cf.ThreadPoolExecutor(max_workers=4) as ex:
+        futs = {}
+        for i, ch in enumerate(chunks):
+            mp3 = tmpdir / f"c{i}.mp3"
+            futs[ex.submit(tts, ch, voice, mp3)] = (mp3, i)
+        results = [None] * len(chunks)
+        for fut in cf.as_completed(futs):
+            mp3, i = futs[fut]
+            ok = fut.result()
+            results[i] = (mp3, ok)
+        for mp3, ok in results:
+            if ok:
+                d = probe_dur(mp3)
+                mp3s.append((mp3, d))
+                durs.append(d)
     if not mp3s:
         return None, None
 
