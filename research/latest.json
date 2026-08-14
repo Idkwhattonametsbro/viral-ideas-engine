@@ -4,7 +4,7 @@
     {
       "source": "GitHub",
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
-      "points": 92805,
+      "points": 92823,
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "score": 5.6
     },
@@ -25,35 +25,35 @@
     {
       "source": "HackerNews",
       "title": "Every Fucking Website (2020)",
-      "points": 469,
+      "points": 476,
       "url": "https://lxe.github.io/everywebsite/",
-      "score": 4.72
+      "score": 4.74
     },
     {
       "source": "HackerNews",
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-      "points": 885,
+      "points": 890,
       "url": "https://z.ai/blog/glm-5.3",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R",
-      "points": 16039,
+      "points": 16040,
       "url": "https://github.com/firecrawl/anydoc",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "FareedKhan-dev/kimi-k3-in-c - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99:",
-      "points": 5587,
+      "points": 5589,
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "ZzzLc0405/photo-abstract-editorial -",
-      "points": 3693,
+      "points": 3694,
       "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
       "score": 3.5
     },
@@ -67,44 +67,44 @@
     {
       "source": "GitHub",
       "title": "LaoFeng-mouse/flyingmouse-format - 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/",
-      "points": 2926,
+      "points": 2927,
       "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
       "score": 3.5
     },
     {
       "source": "HackerNews",
       "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-      "points": 131,
+      "points": 133,
       "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-      "score": 3.47
+      "score": 3.49
     },
     {
       "source": "HackerNews",
       "title": "Qwen 3.8 27B is out: open weights, best local dense model yet",
-      "points": 81,
+      "points": 86,
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "score": 3.15
+      "score": 3.18
     },
     {
       "source": "HackerNews",
       "title": "The TEMU-Fication of Software, Digital Goods and Services",
-      "points": 62,
+      "points": 66,
       "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
-      "score": 2.99
+      "score": 3.02
     },
     {
       "source": "HackerNews",
       "title": "Qwen3.8-27B",
-      "points": 250,
+      "points": 265,
       "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
-      "score": 2.52
+      "score": 2.55
     },
     {
       "source": "HackerNews",
       "title": "DeepSeek peak/off-peak pricing update",
-      "points": 187,
+      "points": 189,
       "url": "https://api-docs.deepseek.com/news/news260813/",
-      "score": 2.35
+      "score": 2.36
     }
   ],
   "count": 32
