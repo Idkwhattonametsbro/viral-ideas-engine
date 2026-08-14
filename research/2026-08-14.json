@@ -4,14 +4,14 @@
     {
       "source": "GitHub",
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
-      "points": 92014,
+      "points": 92658,
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me",
-      "points": 7199,
+      "points": 7301,
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "score": 5.6
     },
@@ -24,87 +24,87 @@
     },
     {
       "source": "HackerNews",
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "points": 671,
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "score": 5.2
-    },
-    {
-      "source": "HackerNews",
-      "title": "Every Fucking Website",
-      "points": 310,
+      "title": "Every Fucking Website (2020)",
+      "points": 450,
       "url": "https://lxe.github.io/everywebsite/",
-      "score": 4.25
+      "score": 4.67
     },
     {
       "source": "HackerNews",
-      "title": "Gemini 3.7 Flash",
-      "points": 931,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "points": 878,
+      "url": "https://z.ai/blog/glm-5.3",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R",
-      "points": 16028,
+      "points": 16038,
       "url": "https://github.com/firecrawl/anydoc",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "FareedKhan-dev/kimi-k3-in-c - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99:",
-      "points": 5583,
+      "points": 5586,
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "ZzzLc0405/photo-abstract-editorial -",
-      "points": 3686,
+      "points": 3691,
       "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "Zeejay0/gathered-scenes-zine-skill -",
-      "points": 3522,
+      "points": 3524,
       "url": "https://github.com/Zeejay0/gathered-scenes-zine-skill",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "LaoFeng-mouse/flyingmouse-format - 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/",
-      "points": 2909,
+      "points": 2922,
       "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-      "points": 841,
-      "url": "https://z.ai/blog/glm-5.3",
-      "score": 3.46
+      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "points": 125,
+      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+      "score": 3.44
     },
     {
       "source": "HackerNews",
-      "title": "Mistral OCR 4.1",
-      "points": 394,
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "score": 2.82
+      "title": "Qwen 3.8 27B is out: open weights, best local dense model yet",
+      "points": 77,
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "score": 3.12
+    },
+    {
+      "source": "HackerNews",
+      "title": "The TEMU-Fication of Software, Digital Goods and Services",
+      "points": 61,
+      "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
+      "score": 2.98
     },
     {
       "source": "HackerNews",
       "title": "Why does Opus 5 feel worse to work with?",
-      "points": 356,
+      "points": 382,
       "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "score": 2.75
+      "score": 2.8
     },
     {
       "source": "HackerNews",
-      "title": "Hello, me. It's been a while",
-      "points": 329,
-      "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-      "score": 2.69
+      "title": "Qwen3.8-27B",
+      "points": 233,
+      "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
+      "score": 2.47
     }
   ],
   "count": 32
