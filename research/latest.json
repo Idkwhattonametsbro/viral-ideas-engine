@@ -4,107 +4,107 @@
     {
       "source": "GitHub",
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
-      "points": 99122,
+      "points": 111277,
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me",
-      "points": 8385,
+      "points": 9350,
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "points": 2712,
+      "points": 2732,
       "url": "https://github.com/KKKKhazix/human-writing",
-      "score": 5.6
-    },
-    {
-      "source": "GitHub",
-      "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-      "points": 2415,
-      "url": "https://github.com/thebuggeddev/anatomy",
       "score": 5.6
     },
     {
       "source": "HackerNews",
       "title": "Google is making private AI practical with homomorphic encryption",
-      "points": 303,
+      "points": 448,
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "score": 4.22
+      "score": 4.67
     },
     {
       "source": "HackerNews",
-      "title": "AI by Hand",
-      "points": 226,
-      "url": "https://www.byhand.ai/",
-      "score": 3.93
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "points": 178,
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "score": 3.72
     },
     {
       "source": "HackerNews",
-      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
-      "points": 161,
-      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
-      "score": 3.64
-    },
-    {
-      "source": "HackerNews",
-      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-      "points": 1045,
-      "url": "https://z.ai/blog/glm-5.3",
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "points": 1394,
+      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
       "score": 3.5
     },
     {
       "source": "HackerNews",
       "title": "Qwen 3.8 27B",
-      "points": 953,
+      "points": 1260,
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R",
-      "points": 16119,
+      "points": 16231,
       "url": "https://github.com/firecrawl/anydoc",
       "score": 3.5
     },
     {
       "source": "GitHub",
+      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+      "points": 5086,
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
       "title": "ZzzLc0405/photo-abstract-editorial -",
-      "points": 3724,
+      "points": 3802,
       "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
       "score": 3.5
     },
     {
       "source": "GitHub",
-      "title": "LaoFeng-mouse/flyingmouse-format - 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/",
-      "points": 3015,
+      "title": "LaoFeng-mouse/flyingmouse-format - 飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/",
+      "points": 3173,
       "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
       "score": 3.5
     },
     {
       "source": "GitHub",
-      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
-      "points": 2525,
-      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "points": 2685,
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "Why does Opus 5 feel worse to work with?",
-      "points": 807,
-      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "score": 3.42
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "points": 81,
+      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "score": 3.15
     },
     {
       "source": "HackerNews",
-      "title": "Firefox is now the last major browser that still supports uBlock Origin",
-      "points": 546,
-      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "score": 3.07
+      "title": "Going Dark, and the era of law enforcement hacking",
+      "points": 400,
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "score": 2.83
+    },
+    {
+      "source": "HackerNews",
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "points": 325,
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "score": 2.69
     }
   ],
   "count": 32

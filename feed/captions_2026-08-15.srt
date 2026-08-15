@@ -1,51 +1,35 @@
 1
-00:00:00,000 --> 00:00:06,460
-[HOOK - contrarian] Everything you know about An interactive 3D human anatomy explorer
+00:00:00,000 --> 00:00:06,140
+I went from confused and overwhelmed to running it on autopilot using only Google is
 
 2
-00:00:06,640 --> 00:00:11,440
-built using threejs with GPT 5.6 Sol is wrong.
+00:00:06,320 --> 00:00:12,370
+making private AI practical with homomorphic encryption - and it took one month.
 
 3
-00:00:11,620 --> 00:00:14,500
-Here is what actually works.
+00:00:12,550 --> 00:00:19,750
+[STEP 1] Step one: pick ONE tool in the Google is making private AI practical with
 
 4
-00:00:14,680 --> 00:00:18,090
-Most people think it is too late to start.
+00:00:19,930 --> 00:00:23,840
+homomorphic encryption space and master it.
 
 5
-00:00:18,270 --> 00:00:24,940
-The truth: the window is open exactly because An interactive 3D human anatomy explorer
+00:00:24,020 --> 00:00:30,190
+[STEP 2] Step two: systemize the workflow so it runs without you.
 
 6
-00:00:25,120 --> 00:00:31,190
-built using threejs with GPT 5.6 Sol is still confusing to most people.
+00:00:30,370 --> 00:00:36,300
+[STEP 3] Step three: document the results and post the process.
 
 7
-00:00:31,370 --> 00:00:37,470
-Here is why this matters right now: early movers in An interactive 3D human anatomy
+00:00:36,480 --> 00:00:40,460
+The result: a system that works while you sleep.
 
 8
-00:00:37,650 --> 00:00:44,850
-explorer built using threejs with GPT 5.6 Sol get 10x the attention for half the effort.
+00:00:40,640 --> 00:00:44,860
+Comment 'TOOL' and I will send you the exact system.
 
 9
-00:00:45,030 --> 00:00:47,410
-I have tested this.
-
-10
-00:00:47,590 --> 00:00:53,780
-the fastest-growing accounts right now are all built on An interactive 3D human anatomy
-
-11
-00:00:53,960 --> 00:00:59,000
-explorer built using threejs with GPT 5.6 Sol.
-
-12
-00:00:59,180 --> 00:01:02,710
-Comment 'TOOL' and I will send you the playbook.
-
-13
-00:01:02,890 --> 00:01:06,110
-Follow so you don't miss the next one.
+00:00:45,040 --> 00:00:48,620
+Follow - it only goes to followers.
