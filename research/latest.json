@@ -4,107 +4,107 @@
     {
       "source": "GitHub",
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
-      "points": 117982,
+      "points": 128058,
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me",
-      "points": 9863,
+      "points": 10563,
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side pan",
-      "points": 2828,
+      "points": 3311,
       "url": "https://github.com/zhu1090093659/dsh-web-ui",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "AI has access to a vastly larger working memory than the human brain",
-      "points": 438,
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "score": 4.64
+      "title": "Software Engineering fundamentals matter more",
+      "points": 243,
+      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+      "score": 4.0
     },
     {
       "source": "HackerNews",
-      "title": "Working with AI feels more like leadership than coding",
-      "points": 283,
-      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-      "score": 4.15
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "points": 163,
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "score": 3.65
     },
     {
       "source": "HackerNews",
-      "title": "A spectre is haunting Unicode",
-      "points": 194,
-      "url": "https://www.dampfkraft.com/ghost-characters.html",
-      "score": 3.79
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "points": 158,
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "score": 3.62
+    },
+    {
+      "source": "HackerNews",
+      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+      "points": 148,
+      "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+      "score": 3.57
     },
     {
       "source": "GitHub",
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R",
-      "points": 16289,
+      "points": 16406,
       "url": "https://github.com/firecrawl/anydoc",
       "score": 3.5
     },
     {
       "source": "GitHub",
-      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
-      "points": 6486,
+      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
+      "points": 8515,
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "score": 3.5
     },
     {
       "source": "GitHub",
+      "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "points": 4604,
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
       "title": "ZzzLc0405/photo-abstract-editorial -",
-      "points": 3841,
+      "points": 3905,
       "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "LaoFeng-mouse/flyingmouse-format - 飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/",
-      "points": 3242,
+      "points": 3386,
       "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
       "score": 3.5
     },
     {
-      "source": "GitHub",
-      "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "points": 3222,
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "score": 3.5
-    },
-    {
       "source": "HackerNews",
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "points": 110,
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "score": 3.35
+      "title": "Asus Bike Booster",
+      "points": 534,
+      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+      "score": 3.06
     },
     {
       "source": "HackerNews",
       "title": "Semaglutide linked to lower predicted dementia risk",
-      "points": 372,
+      "points": 453,
       "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "score": 2.78
+      "score": 2.92
     },
     {
       "source": "HackerNews",
       "title": "RISC-V: They Should Have Known Better",
-      "points": 255,
+      "points": 348,
       "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-      "score": 2.53
-    },
-    {
-      "source": "HackerNews",
-      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
-      "points": 228,
-      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-      "score": 2.46
+      "score": 2.73
     }
   ],
   "count": 32
