@@ -4,107 +4,107 @@
     {
       "source": "GitHub",
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
-      "points": 137415,
+      "points": 147520,
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me",
-      "points": 11935,
+      "points": 13005,
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side pan",
-      "points": 3635,
+      "points": 4042,
       "url": "https://github.com/zhu1090093659/dsh-web-ui",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
-      "points": 324,
-      "url": "https://news.ycombinator.com/item?id=49322107",
-      "score": 4.29
+      "title": "GitHub down again? no PR access",
+      "points": 188,
+      "url": "https://news.ycombinator.com/item?id=49330632",
+      "score": 3.77
     },
     {
       "source": "HackerNews",
-      "title": "Models Are Getting Dumber on Purpose",
-      "points": 288,
-      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-      "score": 4.17
-    },
-    {
-      "source": "HackerNews",
-      "title": "The AI Credit Resale Economy",
-      "points": 245,
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "score": 4.01
-    },
-    {
-      "source": "HackerNews",
-      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "points": 233,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "score": 3.96
-    },
-    {
-      "source": "HackerNews",
-      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "points": 143,
-      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-      "score": 3.54
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "points": 147,
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "score": 3.56
     },
     {
       "source": "GitHub",
-      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
-      "points": 9840,
+      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "points": 11385,
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "points": 5911,
+      "points": 7440,
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "ZzzLc0405/photo-abstract-editorial -",
-      "points": 3949,
+      "points": 4026,
       "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "LaoFeng-mouse/flyingmouse-format - 飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/",
-      "points": 3471,
+      "points": 3580,
       "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
       "score": 3.5
     },
     {
       "source": "GitHub",
-      "title": "pathwaycom/arc-task-gen - Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
-      "points": 3186,
-      "url": "https://github.com/pathwaycom/arc-task-gen",
+      "title": "yjh051108/dsh-routing-suite - dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the tas",
+      "points": 3456,
+      "url": "https://github.com/yjh051108/dsh-routing-suite",
       "score": 3.5
     },
     {
       "source": "HackerNews",
       "title": "Claude: System Prompts",
-      "points": 573,
+      "points": 723,
       "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "score": 3.11
+      "score": 3.32
     },
     {
       "source": "HackerNews",
-      "title": "Firefox for iOS now has a native adblocker",
-      "points": 567,
-      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-      "score": 3.11
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "points": 682,
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "score": 3.27
+    },
+    {
+      "source": "HackerNews",
+      "title": "A third world engineer responds to “RISC-V: They should have known better”",
+      "points": 577,
+      "url": "https://rvembedded.com/blog_post/12/",
+      "score": 3.12
+    },
+    {
+      "source": "HackerNews",
+      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+      "points": 565,
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "score": 3.1
+    },
+    {
+      "source": "HackerNews",
+      "title": "Incident with Github.com",
+      "points": 534,
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "score": 3.06
     }
   ],
   "count": 32
