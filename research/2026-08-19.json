@@ -4,108 +4,108 @@
     {
       "source": "GitHub",
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
-      "points": 161903,
+      "points": 165950,
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me",
-      "points": 14607,
+      "points": 15042,
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side pan",
-      "points": 4651,
+      "points": 4845,
       "url": "https://github.com/zhu1090093659/dsh-web-ui",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Using the railway network as a flatbed scanner",
-      "points": 412,
-      "url": "https://philo.gay/linecam/",
-      "score": 4.56
+      "title": "GrapheneOS in 2027 available on high-end Motorola phones",
+      "points": 382,
+      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+      "score": 4.48
     },
     {
       "source": "HackerNews",
       "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-      "points": 213,
+      "points": 278,
       "url": "https://github.com/RyanCodrai/turbovec",
-      "score": 3.88
+      "score": 4.13
     },
     {
       "source": "HackerNews",
       "title": "The Amazon tax",
-      "points": 997,
+      "points": 1293,
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "points": 13959,
+      "points": 14959,
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "points": 9164,
+      "points": 9964,
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "yjh051108/dsh-routing-suite - dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the tas",
-      "points": 6101,
+      "points": 6261,
       "url": "https://github.com/yjh051108/dsh-routing-suite",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "LaoFeng-mouse/flyingmouse-format - 飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/",
-      "points": 3765,
+      "points": 3849,
       "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/",
-      "points": 3579,
+      "points": 3628,
       "url": "https://github.com/xiaobright/dsh-anchored-standard",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "Universal health coverage could save $1T and 114k lives a year: study",
-      "points": 760,
-      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-      "score": 3.37
+      "title": "Being ambitious and being a dad",
+      "points": 754,
+      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+      "score": 3.36
     },
     {
       "source": "HackerNews",
-      "title": "Memory prices climb 500% in 12 months",
-      "points": 522,
-      "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-      "score": 3.04
+      "title": "How does IKEA come up with names for its products?",
+      "points": 418,
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "score": 2.86
     },
     {
       "source": "HackerNews",
-      "title": "Cursor launches Origin, GitHub alternative",
-      "points": 502,
-      "url": "https://cursor.com/changelog/origin-code-hosting",
-      "score": 3.01
+      "title": "And then the men with guns tell you to do it anyway",
+      "points": 397,
+      "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+      "score": 2.83
     },
     {
       "source": "HackerNews",
-      "title": "Beware Management Consultants",
-      "points": 466,
-      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-      "score": 2.95
+      "title": "Cerebras CS-4",
+      "points": 395,
+      "url": "https://www.cerebras.ai/cs4",
+      "score": 2.82
     }
   ],
-  "count": 32
+  "count": 31
 }
