@@ -4,108 +4,108 @@
     {
       "source": "GitHub",
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
-      "points": 168800,
+      "points": 172484,
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me",
-      "points": 15393,
+      "points": 15846,
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side pan",
-      "points": 4944,
+      "points": 5128,
       "url": "https://github.com/zhu1090093659/dsh-web-ui",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "points": 793,
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "score": 5.45
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "points": 444,
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "score": 4.65
     },
     {
       "source": "HackerNews",
-      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "points": 348,
-      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "score": 4.37
-    },
-    {
-      "source": "HackerNews",
-      "title": "Air Theremin – A browser theremin you play by waving at your webcam",
-      "points": 258,
-      "url": "https://theremin.bizibah.com/",
-      "score": 4.06
-    },
-    {
-      "source": "HackerNews",
-      "title": "fx :Tiny, open, native coding agent.",
-      "points": 198,
-      "url": "https://fx.sh",
-      "score": 3.81
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "points": 229,
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "score": 3.94
     },
     {
       "source": "GitHub",
       "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "points": 15506,
+      "points": 16333,
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "points": 10165,
+      "points": 10567,
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "yjh051108/dsh-routing-suite - dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the tas",
-      "points": 6342,
+      "points": 6428,
       "url": "https://github.com/yjh051108/dsh-routing-suite",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/",
-      "points": 3640,
+      "points": 3674,
       "url": "https://github.com/xiaobright/dsh-anchored-standard",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "dmmulroy/anti-slop - Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
-      "points": 2812,
+      "points": 3013,
       "url": "https://github.com/dmmulroy/anti-slop",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "OpenRouter is joining Stripe",
-      "points": 700,
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "score": 3.29
+      "title": "DiffusionGemma Technical Report",
+      "points": 53,
+      "url": "https://arxiv.org/abs/2608.00146",
+      "score": 2.91
     },
     {
       "source": "HackerNews",
-      "title": "Remote workers report the highest well-being in study of 7,700 employees",
-      "points": 530,
-      "url": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
-      "score": 3.05
+      "title": "Turns are Better than Radians (2022)",
+      "points": 304,
+      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+      "score": 2.64
     },
     {
       "source": "HackerNews",
-      "title": "Geolocating a random island using geometry and CUDA programming",
-      "points": 424,
-      "url": "https://yassa9.github.io/osint/gralhix-004/",
-      "score": 2.87
+      "title": "Windows brings out the Rorschach test in everyone (2003)",
+      "points": 300,
+      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+      "score": 2.63
+    },
+    {
+      "source": "HackerNews",
+      "title": "Mojo is now open source",
+      "points": 188,
+      "url": "https://www.modular.com/blog/mojo-open-source",
+      "score": 2.35
+    },
+    {
+      "source": "HackerNews",
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "points": 187,
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "score": 2.35
     }
   ],
-  "count": 31
+  "count": 23
 }
