@@ -2,109 +2,109 @@
   "date": "2026-08-21",
   "top": [
     {
-      "source": "HackerNews",
-      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "points": 1162,
-      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-      "score": 5.6
-    },
-    {
-      "source": "HackerNews",
-      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "points": 921,
-      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "score": 5.6
-    },
-    {
       "source": "GitHub",
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
-      "points": 175840,
+      "points": 180017,
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me",
-      "points": 16135,
+      "points": 16463,
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side pan",
-      "points": 5210,
+      "points": 5387,
       "url": "https://github.com/zhu1090093659/dsh-web-ui",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "s1dashu/ip-as-logo-skill - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-      "points": 3206,
+      "points": 3436,
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "points": 531,
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "score": 4.88
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "points": 488,
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "score": 4.77
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "points": 238,
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "score": 3.98
+      "title": "Small, native web tricks worth remembering",
+      "points": 166,
+      "url": "https://htmlcat.net/",
+      "score": 3.66
     },
     {
       "source": "GitHub",
       "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "points": 16710,
+      "points": 17414,
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "points": 10758,
+      "points": 11079,
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "yjh051108/dsh-routing-suite - dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the tas",
-      "points": 6476,
+      "points": 6539,
       "url": "https://github.com/yjh051108/dsh-routing-suite",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/",
-      "points": 3691,
+      "points": 3697,
       "url": "https://github.com/xiaobright/dsh-anchored-standard",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "HTML Can Do That",
-      "points": 622,
-      "url": "https://chrisburnell.com/html-can-do-that/",
-      "score": 3.18
+      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+      "points": 132,
+      "url": "https://encore.dev/blog/firecracker-apple-silicon",
+      "score": 3.48
     },
     {
       "source": "HackerNews",
-      "title": "I like 'em thick: an apology to my English teachers",
-      "points": 608,
-      "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "score": 3.16
+      "title": "Flat Chair by Sara Paculdo",
+      "points": 90,
+      "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
+      "score": 3.21
     },
     {
       "source": "HackerNews",
-      "title": "Malicious Rust crate Arrayref runs a build-time payload",
-      "points": 416,
-      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "score": 2.86
+      "title": "I'm Becoming AI-Blind",
+      "points": 88,
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "score": 3.2
+    },
+    {
+      "source": "HackerNews",
+      "title": "The August 17 outage",
+      "points": 610,
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "score": 3.17
+    },
+    {
+      "source": "HackerNews",
+      "title": "I accidentally logged phone calls to military bases",
+      "points": 71,
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "score": 3.07
     }
   ],
   "count": 32

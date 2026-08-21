@@ -1,33 +1,33 @@
 # Viral Tech Pack · 2026-08-21
 
-**Format:** The Industry Takedown (myth vs truth) · **Source topic:** Show HN Huzzah a novel approach to coding with AI
+**Format:** The Industry Takedown (myth vs truth) · **Source topic:** I'm Becoming AI-Blind
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK - contrarian] Everything you know about Show HN Huzzah a novel approach to coding with AI is wrong. Here is what actually works.
+[HOOK - contrarian] Everything you know about I'm Becoming AI-Blind is wrong. Here is what actually works.
 [MYTH] Most people think it is too late to start.
-[TRUTH] The truth: the window is open exactly because Show HN Huzzah a novel approach to coding with AI is still confusing to most people.
-[WHY] Here is why this matters right now: early movers in Show HN Huzzah a novel approach to coding with AI get 10x the attention for half the effort.
-[PROOF] I have tested this. the fastest-growing accounts right now are all built on Show HN Huzzah a novel approach to coding with AI.
-[CTA] Comment 'EDGE' and I will send you the playbook. Follow so you don't miss the next one.
+[TRUTH] The truth: the window is open exactly because I'm Becoming AI-Blind is still confusing to most people.
+[WHY] Here is why this matters right now: early movers in I'm Becoming AI-Blind get 10x the attention for half the effort.
+[PROOF] I have tested this. the fastest-growing accounts right now are all built on I'm Becoming AI-Blind.
+[CTA] Comment 'SECRET' and I will send you the playbook. Follow so you don't miss the next one.
 
 ## TITLE
-Why Show Hn Huzzah A Novel Approach To Coding With Ai Is Not What You Think
+The I'M Becoming Ai-Blind Myth That's Costing You Money
 
 ## CAPTION
-Most people are 2 years late on Show HN Huzzah a novel approach to coding with AI. The ones who act now win. Comment 'EDGE' and follow.
+Most people are 2 years late on I'm Becoming AI-Blind. The ones who act now win. Comment 'SECRET' and follow.
 
 ## HASHTAGS
-#aitrends #technews #tech #showhnhuzzahanovel
+#technews #technology #tech #imbecomingaiblind
 
 ## POSTING TIPS
 - Reply to EVERY comment in the first hour - it doubles the algorithm push.
+- End every video with the same follow CTA so it becomes a habit for viewers.
 - Keep the first 2 seconds purely the hook - no intro, no logo.
-- Post at evening local time (19:00-21:00) for max initial engagement.
 
 ## THUMBNAIL IDEA
-Big myth crossed out + 'SHOW HN HUZZAH A NOVEL APPROACH TO CODING WITH AI: THE TRUTH' in bold, light background.
+Big myth crossed out + 'I'M BECOMING AI-BLIND: THE TRUTH' in bold, light background.
 
 ---
-**Keyword CTA:** comment 'EDGE' · **Voiceover file:** voiceover_2026-08-21.mp3 · **Captions:** captions_2026-08-21.srt
+**Keyword CTA:** comment 'SECRET' · **Voiceover file:** voiceover_2026-08-21.mp3 · **Captions:** captions_2026-08-21.srt
