@@ -2,109 +2,109 @@
   "date": "2026-08-22",
   "top": [
     {
+      "source": "HackerNews",
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "points": 926,
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "score": 5.6
+    },
+    {
       "source": "GitHub",
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
-      "points": 181889,
+      "points": 184126,
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me",
-      "points": 16660,
+      "points": 16910,
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side pan",
-      "points": 5448,
+      "points": 5556,
       "url": "https://github.com/zhu1090093659/dsh-web-ui",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "s1dashu/ip-as-logo-skill - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-      "points": 3512,
+      "points": 3685,
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "points": 625,
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "score": 5.1
+      "title": "Kobo can run apps now",
+      "points": 611,
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "score": 5.07
     },
     {
       "source": "HackerNews",
       "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-      "points": 471,
+      "points": 608,
       "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "score": 4.73
+      "score": 5.06
     },
     {
       "source": "HackerNews",
-      "title": "Kobo can run apps now",
-      "points": 456,
-      "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 4.69
+      "title": "There's no reason for software to be slow anymore",
+      "points": 548,
+      "url": "https://danluu.com/perf-opt/",
+      "score": 4.92
     },
     {
       "source": "HackerNews",
       "title": "I'm becoming AI-blind",
-      "points": 292,
+      "points": 435,
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "score": 4.18
+      "score": 4.63
     },
     {
       "source": "HackerNews",
       "title": "AI boosted homework scores, then exam scores dropped: study",
-      "points": 253,
+      "points": 344,
       "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-      "score": 4.04
+      "score": 4.36
     },
     {
       "source": "HackerNews",
       "title": "Kagi added a setting for removing paywalled links from search results",
-      "points": 1042,
+      "points": 1188,
       "url": "https://kagi.com/changelog#11296",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "points": 17693,
+      "points": 18171,
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "points": 11214,
+      "points": 11440,
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "yjh051108/dsh-routing-suite - dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the tas",
-      "points": 6569,
+      "points": 6626,
       "url": "https://github.com/yjh051108/dsh-routing-suite",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/",
-      "points": 3697,
+      "points": 3709,
       "url": "https://github.com/xiaobright/dsh-anchored-standard",
       "score": 3.5
-    },
-    {
-      "source": "HackerNews",
-      "title": "There's no reason for software to be slow anymore",
-      "points": 126,
-      "url": "https://danluu.com/perf-opt/",
-      "score": 3.45
     }
   ],
   "count": 32
