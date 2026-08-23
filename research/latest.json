@@ -4,108 +4,108 @@
     {
       "source": "GitHub",
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
-      "points": 185496,
+      "points": 187227,
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me",
-      "points": 17088,
+      "points": 17312,
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side pan",
-      "points": 5613,
+      "title": "zhu1090093659/dsh-web-ui - DeepSeek Harness（DSH）Web GUI 插件与皮肤生态：一切皆插件。任务看板、移动端远程与 SSH 运维构筑开发工作台；皮肤经 WebGL 深度优化，更支持 Wallpaper En",
+      "points": 5718,
       "url": "https://github.com/zhu1090093659/dsh-web-ui",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "s1dashu/ip-as-logo-skill - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-      "points": 3796,
+      "points": 3872,
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
-      "points": 260,
-      "url": "https://munderdiffl.in/",
-      "score": 4.07
+      "title": "Why your local LLM feels dumber than it is",
+      "points": 417,
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "score": 4.58
     },
     {
       "source": "HackerNews",
-      "title": "Why your local LLM feels dumber than it is",
-      "points": 215,
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "score": 3.89
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "points": 188,
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "score": 3.77
+    },
+    {
+      "source": "HackerNews",
+      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
+      "points": 160,
+      "url": "https://atproto.com/blog/atproto-spaces-alpha",
+      "score": 3.63
     },
     {
       "source": "GitHub",
       "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "points": 18434,
+      "points": 18841,
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "points": 11577,
+      "points": 11813,
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "yjh051108/dsh-routing-suite - dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the tas",
-      "points": 6653,
+      "points": 6693,
       "url": "https://github.com/yjh051108/dsh-routing-suite",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/",
-      "points": 3716,
+      "points": 3726,
       "url": "https://github.com/xiaobright/dsh-anchored-standard",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-      "points": 532,
-      "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-      "score": 3.05
-    },
-    {
-      "source": "HackerNews",
-      "title": "Rust Glancer: Rust LSP using 100x less RAM",
-      "points": 406,
-      "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "score": 2.84
-    },
-    {
-      "source": "HackerNews",
-      "title": "Scrap (2006)",
-      "points": 335,
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "score": 2.71
-    },
-    {
-      "source": "HackerNews",
       "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "points": 335,
+      "points": 438,
       "url": "https://quantumi.sh/public/labs.html",
-      "score": 2.71
+      "score": 2.9
     },
     {
       "source": "HackerNews",
       "title": "Hister – A private, full content search index that you control",
-      "points": 263,
+      "points": 423,
       "url": "https://hister.org/",
-      "score": 2.55
+      "score": 2.87
+    },
+    {
+      "source": "HackerNews",
+      "title": "Scrap (2006)",
+      "points": 386,
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "score": 2.81
+    },
+    {
+      "source": "HackerNews",
+      "title": "To become a better writer, read as much as you can",
+      "points": 316,
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "score": 2.67
     }
   ],
-  "count": 31
+  "count": 30
 }

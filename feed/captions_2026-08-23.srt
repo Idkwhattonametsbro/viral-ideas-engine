@@ -1,51 +1,51 @@
 1
-00:00:00,000 --> 00:00:07,270
-[HOOK - financial pain] Most people spend $10,000 testing an open-source project that
+00:00:00,000 --> 00:00:07,250
+[HOOK - financial pain] Most people spend $50,000 testing a free tool you already have
 
 2
-00:00:07,450 --> 00:00:11,120
-does it all to find the one that actually works.
+00:00:07,430 --> 00:00:11,030
+access to to find the one that actually works.
 
 3
-00:00:11,300 --> 00:00:15,040
+00:00:11,210 --> 00:00:14,830
 You can now recreate that success for free.
 
 4
-00:00:15,220 --> 00:00:18,240
+00:00:15,010 --> 00:00:17,990
 Most people do this backwards.
 
 5
-00:00:18,420 --> 00:00:24,370
+00:00:18,170 --> 00:00:23,860
 You just flip the equation: start with something that's already proven, then make it
 
 6
-00:00:24,550 --> 00:00:26,330
+00:00:24,040 --> 00:00:25,820
 yours.
 
 7
-00:00:26,510 --> 00:00:30,130
-Go to an open-source project that does it all.
+00:00:26,000 --> 00:00:29,770
+Go to a free tool you already have access to.
 
 8
-00:00:30,310 --> 00:00:37,100
+00:00:29,950 --> 00:00:36,450
 Find one you like, click it, upload your logo, your product images, your colors.
 
 9
-00:00:37,280 --> 00:00:41,980
+00:00:36,630 --> 00:00:41,140
 It rebuilds the exact same structure that's already converting.
 
 10
-00:00:42,160 --> 00:00:47,660
-You are pointing at a an open-source project that does it all that is already making
+00:00:41,320 --> 00:00:47,100
+You are pointing at a a free tool you already have access to that is already making
 
 11
-00:00:47,840 --> 00:00:53,220
+00:00:47,280 --> 00:00:52,490
 someone else money, and saying: build this, but make it mine.
 
 12
-00:00:53,400 --> 00:00:57,430
+00:00:52,670 --> 00:00:56,530
 Comment 'MOVE' and I will send you the direct link.
 
 13
-00:00:57,610 --> 00:01:02,220
+00:00:56,710 --> 00:01:01,130
 Follow first - the system only sends it to followers.
