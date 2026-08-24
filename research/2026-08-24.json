@@ -4,28 +4,28 @@
     {
       "source": "GitHub",
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
-      "points": 188865,
+      "points": 191266,
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me",
-      "points": 17511,
+      "points": 17786,
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "zhu1090093659/dsh-web-ui - DeepSeek Harness（DSH）Web GUI 插件与皮肤生态：一切皆插件。任务看板、移动端远程与 SSH 运维构筑开发工作台；皮肤经 WebGL 深度优化，更支持 Wallpaper En",
-      "points": 5791,
-      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "title": "zhu1090093659/dsh-web - DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发（dsh-market.com）",
+      "points": 5893,
+      "url": "https://github.com/zhu1090093659/dsh-web",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "s1dashu/ip-as-logo-skill - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-      "points": 3954,
+      "points": 4072,
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
       "score": 5.6
     },
@@ -52,29 +52,29 @@
     },
     {
       "source": "GitHub",
-      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "points": 19143,
-      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "title": "anywhere-labs/dsh-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "points": 19610,
+      "url": "https://github.com/anywhere-labs/dsh-desktop",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "points": 11956,
+      "points": 12211,
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "yjh051108/dsh-routing-suite - dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the tas",
-      "points": 6720,
+      "points": 6752,
       "url": "https://github.com/yjh051108/dsh-routing-suite",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/",
-      "points": 3729,
+      "points": 3744,
       "url": "https://github.com/xiaobright/dsh-anchored-standard",
       "score": 3.5
     },
@@ -107,5 +107,5 @@
       "score": 2.67
     }
   ],
-  "count": 30
+  "count": 22
 }
