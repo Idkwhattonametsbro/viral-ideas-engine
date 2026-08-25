@@ -2,109 +2,109 @@
   "date": "2026-08-25",
   "top": [
     {
+      "source": "HackerNews",
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "points": 944,
+      "url": "https://twitter.com/lemire/status/2091894299289874926",
+      "score": 5.6
+    },
+    {
       "source": "GitHub",
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
-      "points": 192678,
+      "points": 194739,
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "zhu1090093659/dsh-web - DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发",
-      "points": 5957,
+      "points": 6045,
       "url": "https://github.com/zhu1090093659/dsh-web",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "s1dashu/ip-as-logo-skill - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-      "points": 4163,
+      "points": 4262,
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "points": 765,
-      "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "score": 5.4
-    },
-    {
-      "source": "HackerNews",
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "points": 598,
+      "points": 803,
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "score": 5.04
-    },
-    {
-      "source": "HackerNews",
-      "title": "I were 17, I'd learn how to build LLMs from scratch",
-      "points": 525,
-      "url": "https://twitter.com/paulg/status/2091544343589060625",
-      "score": 4.87
-    },
-    {
-      "source": "HackerNews",
-      "title": "IPFS Maintainers Winding Down",
-      "points": 337,
-      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-      "score": 4.34
-    },
-    {
-      "source": "HackerNews",
-      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "points": 311,
-      "url": "https://developers.openai.com/api/docs/pricing",
-      "score": 4.25
+      "score": 5.47
     },
     {
       "source": "HackerNews",
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "points": 290,
+      "points": 564,
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "score": 4.18
+      "score": 4.96
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
-      "points": 185,
-      "url": "https://ssx360.github.io/rack-02/?src=hn",
-      "score": 3.75
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "points": 383,
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "score": 4.48
     },
     {
       "source": "HackerNews",
       "title": "How Europe is killing makers and micro-entrepreneurs",
-      "points": 1111,
+      "points": 1541,
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "anywhere-labs/dsh-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "points": 19813,
+      "points": 20147,
       "url": "https://github.com/anywhere-labs/dsh-desktop",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "points": 12341,
+      "points": 12608,
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "yjh051108/dsh-routing-suite - dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the tas",
-      "points": 6768,
+      "points": 6801,
       "url": "https://github.com/yjh051108/dsh-routing-suite",
       "score": 3.5
     },
     {
       "source": "GitHub",
+      "title": "MengTo/threeui - Open-source ThreeUI Community catalog with live interactive components and complete Community source",
+      "points": 3823,
+      "url": "https://github.com/MengTo/threeui",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
       "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/",
-      "points": 3746,
+      "points": 3750,
       "url": "https://github.com/xiaobright/dsh-anchored-standard",
       "score": 3.5
+    },
+    {
+      "source": "HackerNews",
+      "title": "The entire city of San Francisco as a video game",
+      "points": 557,
+      "url": "https://sf.thijs.gg/",
+      "score": 3.09
+    },
+    {
+      "source": "HackerNews",
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "points": 381,
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "score": 2.8
     }
   ],
   "count": 32
