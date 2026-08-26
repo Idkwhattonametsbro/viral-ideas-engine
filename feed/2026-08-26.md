@@ -1,36 +1,33 @@
 # Viral Tech Pack · 2026-08-26
 
-**Format:** The Vocabulary Reframing · **Source topic:** Apple introduces M6 and M5 Ultra
+**Format:** The Before/After Transformation · **Source topic:** Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK] 5 words to never say in sales.
-[PAIRS - rapid fire]
-Don't say buy, instead say invest - because people people invest in value, not purchases.
-Don't say sign, instead say authorize - authorizing feels like a choice, not a trap.
-Don't say customer, instead say client - clients feel like partners, customers feel like numbers.
-Don't say problem, instead say concern - concerns get solved, problems get blamed.
-Don't say contract, instead say agreement - agreements are mutual, contracts feel one-sided.
-[CLOSE] Your sales does not have to sound like everyone else's. Comment 'START' and I will send you the full list.
-Make sure you follow - it only goes to followers.
+[HOOK] I went from confused and overwhelmed to running it on autopilot using only Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights - and it took a weekend.
+[STEP 1] Step one: pick ONE tool in the Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights space and master it.
+[STEP 2] Step two: systemize the workflow so it runs without you.
+[STEP 3] Step three: document the results and post the process.
+[RESULT] The result: a system that works while you sleep.
+[CTA] Comment 'EDGE' and I will send you the exact system. Follow - it only goes to followers.
 
 ## TITLE
-The Vocabulary That Doubles Your Conversion Rate
+How Z.Ai Confirms Ox Alpha Is A New Glm-Series Model And Will Release Its Weight
 
 ## CAPTION
-Words change how people feel about buying. These 7 swaps work everywhere. Comment 'START' and follow for the full list.
+Systems beat motivation every time. Comment 'EDGE' and follow for the exact system.
 
 ## HASHTAGS
-#aitools #startup #aitrends #appleintroducesm6a
+#startup #technology #aitrends #zaiconfirmsoxalpha
 
 ## POSTING TIPS
-- Same 3-4 keywords in title, spoken line, and on-screen text.
+- Post 4-5 times a week consistently for 4 weeks before judging anything.
 - Reply to EVERY comment in the first hour - it doubles the algorithm push.
-- End every video with the same follow CTA so it becomes a habit for viewers.
+- Keep the first 2 seconds purely the hook - no intro, no logo.
 
 ## THUMBNAIL IDEA
-Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
+Two columns 'BEFORE chaos' vs 'AFTER system' with an arrow between.
 
 ---
-**Keyword CTA:** comment 'START' · **Voiceover file:** voiceover_2026-08-26.mp3 · **Captions:** captions_2026-08-26.srt
+**Keyword CTA:** comment 'EDGE' · **Voiceover file:** voiceover_2026-08-26.mp3 · **Captions:** captions_2026-08-26.srt

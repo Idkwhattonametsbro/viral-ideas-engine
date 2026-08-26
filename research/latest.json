@@ -2,109 +2,109 @@
   "date": "2026-08-26",
   "top": [
     {
-      "source": "HackerNews",
-      "title": "Apple introduces M6 and M5 Ultra",
-      "points": 1020,
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "score": 5.6
-    },
-    {
       "source": "GitHub",
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
-      "points": 195800,
+      "points": 197547,
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "s1dashu/ip-as-logo-skill - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-      "points": 4297,
+      "points": 4366,
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with",
-      "points": 3121,
+      "points": 3143,
       "url": "https://github.com/yetone/cumora",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "points": 376,
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "score": 4.46
-    },
-    {
-      "source": "HackerNews",
-      "title": "Dolly Parton has died",
-      "points": 1320,
-      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "score": 3.5
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "points": 365,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "score": 4.42
     },
     {
       "source": "GitHub",
       "title": "anywhere-labs/dsh-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "points": 20305,
+      "points": 20676,
       "url": "https://github.com/anywhere-labs/dsh-desktop",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "points": 12712,
+      "points": 12908,
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "yjh051108/dsh-routing-suite - dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the tas",
-      "points": 6822,
+      "points": 6848,
       "url": "https://github.com/yjh051108/dsh-routing-suite",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "MengTo/threeui - Open-source ThreeUI Community catalog with live interactive components and complete Community source",
-      "points": 3978,
+      "points": 4136,
       "url": "https://github.com/MengTo/threeui",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/",
-      "points": 3757,
+      "points": 3774,
       "url": "https://github.com/xiaobright/dsh-anchored-standard",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "New Mac Studio with M5 Max and M5 Ultra",
-      "points": 723,
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "score": 3.32
+      "title": "AWS Acquires DuckDB",
+      "points": 625,
+      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+      "score": 3.19
     },
     {
       "source": "HackerNews",
-      "title": "Nitter and XCancel receive cease and desist notices",
-      "points": 716,
-      "url": "https://github.com/zedeus/nitter/issues/1442",
-      "score": 3.31
+      "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+      "points": 359,
+      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "score": 2.75
     },
     {
       "source": "HackerNews",
-      "title": "My Friend Aaron",
-      "points": 482,
-      "url": "https://rorz.io/writing/my-friend-aaron",
-      "score": 2.97
+      "title": "GLM-5.3-Flash",
+      "points": 351,
+      "url": "https://z.ai/blog/glm-5.3-flash",
+      "score": 2.74
     },
     {
       "source": "HackerNews",
-      "title": "New Mac mini, featuring M6 and M5 Pro",
-      "points": 453,
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "score": 2.92
+      "title": "RAG Is Simpler Than You Think",
+      "points": 314,
+      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+      "score": 2.66
+    },
+    {
+      "source": "HackerNews",
+      "title": "Meta reaches $16.68B settlement over social media harms to children",
+      "points": 300,
+      "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
+      "score": 2.63
+    },
+    {
+      "source": "HackerNews",
+      "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
+      "points": 208,
+      "url": "https://www.youtube.com/watch?v=656058JxTM0",
+      "score": 2.41
     }
   ],
   "count": 32
