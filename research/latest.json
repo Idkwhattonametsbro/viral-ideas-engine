@@ -2,110 +2,110 @@
   "date": "2026-08-29",
   "top": [
     {
-      "source": "GitHub",
-      "title": "s1dashu/ip-as-logo-skill - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-      "points": 4532,
-      "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "score": 5.6
-    },
-    {
-      "source": "GitHub",
-      "title": "CopilotKit/OpenBot - Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with eve",
-      "points": 3351,
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "score": 5.6
-    },
-    {
-      "source": "GitHub",
-      "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with",
-      "points": 3236,
-      "url": "https://github.com/yetone/cumora",
-      "score": 5.6
-    },
-    {
-      "source": "GitHub",
-      "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "points": 2624,
-      "url": "https://github.com/wang2122/sprix-sage-router",
-      "score": 5.6
-    },
-    {
       "source": "HackerNews",
       "title": "U.S. sanctions against the A/I Collective",
-      "points": 597,
+      "points": 685,
       "url": "https://www.inventati.org/",
-      "score": 5.04
+      "score": 5.23
     },
     {
       "source": "HackerNews",
-      "title": "The Twelve-Factor App (2025)",
-      "points": 267,
-      "url": "https://12factor.net/",
-      "score": 4.09
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "points": 413,
+      "url": "https://lwn.net/Articles/1091231/",
+      "score": 4.57
     },
     {
       "source": "HackerNews",
       "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "points": 267,
+      "points": 354,
       "url": "https://github.com/Lakr233/vphone-cli",
-      "score": 4.09
+      "score": 4.39
     },
     {
       "source": "HackerNews",
       "title": "I accidentally turned LLM memory into program analysis",
-      "points": 152,
+      "points": 247,
       "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-      "score": 3.59
-    },
-    {
-      "source": "HackerNews",
-      "title": "Verschlimmbesserung: The Word Your Software Updates Need",
-      "points": 137,
-      "url": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
-      "score": 3.51
-    },
-    {
-      "source": "GitHub",
-      "title": "MengTo/threeui - Open-source ThreeUI Community catalog with live interactive components and complete Community source",
-      "points": 4490,
-      "url": "https://github.com/MengTo/threeui",
-      "score": 3.5
-    },
-    {
-      "source": "GitHub",
-      "title": "HEJustinSun/my-girlfriend-jingtian-latex -",
-      "points": 3803,
-      "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
-      "score": 3.5
-    },
-    {
-      "source": "GitHub",
-      "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "points": 3414,
-      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
-      "score": 3.5
-    },
-    {
-      "source": "GitHub",
-      "title": "tobi/walgit -",
-      "points": 2311,
-      "url": "https://github.com/tobi/walgit",
-      "score": 3.5
+      "score": 4.02
     },
     {
       "source": "HackerNews",
       "title": "GUIs should be fully keyboard-driven",
-      "points": 800,
+      "points": 978,
       "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-      "score": 3.42
+      "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "GLM-5.3 is now open-weight",
-      "points": 696,
-      "url": "https://huggingface.co/zai-org/GLM-5.3",
-      "score": 3.29
+      "title": "Inception-style curved map for turn-by-turn directions",
+      "points": 575,
+      "url": "https://www.orbify.eu/demo/",
+      "score": 3.12
+    },
+    {
+      "source": "HackerNews",
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "points": 366,
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "score": 2.77
+    },
+    {
+      "source": "HackerNews",
+      "title": "Iceland votes on whether to restart talks on joining EU",
+      "points": 302,
+      "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "score": 2.64
+    },
+    {
+      "source": "HackerNews",
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "points": 212,
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "score": 2.42
+    },
+    {
+      "source": "HackerNews",
+      "title": "EVE Online moves to Python 3",
+      "points": 195,
+      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+      "score": 2.37
+    },
+    {
+      "source": "HackerNews",
+      "title": "Glacier Mice",
+      "points": 181,
+      "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+      "score": 2.33
+    },
+    {
+      "source": "BingNews",
+      "title": "Nvidia’s AI boom just ran into a new $96B question",
+      "points": 0,
+      "url": "",
+      "score": 2.08
+    },
+    {
+      "source": "BingNews",
+      "title": "AI becomes a central test for Kevin Warsh’s inflation fighting Fed",
+      "points": 0,
+      "url": "",
+      "score": 2.08
+    },
+    {
+      "source": "BingNews",
+      "title": "Nvidia's CFO Just Explained Why the AI Boom Is Eating Its Gross Margin -- and It's a Green Light for Micron",
+      "points": 0,
+      "url": "",
+      "score": 2.08
+    },
+    {
+      "source": "BingNews",
+      "title": "The AI market may be in a bubble, but not the technology itself: Nomura IWM",
+      "points": 0,
+      "url": "",
+      "score": 2.08
     }
   ],
-  "count": 31
+  "count": 24
 }
