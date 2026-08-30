@@ -4,29 +4,29 @@
     {
       "source": "GitHub",
       "title": "s1dashu/ip-as-logo-skill - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-      "points": 4572,
+      "points": 4589,
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
       "score": 5.6
     },
     {
       "source": "GitHub",
+      "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
+      "points": 4505,
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
       "title": "CopilotKit/OpenBot - Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with eve",
-      "points": 3468,
+      "points": 3521,
       "url": "https://github.com/CopilotKit/OpenBot",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with",
-      "points": 3258,
+      "points": 3278,
       "url": "https://github.com/yetone/cumora",
-      "score": 5.6
-    },
-    {
-      "source": "GitHub",
-      "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
-      "points": 3228,
-      "url": "https://github.com/sapientinc/PRAXIST",
       "score": 5.6
     },
     {
@@ -38,74 +38,74 @@
     },
     {
       "source": "HackerNews",
-      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "points": 400,
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "score": 4.53
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "points": 172,
+      "url": "https://arxiv.org/abs/1804.07389",
+      "score": 3.69
     },
     {
       "source": "HackerNews",
-      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "points": 381,
-      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "score": 4.47
-    },
-    {
-      "source": "HackerNews",
-      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-      "points": 291,
-      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-      "score": 4.18
-    },
-    {
-      "source": "HackerNews",
-      "title": "SQLite as a Document Database (2020)",
-      "points": 210,
-      "url": "https://dgl.cx/2020/06/sqlite-json-support",
-      "score": 3.86
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "points": 170,
+      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+      "score": 3.68
     },
     {
       "source": "GitHub",
       "title": "MengTo/threeui - Open-source ThreeUI Community catalog with live interactive components and complete Community source",
-      "points": 4600,
+      "points": 4632,
       "url": "https://github.com/MengTo/threeui",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "HEJustinSun/my-girlfriend-jingtian-latex -",
-      "points": 4065,
+      "points": 4137,
       "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "points": 3442,
+      "points": 3451,
       "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "Tether: iMessage, SMS, etc. on Linux",
-      "points": 453,
-      "url": "https://zackbartel.com/blog/2026/08/tether/",
-      "score": 2.92
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "points": 128,
+      "url": "https://github.com/anthropics/claude-code/issues/66504",
+      "score": 3.46
     },
     {
       "source": "HackerNews",
-      "title": "EVE Online moves to Python 3",
-      "points": 351,
-      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-      "score": 2.74
+      "title": "Creepy Crawlies",
+      "points": 420,
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "score": 2.87
     },
     {
       "source": "HackerNews",
-      "title": "Glacier Mice",
-      "points": 294,
-      "url": "https://en.wikipedia.org/wiki/Glacier_mice",
-      "score": 2.62
+      "title": "Hy4 preview",
+      "points": 365,
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "score": 2.77
+    },
+    {
+      "source": "HackerNews",
+      "title": "Bug Blindness",
+      "points": 355,
+      "url": "https://danluu.com/bug-blind/",
+      "score": 2.75
+    },
+    {
+      "source": "HackerNews",
+      "title": "RISC-V is now officially supported by CPython",
+      "points": 275,
+      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+      "score": 2.58
     }
   ],
-  "count": 24
+  "count": 32
 }
