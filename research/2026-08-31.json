@@ -4,107 +4,107 @@
     {
       "source": "GitHub",
       "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
-      "points": 4815,
+      "points": 5442,
       "url": "https://github.com/sapientinc/PRAXIST",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "s1dashu/ip-as-logo-skill - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-      "points": 4645,
+      "points": 4665,
       "url": "https://github.com/s1dashu/ip-as-logo-skill",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "points": 2791,
+      "points": 2958,
       "url": "https://github.com/wang2122/sprix-sage-router",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "duty1g/x64dbg-mcp-server - x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugg",
-      "points": 1792,
-      "url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "points": 1808,
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Haiku R1/beta6 has been released",
-      "points": 320,
-      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-      "score": 4.28
+      "title": "Playa Phone",
+      "points": 378,
+      "url": "https://playaphone.com/",
+      "score": 4.46
     },
     {
       "source": "HackerNews",
-      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-      "points": 234,
-      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-      "score": 3.96
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "points": 312,
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "score": 4.25
     },
     {
       "source": "HackerNews",
-      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-      "points": 203,
-      "url": "https://arxiv.org/abs/1804.07389",
-      "score": 3.83
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "points": 194,
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "score": 3.79
     },
     {
       "source": "HackerNews",
-      "title": "Understanding ChatGPT Work",
-      "points": 186,
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-      "score": 3.76
-    },
-    {
-      "source": "HackerNews",
-      "title": "It takes 5 cloud services to hear my doorbell",
-      "points": 154,
-      "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
-      "score": 3.6
-    },
-    {
-      "source": "HackerNews",
-      "title": "Creepy Crawlies",
-      "points": 1153,
-      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-      "score": 3.5
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "points": 144,
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "score": 3.55
     },
     {
       "source": "GitHub",
       "title": "MengTo/threeui - Open-source ThreeUI Community catalog with live interactive components and complete Community source",
-      "points": 4724,
+      "points": 4770,
       "url": "https://github.com/MengTo/threeui",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "HEJustinSun/my-girlfriend-jingtian-latex -",
-      "points": 4175,
+      "points": 4191,
       "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "points": 3459,
+      "points": 3462,
       "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "tobi/walgit -",
-      "points": 2350,
+      "points": 2359,
       "url": "https://github.com/tobi/walgit",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "“I just chose words carefully”",
-      "points": 774,
-      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "points": 115,
+      "url": "https://ravynos.com/",
       "score": 3.38
+    },
+    {
+      "source": "HackerNews",
+      "title": "OpenShot 4.0 – Open-source video editor",
+      "points": 482,
+      "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+      "score": 2.97
+    },
+    {
+      "source": "HackerNews",
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "points": 240,
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "score": 2.49
     }
   ],
   "count": 32
