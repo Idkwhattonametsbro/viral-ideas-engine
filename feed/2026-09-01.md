@@ -1,36 +1,33 @@
 # Viral Tech Pack · 2026-09-01
 
-**Format:** The Vocabulary Reframing · **Source topic:** Terence Tao explains 6 essential mathematical concepts video
+**Format:** The Before/After Transformation · **Source topic:** Terence Tao explains 6 essential mathematical concepts video
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK] 5 words to never say in AI copywriting.
-[PAIRS - rapid fire]
-Don't say game-changer, instead say turns things around - because people cliche alerts.
-Don't say leverage, instead say apply - leveraged is AI-slop.
-Don't say in today's world, instead say right now - timeless.
-Don't say delve, instead say dig into - nobody says delve.
-Don't say utilize, instead say use - short words win.
-[CLOSE] Your AI copywriting does not have to sound like everyone else's. Comment 'SECRET' and I will send you the full list.
-Make sure you follow - it only goes to followers.
+[HOOK] I went from confused and overwhelmed to running it on autopilot using only Terence Tao explains 6 essential mathematical concepts video - and it took a weekend.
+[STEP 1] Step one: pick ONE tool in the Terence Tao explains 6 essential mathematical concepts video space and master it.
+[STEP 2] Step two: systemize the workflow so it runs without you.
+[STEP 3] Step three: document the results and post the process.
+[RESULT] The result: a system that works while you sleep.
+[CTA] Comment 'START' and I will send you the exact system. Follow - it only goes to followers.
 
 ## TITLE
-Stop Saying These 7 Words Immediately
+Terence Tao Explains 6 Essential Mathematical Concepts Video Changed Everything 
 
 ## CAPTION
-Words change how people feel about buying. These 7 swaps work everywhere. Comment 'SECRET' and follow for the full list.
+Systems beat motivation every time. Comment 'START' and follow for the exact system.
 
 ## HASHTAGS
-#aitrends #technology #tech #terencetaoexplains
+#aitrends #aiagents #futureofwork #terencetaoexplains
 
 ## POSTING TIPS
-- Pin your own comment with the direct link + a question.
-- Reply to EVERY comment in the first hour - it doubles the algorithm push.
 - Post at evening local time (19:00-21:00) for max initial engagement.
+- Use 3 hashtags max. More looks desperate.
+- Post 4-5 times a week consistently for 4 weeks before judging anything.
 
 ## THUMBNAIL IDEA
-Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
+Two columns 'BEFORE chaos' vs 'AFTER system' with an arrow between.
 
 ---
-**Keyword CTA:** comment 'SECRET' · **Voiceover file:** voiceover_2026-09-01.mp3 · **Captions:** captions_2026-09-01.srt
+**Keyword CTA:** comment 'START' · **Voiceover file:** voiceover_2026-09-01.mp3 · **Captions:** captions_2026-09-01.srt

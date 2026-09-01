@@ -4,107 +4,107 @@
     {
       "source": "GitHub",
       "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
-      "points": 5692,
+      "points": 6020,
       "url": "https://github.com/sapientinc/PRAXIST",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-      "points": 2010,
+      "points": 2115,
       "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "amagine-ai/Amagine3D - Amagine3D: From hardware requirements to editable 3D designs",
-      "points": 1915,
+      "points": 2105,
       "url": "https://github.com/amagine-ai/Amagine3D",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "duty1g/x64dbg-mcp-server - x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugg",
+      "points": 1824,
+      "url": "https://github.com/duty1g/x64dbg-mcp-server",
       "score": 5.6
     },
     {
       "source": "HackerNews",
       "title": "Playa Phone",
-      "points": 608,
+      "points": 716,
       "url": "https://playaphone.com/",
-      "score": 5.06
+      "score": 5.3
+    },
+    {
+      "source": "HackerNews",
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "points": 689,
+      "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+      "score": 5.24
     },
     {
       "source": "HackerNews",
       "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "points": 399,
+      "points": 571,
       "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "score": 4.53
+      "score": 4.98
     },
     {
       "source": "HackerNews",
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "points": 393,
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "score": 4.51
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "points": 368,
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "score": 4.43
     },
     {
       "source": "HackerNews",
-      "title": "Run macOS Software on Linux",
-      "points": 221,
-      "url": "https://www.darlinghq.org/",
-      "score": 3.91
-    },
-    {
-      "source": "HackerNews",
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "points": 204,
-      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-      "score": 3.84
+      "title": "American Airlines mechanic Azriel “Al” Blackman has died, aged 100",
+      "points": 313,
+      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+      "score": 4.26
     },
     {
       "source": "GitHub",
       "title": "MengTo/threeui - Open-source ThreeUI Community catalog with live interactive components and complete Community source",
-      "points": 4837,
+      "points": 4891,
       "url": "https://github.com/MengTo/threeui",
       "score": 3.5
     },
     {
       "source": "GitHub",
-      "title": "HEJustinSun/my-girlfriend-jingtian-latex -",
-      "points": 4205,
-      "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
-      "score": 3.5
-    },
-    {
-      "source": "GitHub",
       "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "points": 3465,
+      "points": 3469,
       "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "yanliudesign/mono-color-skill - One-ink editorial print image skill — warm paper, halftone photography, active negative space, and r",
-      "points": 2400,
+      "points": 2739,
       "url": "https://github.com/yanliudesign/mono-color-skill",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "tobi/walgit -",
-      "points": 2367,
+      "points": 2382,
       "url": "https://github.com/tobi/walgit",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "points": 480,
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "score": 2.97
+      "title": "Fastpotify",
+      "points": 734,
+      "url": "https://fastpotify.rocks/",
+      "score": 3.33
     },
     {
       "source": "HackerNews",
-      "title": "Dwarf Fortress is getting the mother of all magic updates",
-      "points": 400,
-      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
-      "score": 2.83
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "points": 590,
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "score": 3.14
     }
   ],
   "count": 32
