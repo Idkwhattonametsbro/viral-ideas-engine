@@ -2,110 +2,110 @@
   "date": "2026-09-02",
   "top": [
     {
-      "source": "HackerNews",
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "points": 646,
-      "url": "https://danluu.com/zitron/",
-      "score": 5.15
+      "source": "GitHub",
+      "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
+      "points": 6792,
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "points": 2264,
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "duty1g/x64dbg-mcp-server - x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugg",
+      "points": 1843,
+      "url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "crmne/fastpotify - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spoti",
+      "points": 1840,
+      "url": "https://github.com/crmne/fastpotify",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "kacperkapusciak/goldie - ✨ agentic app store previews and screenshots",
+      "points": 1573,
+      "url": "https://github.com/kacperkapusciak/goldie",
+      "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-      "points": 372,
-      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-      "score": 4.45
+      "title": "Mistral now trains on user input by default, except on enterprise tier",
+      "points": 274,
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "score": 4.12
     },
     {
       "source": "HackerNews",
-      "title": "Atlas: A World Model for Spatial Intelligence",
-      "points": 209,
-      "url": "https://www.worldlabs.ai/blog/atlas",
-      "score": 3.86
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "points": 206,
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "score": 3.85
     },
     {
       "source": "HackerNews",
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "points": 1171,
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "title": "Quasar 438B: Europe's Leading AI Model",
+      "points": 143,
+      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "score": 3.54
+    },
+    {
+      "source": "GitHub",
+      "title": "MengTo/threeui - Open-source ThreeUI Community catalog with live interactive components and complete Community source",
+      "points": 4983,
+      "url": "https://github.com/MengTo/threeui",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "points": 3477,
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "tobi/walgit -",
+      "points": 2401,
+      "url": "https://github.com/tobi/walgit",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "Introducing Ad Blocker for Firefox on iOS",
-      "points": 423,
-      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
-      "score": 2.87
+      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+      "points": 128,
+      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+      "score": 3.46
     },
     {
       "source": "HackerNews",
-      "title": "Ambient CSS v3 – Blender meets CSS",
-      "points": 247,
-      "url": "https://ambientcss.vercel.app/",
-      "score": 2.51
+      "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
+      "points": 116,
+      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+      "score": 3.39
     },
     {
       "source": "HackerNews",
-      "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
-      "points": 228,
-      "url": "https://moviescenemap.com/",
-      "score": 2.46
+      "title": "A Note from LWN",
+      "points": 590,
+      "url": "https://lwn.net/Articles/1090585/",
+      "score": 3.14
     },
     {
       "source": "HackerNews",
-      "title": "The creator of Jujutsu has joined ERSC",
-      "points": 223,
-      "url": "https://ersc.io/blog/martin-joins-ersc",
-      "score": 2.45
-    },
-    {
-      "source": "HackerNews",
-      "title": "Ask HN: Who is hiring? (September 2026)",
-      "points": 209,
-      "url": "https://news.ycombinator.com/item?id=49522897",
-      "score": 2.41
-    },
-    {
-      "source": "HackerNews",
-      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-      "points": 199,
-      "url": "https://github.com/carloslfu/slotstream",
-      "score": 2.38
-    },
-    {
-      "source": "HackerNews",
-      "title": "True Rate of Unemployment",
-      "points": 187,
-      "url": "https://www.lisep.org/tru",
-      "score": 2.35
-    },
-    {
-      "source": "HackerNews",
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "points": 173,
-      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "score": 2.31
-    },
-    {
-      "source": "error",
-      "title": "reddit technology failed: HTTP Error 403: Blocked",
-      "points": 0,
-      "url": "",
-      "score": 1.6
-    },
-    {
-      "source": "error",
-      "title": "reddit artificial failed: HTTP Error 403: Blocked",
-      "points": 0,
-      "url": "",
-      "score": 1.6
-    },
-    {
-      "source": "error",
-      "title": "reddit Entrepreneur failed: HTTP Error 403: Blocked",
-      "points": 0,
-      "url": "",
-      "score": 1.6
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "points": 509,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "score": 3.02
     }
   ],
-  "count": 17
+  "count": 32
 }
