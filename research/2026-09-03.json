@@ -4,107 +4,107 @@
     {
       "source": "GitHub",
       "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
-      "points": 6897,
+      "points": 6910,
       "url": "https://github.com/sapientinc/PRAXIST",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "crmne/fastpotify - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spoti",
-      "points": 2429,
+      "points": 2689,
       "url": "https://github.com/crmne/fastpotify",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-      "points": 2308,
+      "points": 2371,
       "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "duty1g/x64dbg-mcp-server - x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugg",
-      "points": 1851,
+      "points": 1855,
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "Nanako0129/sepia - De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plug",
-      "points": 1707,
+      "points": 1847,
       "url": "https://github.com/Nanako0129/sepia",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Can I opt out of my input or output data being used for training?",
-      "points": 428,
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "score": 4.61
+      "title": "The browser's main thread is expensive",
+      "points": 325,
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+      "score": 4.3
     },
     {
       "source": "HackerNews",
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "points": 393,
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "score": 4.51
+      "title": "Nvidia to acquire Hugging Face",
+      "points": 257,
+      "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "score": 4.05
     },
     {
       "source": "HackerNews",
-      "title": "Google avoids a breakup of its ad tech business",
-      "points": 358,
-      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-      "score": 4.4
+      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+      "points": 195,
+      "url": "https://news.ycombinator.com/item?id=49551096",
+      "score": 3.8
     },
     {
       "source": "HackerNews",
-      "title": "Aging brains blend memories together instead of just forgetting them",
-      "points": 263,
-      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
-      "score": 4.08
+      "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+      "points": 168,
+      "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+      "score": 3.67
     },
     {
       "source": "HackerNews",
-      "title": "Fable 5.1 World Modeling",
-      "points": 222,
-      "url": "https://github.com/PhiloLabs/fable51-worlds",
-      "score": 3.91
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "points": 148,
+      "url": "https://ifm.ai/blog/k2/",
+      "score": 3.57
     },
     {
       "source": "HackerNews",
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "points": 981,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "title": "Audacity 4.0",
+      "points": 878,
+      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "MengTo/threeui - Open-source ThreeUI Community catalog with live interactive components and complete Community source",
-      "points": 5024,
+      "points": 5056,
       "url": "https://github.com/MengTo/threeui",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "points": 3477,
+      "points": 3478,
       "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "tobi/walgit -",
-      "points": 2407,
+      "points": 2413,
       "url": "https://github.com/tobi/walgit",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "Muse Spark 1.3",
-      "points": 540,
-      "url": "https://developer.meta.com/ai/models/muse-spark/",
-      "score": 3.06
+      "title": ".name Termination",
+      "points": 715,
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "score": 3.31
     }
   ],
   "count": 32
