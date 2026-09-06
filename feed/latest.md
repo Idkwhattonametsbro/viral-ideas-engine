@@ -1,34 +1,33 @@
 # Viral Tech Pack · 2026-09-06
 
-**Format:** The Autonomous Workforce · **Source topic:** Chrome again exempts Google from user site data settings
+**Format:** The Industry Takedown (myth vs truth) · **Source topic:** De-AI writing skill for any Agent Skills-compatible agent 77 via the Skills CLI, with native plug
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK - urgency] Chrome Again Exempts Google From User Site Data Settings are taking over the internet right now. This is how you get them working for you today.
-[WHO] And the people who figured this out first are already running entire operations without adding a Single Person to their team.
-[RETENTION BRIDGE] Watch till the end because the last thing I show you changes everything.
-[THE THING] It's called the exact system top creators use. The first platform where Chrome Again Exempts Google From User Site Data Settings become real members of your team - with names, with roles, and the ability to work 24 hours a day.
-[RAPID-FIRE] Think creators. Think marketers. Think e-commerce. Think investors. Every single one of them can plug Chrome Again Exempts Google From User Site Data Settings in and watch the busywork disappear.
-[PROOF] Every decision, every brief, every piece of feedback is remembered forever. No re-explaining. No lost ideas. No scattered files.
-[CTA] Comment 'EDGE' and I will send you the direct link. Make sure you follow - the system only sends it to followers.
+[HOOK - contrarian] Everything you know about De-AI writing skill for any Agent Skills-compatible agent 77 via the Skills CLI, with native plug is wrong. Here is what actually works.
+[MYTH] Most people think it is too late to start.
+[TRUTH] The truth: the window is open exactly because De-AI writing skill for any Agent Skills-compatible agent 77 via the Skills CLI, with native plug is still confusing to most people.
+[WHY] Here is why this matters right now: early movers in De-AI writing skill for any Agent Skills-compatible agent 77 via the Skills CLI, with native plug get 10x the attention for half the effort.
+[PROOF] I have tested this. the fastest-growing accounts right now are all built on De-AI writing skill for any Agent Skills-compatible agent 77 via the Skills CLI, with native plug.
+[CTA] Comment 'MOVE' and I will send you the playbook. Follow so you don't miss the next one.
 
 ## TITLE
-This Platform Turns Chrome Again Exempts Google From User Site Data Settings Int
+Everything You Know About De-Ai Writing Skill For Any Agent Skills-Compatible Ag
 
 ## CAPTION
-Chrome Again Exempts Google From User Site Data Settings are moving fast. The people who start now get the unfair advantage. Comment 'EDGE' and follow for the direct link.
+Most people are 2 years late on De-AI writing skill for any Agent Skills-compatible agent 77 via the Skills CLI, with native plug. The ones who act now win. Comment 'MOVE' and follow.
 
 ## HASHTAGS
-#aitools #technology #startup #chromeagainexempts
+#aitools #futureofwork #technews #deaiwritingskillfo
 
 ## POSTING TIPS
 - Post 4-5 times a week consistently for 4 weeks before judging anything.
-- Pin your own comment with the direct link + a question.
+- End every video with the same follow CTA so it becomes a habit for viewers.
 - Keep the first 2 seconds purely the hook - no intro, no logo.
 
 ## THUMBNAIL IDEA
-Clean light UI mockup + big text 'Chrome Again Exempts Google From User Site Data Settings ON YOUR TEAM' with a blue accent, phone in hand.
+Big myth crossed out + 'DE-AI WRITING SKILL FOR ANY AGENT SKILLS-COMPATIBLE AGENT 77 VIA THE SKILLS CLI, WITH NATIVE PLUG: THE TRUTH' in bold, light background.
 
 ---
-**Keyword CTA:** comment 'EDGE' · **Voiceover file:** voiceover_2026-09-06.mp3 · **Captions:** captions_2026-09-06.srt
+**Keyword CTA:** comment 'MOVE' · **Voiceover file:** voiceover_2026-09-06.mp3 · **Captions:** captions_2026-09-06.srt
