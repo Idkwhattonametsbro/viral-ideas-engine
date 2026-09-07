@@ -1,36 +1,32 @@
 # Viral Tech Pack · 2026-09-07
 
-**Format:** The Vocabulary Reframing · **Source topic:** Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spoti
+**Format:** The Ad Creative Remix · **Source topic:** De-Brainrot Vacations
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK] 5 words to never say in sales.
-[PAIRS - rapid fire]
-Don't say sign, instead say authorize - because people authorizing feels like a choice, not a trap.
-Don't say maybe, instead say absolutely - certainty closes, maybe kills.
-Don't say cheap, instead say affordable - affordable feels smart, cheap feels risky.
-Don't say customer, instead say client - clients feel like partners, customers feel like numbers.
-Don't say problem, instead say concern - concerns get solved, problems get blamed.
-[CLOSE] Your sales does not have to sound like everyone else's. Comment 'SECRET' and I will send you the full list.
-Make sure you follow - it only goes to followers.
+[HOOK - financial pain] Most people spend $4,000 testing an open-source project that does it all to find the one that actually works. You can now recreate that success for free.
+[FLIP] Most people do this backwards. You just flip the equation: start with something that's already proven, then make it yours.
+[THE TOOL] Go to an open-source project that does it all. Find one you like, click it, upload your logo, your product images, your colors. It rebuilds the exact same structure that's already converting.
+[VISUAL PROOF] You are pointing at a an open-source project that does it all that is already making someone else money, and saying: build this, but make it mine.
+[CTA] Comment 'SECRET' and I will send you the direct link. Follow first - the system only sends it to followers.
 
 ## TITLE
-7 Words To Never Say In Sales
+Recreate A Winning Ad For Free In 5 Minutes
 
 ## CAPTION
-Words change how people feel about buying. These 7 swaps work everywhere. Comment 'SECRET' and follow for the full list.
+Stop testing from zero. Remix what already converts. Comment 'SECRET' and follow for the direct link.
 
 ## HASHTAGS
-#aiagents #automation #technews #spotifynativeandfa
+#aitools #tech #futureofwork #debrainrotvacation
 
 ## POSTING TIPS
-- Post at evening local time (19:00-21:00) for max initial engagement.
-- Keep the first 2 seconds purely the hook - no intro, no logo.
 - Use 3 hashtags max. More looks desperate.
+- End every video with the same follow CTA so it becomes a habit for viewers.
+- Keep the first 2 seconds purely the hook - no intro, no logo.
 
 ## THUMBNAIL IDEA
-Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
+Before/after mockup of an ad, big text 'REMAKE THIS AD - FREE' with a dollar-sign strike-through.
 
 ---
 **Keyword CTA:** comment 'SECRET' · **Voiceover file:** voiceover_2026-09-07.mp3 · **Captions:** captions_2026-09-07.srt
