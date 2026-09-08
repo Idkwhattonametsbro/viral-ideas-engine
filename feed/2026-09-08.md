@@ -1,32 +1,33 @@
 # Viral Tech Pack · 2026-09-08
 
-**Format:** The Ad Creative Remix · **Source topic:** Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, comme
+**Format:** The Before/After Transformation · **Source topic:** Show HN Copperhead Hardware as Fast as Software
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK - financial pain] Most people spend $4,000 testing the platform everyone is switching to to find the one that actually works. You can now recreate that success for free.
-[FLIP] Most people do this backwards. You just flip the equation: start with something that's already proven, then make it yours.
-[THE TOOL] Go to the platform everyone is switching to. Find one you like, click it, upload your logo, your product images, your colors. It rebuilds the exact same structure that's already converting.
-[VISUAL PROOF] You are pointing at a the platform everyone is switching to that is already making someone else money, and saying: build this, but make it mine.
-[CTA] Comment 'START' and I will send you the direct link. Follow first - the system only sends it to followers.
+[HOOK] I went from confused and overwhelmed to running it on autopilot using only Show HN Copperhead Hardware as Fast as Software - and it took one month.
+[STEP 1] Step one: pick ONE tool in the Show HN Copperhead Hardware as Fast as Software space and master it.
+[STEP 2] Step two: systemize the workflow so it runs without you.
+[STEP 3] Step three: document the results and post the process.
+[RESULT] The result: a system that works while you sleep.
+[CTA] Comment 'START' and I will send you the exact system. Follow - it only goes to followers.
 
 ## TITLE
-Recreate A Winning Ad For Free In 5 Minutes
+I Went From Zero To Automated With Show Hn Copperhead Hardware As Fast As Softwa
 
 ## CAPTION
-Stop testing from zero. Remix what already converts. Comment 'START' and follow for the direct link.
+Systems beat motivation every time. Comment 'START' and follow for the exact system.
 
 ## HASHTAGS
-#aiagents #tech #automation #referenceblueprint
+#aitools #futureofwork #aiagents #showhncopperheadha
 
 ## POSTING TIPS
-- Same 3-4 keywords in title, spoken line, and on-screen text.
-- Reply to EVERY comment in the first hour - it doubles the algorithm push.
-- Post at evening local time (19:00-21:00) for max initial engagement.
+- Use 3 hashtags max. More looks desperate.
+- Pin your own comment with the direct link + a question.
+- Keep the first 2 seconds purely the hook - no intro, no logo.
 
 ## THUMBNAIL IDEA
-Before/after mockup of an ad, big text 'REMAKE THIS AD - FREE' with a dollar-sign strike-through.
+Two columns 'BEFORE chaos' vs 'AFTER system' with an arrow between.
 
 ---
 **Keyword CTA:** comment 'START' · **Voiceover file:** voiceover_2026-09-08.mp3 · **Captions:** captions_2026-09-08.srt

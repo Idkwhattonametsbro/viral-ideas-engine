@@ -4,107 +4,107 @@
     {
       "source": "GitHub",
       "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
-      "points": 6500,
+      "points": 6791,
       "url": "https://github.com/sapientinc/PRAXIST",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-      "points": 4824,
+      "points": 5130,
       "url": "https://github.com/lnkiai/m3e-canvas",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "crmne/fastpotify - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spoti",
-      "points": 3511,
+      "points": 3603,
       "url": "https://github.com/crmne/fastpotify",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "rakanki911/DLSS5-Swapper - DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across",
-      "points": 2823,
-      "url": "https://github.com/rakanki911/DLSS5-Swapper",
-      "score": 5.6
-    },
-    {
-      "source": "GitHub",
       "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-      "points": 2799,
+      "points": 3215,
       "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
       "score": 5.6
     },
     {
       "source": "GitHub",
+      "title": "rakanki911/DLSS5-Swapper - DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across",
+      "points": 2981,
+      "url": "https://github.com/rakanki911/DLSS5-Swapper",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
       "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, comme",
-      "points": 2458,
+      "points": 2515,
       "url": "https://github.com/anthropics/commerce-agents",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "Nanako0129/sepia - De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plug",
-      "points": 2430,
+      "points": 2452,
       "url": "https://github.com/Nanako0129/sepia",
       "score": 5.6
     },
     {
       "source": "HackerNews",
       "title": "Mistral raises €3B",
-      "points": 305,
+      "points": 754,
       "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-      "score": 4.23
+      "score": 5.38
     },
     {
       "source": "HackerNews",
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "points": 202,
-      "url": "https://arxiv.org/abs/2607.24888",
-      "score": 3.83
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "points": 452,
+      "url": "https://weirdgloop.org/blog/google-jail",
+      "score": 4.68
     },
     {
       "source": "HackerNews",
-      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-      "points": 178,
-      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-      "score": 3.72
+      "title": "Google DeepMind Releases AlphaGenome Atlas",
+      "points": 291,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "score": 4.18
+    },
+    {
+      "source": "HackerNews",
+      "title": "Show HN: Copperhead – Hardware as Fast as Software",
+      "points": 156,
+      "url": "https://copperhead.sh/",
+      "score": 3.61
     },
     {
       "source": "GitHub",
       "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exp",
-      "points": 2189,
+      "points": 2410,
       "url": "https://github.com/ashemag/human-atlas",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-      "points": 721,
-      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-      "score": 3.32
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "points": 564,
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "score": 3.1
     },
     {
       "source": "HackerNews",
-      "title": "WeatherNext 3",
-      "points": 313,
-      "url": "https://deepmind.google/science/weathernext/",
-      "score": 2.66
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "points": 406,
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "score": 2.84
     },
     {
       "source": "HackerNews",
-      "title": "Jellyfin 12.0",
-      "points": 310,
-      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-      "score": 2.65
-    },
-    {
-      "source": "HackerNews",
-      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
-      "points": 282,
-      "url": "https://lax-skyline.parcelscope.net/",
-      "score": 2.59
+      "title": "DaVinci Resolve 21.1",
+      "points": 258,
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "score": 2.54
     }
   ],
   "count": 32
