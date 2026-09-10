@@ -1,36 +1,32 @@
 # Viral Tech Pack · 2026-09-10
 
-**Format:** The Vocabulary Reframing · **Source topic:** Desert Ant Labs local, fast models that run on device
+**Format:** The Ad Creative Remix · **Source topic:** ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK] 5 words to never say in sales.
-[PAIRS - rapid fire]
-Don't say cheap, instead say affordable - because people affordable feels smart, cheap feels risky.
-Don't say buy, instead say invest - people invest in value, not purchases.
-Don't say problem, instead say concern - concerns get solved, problems get blamed.
-Don't say sign, instead say authorize - authorizing feels like a choice, not a trap.
-Don't say contract, instead say agreement - agreements are mutual, contracts feel one-sided.
-[CLOSE] Your sales does not have to sound like everyone else's. Comment 'ALPHA' and I will send you the full list.
-Make sure you follow - it only goes to followers.
+[HOOK - financial pain] Most people spend $10,000 testing the platform everyone is switching to to find the one that actually works. You can now recreate that success for free.
+[FLIP] Most people do this backwards. You just flip the equation: start with something that's already proven, then make it yours.
+[THE TOOL] Go to the platform everyone is switching to. Find one you like, click it, upload your logo, your product images, your colors. It rebuilds the exact same structure that's already converting.
+[VISUAL PROOF] You are pointing at a the platform everyone is switching to that is already making someone else money, and saying: build this, but make it mine.
+[CTA] Comment 'SECRET' and I will send you the direct link. Follow first - the system only sends it to followers.
 
 ## TITLE
-7 Words To Never Say In Sales
+Recreate A Winning Ad For Free In 5 Minutes
 
 ## CAPTION
-Words change how people feel about buying. These 7 swaps work everywhere. Comment 'ALPHA' and follow for the full list.
+Stop testing from zero. Remix what already converts. Comment 'SECRET' and follow for the direct link.
 
 ## HASHTAGS
-#tech #futureofwork #technology #desertantlabslocal
+#aitrends #aiagents #technology #chatgptthinkscodex
 
 ## POSTING TIPS
-- Reply to EVERY comment in the first hour - it doubles the algorithm push.
-- Use 3 hashtags max. More looks desperate.
+- Pin your own comment with the direct link + a question.
 - End every video with the same follow CTA so it becomes a habit for viewers.
+- Post at evening local time (19:00-21:00) for max initial engagement.
 
 ## THUMBNAIL IDEA
-Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
+Before/after mockup of an ad, big text 'REMAKE THIS AD - FREE' with a dollar-sign strike-through.
 
 ---
-**Keyword CTA:** comment 'ALPHA' · **Voiceover file:** voiceover_2026-09-10.mp3 · **Captions:** captions_2026-09-10.srt
+**Keyword CTA:** comment 'SECRET' · **Voiceover file:** voiceover_2026-09-10.mp3 · **Captions:** captions_2026-09-10.srt
