@@ -2,109 +2,109 @@
   "date": "2026-09-11",
   "top": [
     {
-      "source": "HackerNews",
-      "title": "iPhone Duo",
-      "points": 1444,
-      "url": "https://www.apple.com/iphone-duo/",
-      "score": 5.6
-    },
-    {
       "source": "GitHub",
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-      "points": 5983,
+      "points": 6105,
       "url": "https://github.com/lnkiai/m3e-canvas",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "rakanki911/DLSS5-Swapper - DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across",
-      "points": 3545,
+      "points": 3644,
       "url": "https://github.com/rakanki911/DLSS5-Swapper",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, comme",
-      "points": 2723,
+      "points": 2737,
       "url": "https://github.com/anthropics/commerce-agents",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Pai",
-      "points": 2318,
+      "points": 2345,
       "url": "https://github.com/Albert-Weasker/niubigeo",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history,",
-      "points": 2074,
+      "points": 2093,
       "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "openai/NavierStokesAndEuler - Lean certificates accompanying Navier-Stokes and Euler results",
-      "points": 1741,
+      "points": 1774,
       "url": "https://github.com/openai/NavierStokesAndEuler",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "points": 789,
-      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "score": 5.44
+      "title": "Claude is only available to people over 18 years",
+      "points": 383,
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "score": 4.48
     },
     {
       "source": "HackerNews",
-      "title": "Rust is tier-1 language at Microsoft",
-      "points": 658,
-      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-      "score": 5.17
+      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+      "points": 234,
+      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "score": 3.96
     },
     {
       "source": "HackerNews",
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "points": 405,
-      "url": "https://cognition.com/blog/swe-2",
-      "score": 4.54
-    },
-    {
-      "source": "HackerNews",
-      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
-      "points": 324,
-      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
-      "score": 4.29
-    },
-    {
-      "source": "HackerNews",
-      "title": "OpenAI Agents API",
-      "points": 239,
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "score": 3.98
-    },
-    {
-      "source": "HackerNews",
-      "title": "Astra for Coding: Why Are We Doing This Again?",
-      "points": 222,
-      "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
-      "score": 3.91
-    },
-    {
-      "source": "HackerNews",
-      "title": "Shopify is moving from React Native back to Swift and Kotlin",
-      "points": 1006,
-      "url": "https://shopify.engineering/back-to-native",
-      "score": 3.5
+      "title": "Measuring the sloppiness of code",
+      "points": 148,
+      "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+      "score": 3.57
     },
     {
       "source": "GitHub",
       "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exp",
-      "points": 3147,
+      "points": 3197,
       "url": "https://github.com/ashemag/human-atlas",
       "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "sdli1995/dlssg_for_sm86 - Here is a dlssg for RTX30 Series GPU",
+      "points": 1730,
+      "url": "https://github.com/sdli1995/dlssg_for_sm86",
+      "score": 3.5
+    },
+    {
+      "source": "HackerNews",
+      "title": "So you want to use OpenRouter?",
+      "points": 556,
+      "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+      "score": 3.09
+    },
+    {
+      "source": "HackerNews",
+      "title": "Houthis 'take control' of key island in global shipping route",
+      "points": 300,
+      "url": "https://www.bbc.com/news/live/cmd683p01eljt",
+      "score": 2.63
+    },
+    {
+      "source": "HackerNews",
+      "title": "Cherenkov Radiation - traveling faster than light",
+      "points": 189,
+      "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "score": 2.36
+    },
+    {
+      "source": "HackerNews",
+      "title": "HuggingFace: Security.txt",
+      "points": 169,
+      "url": "https://huggingface.co/security.txt",
+      "score": 2.3
     }
   ],
   "count": 32

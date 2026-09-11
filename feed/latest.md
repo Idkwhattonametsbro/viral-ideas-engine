@@ -1,33 +1,36 @@
 # Viral Tech Pack · 2026-09-11
 
-**Format:** The Industry Takedown (myth vs truth) · **Source topic:** Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra
+**Format:** The Vocabulary Reframing · **Source topic:** DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK - contrarian] Everything you know about Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra is wrong. Here is what actually works.
-[MYTH] Most people think it is too late to start.
-[TRUTH] The truth: the window is open exactly because Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra is still confusing to most people.
-[WHY] Here is why this matters right now: early movers in Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra get 10x the attention for half the effort.
-[PROOF] I have tested this. the fastest-growing accounts right now are all built on Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra.
-[CTA] Comment 'SYS' and I will send you the playbook. Follow so you don't miss the next one.
+[HOOK] 5 words to never say in AI copywriting.
+[PAIRS - rapid fire]
+Don't say revolutionize, instead say change - because people nobody believes revolution.
+Don't say leverage, instead say apply - leveraged is AI-slop.
+Don't say utilize, instead say use - short words win.
+Don't say delve, instead say dig into - nobody says delve.
+Don't say empower, instead say help - empower is corporate noise.
+[CLOSE] Your AI copywriting does not have to sound like everyone else's. Comment 'MOVE' and I will send you the full list.
+Make sure you follow - it only goes to followers.
 
 ## TITLE
-Everything You Know About Cognition Launches New Swe-2 Model, Rivaling Fable 5.1
+7 Words To Never Say In Sales
 
 ## CAPTION
-Most people are 2 years late on Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra. The ones who act now win. Comment 'SYS' and follow.
+Words change how people feel about buying. These 7 swaps work everywhere. Comment 'MOVE' and follow for the full list.
 
 ## HASHTAGS
-#aiagents #tech #technology #cognitionlaunchesn
+#automation #aitrends #futureofwork #dlss5swapperisapow
 
 ## POSTING TIPS
-- Pin your own comment with the direct link + a question.
+- End every video with the same follow CTA so it becomes a habit for viewers.
+- Same 3-4 keywords in title, spoken line, and on-screen text.
 - Reply to EVERY comment in the first hour - it doubles the algorithm push.
-- Keep the first 2 seconds purely the hook - no intro, no logo.
 
 ## THUMBNAIL IDEA
-Big myth crossed out + 'COGNITION LAUNCHES NEW SWE-2 MODEL, RIVALING FABLE 5.1 AND GPT-ASTRA: THE TRUTH' in bold, light background.
+Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
 
 ---
-**Keyword CTA:** comment 'SYS' · **Voiceover file:** voiceover_2026-09-11.mp3 · **Captions:** captions_2026-09-11.srt
+**Keyword CTA:** comment 'MOVE' · **Voiceover file:** voiceover_2026-09-11.mp3 · **Captions:** captions_2026-09-11.srt
