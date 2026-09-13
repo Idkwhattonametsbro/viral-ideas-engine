@@ -1,36 +1,34 @@
 # Viral Tech Pack · 2026-09-13
 
-**Format:** The Vocabulary Reframing · **Source topic:** Why are AI agents lying, cheating and coordinating?
+**Format:** The Autonomous Workforce · **Source topic:** Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history,
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK] 5 words to never say in AI copywriting.
-[PAIRS - rapid fire]
-Don't say revolutionize, instead say change - because people nobody believes revolution.
-Don't say game-changer, instead say turns things around - cliche alerts.
-Don't say in today's world, instead say right now - timeless.
-Don't say empower, instead say help - empower is corporate noise.
-Don't say delve, instead say dig into - nobody says delve.
-[CLOSE] Your AI copywriting does not have to sound like everyone else's. Comment 'SYS' and I will send you the full list.
-Make sure you follow - it only goes to followers.
+[HOOK - urgency] Local-First Wechat Intelligence System With A Read-Only Cli, Codex Skills, Searchable Chat History, are taking over the internet right now. This is how you get them working for you today.
+[WHO] And the people who figured this out first are already running entire operations without adding a Single Person to their team.
+[RETENTION BRIDGE] Watch till the end because the last thing I show you changes everything.
+[THE THING] It's called the platform everyone is switching to. The first platform where Local-First Wechat Intelligence System With A Read-Only Cli, Codex Skills, Searchable Chat History, become real members of your team - with names, with roles, and the ability to work 24 hours a day.
+[RAPID-FIRE] Think creators. Think marketers. Think e-commerce. Think investors. Every single one of them can plug Local-First Wechat Intelligence System With A Read-Only Cli, Codex Skills, Searchable Chat History, in and watch the busywork disappear.
+[PROOF] Every decision, every brief, every piece of feedback is remembered forever. No re-explaining. No lost ideas. No scattered files.
+[CTA] Comment 'START' and I will send you the direct link. Make sure you follow - the system only sends it to followers.
 
 ## TITLE
-Stop Saying These 7 Words Immediately
+Local-First Wechat Intelligence System With A Read-Only Cli, Codex Skills, Searc
 
 ## CAPTION
-Words change how people feel about buying. These 7 swaps work everywhere. Comment 'SYS' and follow for the full list.
+Local-First Wechat Intelligence System With A Read-Only Cli, Codex Skills, Searchable Chat History, are moving fast. The people who start now get the unfair advantage. Comment 'START' and follow for the direct link.
 
 ## HASHTAGS
-#technews #tech #startup #whyareaiagentslyin
+#automation #tech #productivity #localfirstwechatin
 
 ## POSTING TIPS
-- Keep the first 2 seconds purely the hook - no intro, no logo.
-- End every video with the same follow CTA so it becomes a habit for viewers.
 - Post 4-5 times a week consistently for 4 weeks before judging anything.
+- End every video with the same follow CTA so it becomes a habit for viewers.
+- Post at evening local time (19:00-21:00) for max initial engagement.
 
 ## THUMBNAIL IDEA
-Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
+Clean light UI mockup + big text 'Local-First Wechat Intelligence System With A Read-Only Cli, Codex Skills, Searchable Chat History, ON YOUR TEAM' with a blue accent, phone in hand.
 
 ---
-**Keyword CTA:** comment 'SYS' · **Voiceover file:** voiceover_2026-09-13.mp3 · **Captions:** captions_2026-09-13.srt
+**Keyword CTA:** comment 'START' · **Voiceover file:** voiceover_2026-09-13.mp3 · **Captions:** captions_2026-09-13.srt
