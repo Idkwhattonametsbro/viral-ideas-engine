@@ -1,36 +1,32 @@
 # Viral Tech Pack · 2026-09-16
 
-**Format:** The Vocabulary Reframing · **Source topic:** Introducing System One Models and Jev
+**Format:** The Ad Creative Remix · **Source topic:** The Google Play app review process now regularly takes longer than a week
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK] 5 words to never say in AI copywriting.
-[PAIRS - rapid fire]
-Don't say delve, instead say dig into - because people nobody says delve.
-Don't say leverage, instead say apply - leveraged is AI-slop.
-Don't say game-changer, instead say turns things around - cliche alerts.
-Don't say utilize, instead say use - short words win.
-Don't say empower, instead say help - empower is corporate noise.
-[CLOSE] Your AI copywriting does not have to sound like everyone else's. Comment 'SECRET' and I will send you the full list.
-Make sure you follow - it only goes to followers.
+[HOOK - financial pain] Most people spend $4,000 testing a free tool you already have access to to find the one that actually works. You can now recreate that success for free.
+[FLIP] Most people do this backwards. You just flip the equation: start with something that's already proven, then make it yours.
+[THE TOOL] Go to a free tool you already have access to. Find one you like, click it, upload your logo, your product images, your colors. It rebuilds the exact same structure that's already converting.
+[VISUAL PROOF] You are pointing at a a free tool you already have access to that is already making someone else money, and saying: build this, but make it mine.
+[CTA] Comment 'START' and I will send you the direct link. Follow first - the system only sends it to followers.
 
 ## TITLE
-The Vocabulary That Doubles Your Conversion Rate
+How To Copy A Proven Ad (Legally) And Win
 
 ## CAPTION
-Words change how people feel about buying. These 7 swaps work everywhere. Comment 'SECRET' and follow for the full list.
+Stop testing from zero. Remix what already converts. Comment 'START' and follow for the direct link.
 
 ## HASHTAGS
-#aiagents #productivity #aitrends #introducingsystemo
+#technews #aiagents #tech #thegoogleplayappre
 
 ## POSTING TIPS
-- Same 3-4 keywords in title, spoken line, and on-screen text.
-- Post at evening local time (19:00-21:00) for max initial engagement.
-- Reply to EVERY comment in the first hour - it doubles the algorithm push.
+- Use 3 hashtags max. More looks desperate.
+- End every video with the same follow CTA so it becomes a habit for viewers.
+- Post 4-5 times a week consistently for 4 weeks before judging anything.
 
 ## THUMBNAIL IDEA
-Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
+Before/after mockup of an ad, big text 'REMAKE THIS AD - FREE' with a dollar-sign strike-through.
 
 ---
-**Keyword CTA:** comment 'SECRET' · **Voiceover file:** voiceover_2026-09-16.mp3 · **Captions:** captions_2026-09-16.srt
+**Keyword CTA:** comment 'START' · **Voiceover file:** voiceover_2026-09-16.mp3 · **Captions:** captions_2026-09-16.srt
