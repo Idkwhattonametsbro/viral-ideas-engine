@@ -1,32 +1,36 @@
 # Viral Tech Pack · 2026-09-18
 
-**Format:** The Ad Creative Remix · **Source topic:** CrowdSec Source Code Leak
+**Format:** The Vocabulary Reframing · **Source topic:** Edge0-AIEdge0 -
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK - financial pain] Most people spend $50,000 testing the exact system top creators use to find the one that actually works. You can now recreate that success for free.
-[FLIP] Most people do this backwards. You just flip the equation: start with something that's already proven, then make it yours.
-[THE TOOL] Go to the exact system top creators use. Find one you like, click it, upload your logo, your product images, your colors. It rebuilds the exact same structure that's already converting.
-[VISUAL PROOF] You are pointing at a the exact system top creators use that is already making someone else money, and saying: build this, but make it mine.
-[CTA] Comment 'SYS' and I will send you the direct link. Follow first - the system only sends it to followers.
+[HOOK] 5 words to never say in productivity.
+[PAIRS - rapid fire]
+Don't say work harder, instead say work smarter - because people effort isn't the edge.
+Don't say stay busy, instead say stay focused - busy is a trap.
+Don't say hustle, instead say system - hustle burns out, systems compound.
+Don't say more hours, instead say better blocks - hours don't scale, focus does.
+Don't say try harder, instead say simplify - simpler survives.
+[CLOSE] Your productivity does not have to sound like everyone else's. Comment 'SECRET' and I will send you the full list.
+Make sure you follow - it only goes to followers.
 
 ## TITLE
-How To Copy A Proven Ad (Legally) And Win
+7 Words To Never Say In Sales
 
 ## CAPTION
-Stop testing from zero. Remix what already converts. Comment 'SYS' and follow for the direct link.
+Words change how people feel about buying. These 7 swaps work everywhere. Comment 'SECRET' and follow for the full list.
 
 ## HASHTAGS
-#tech #automation #productivity #crowdsecsourcecode
+#technology #tech #startup #edge0aiedge0
 
 ## POSTING TIPS
-- Post at evening local time (19:00-21:00) for max initial engagement.
-- Use 3 hashtags max. More looks desperate.
-- Post 4-5 times a week consistently for 4 weeks before judging anything.
+- Same 3-4 keywords in title, spoken line, and on-screen text.
+- Reply to EVERY comment in the first hour - it doubles the algorithm push.
+- Pin your own comment with the direct link + a question.
 
 ## THUMBNAIL IDEA
-Before/after mockup of an ad, big text 'REMAKE THIS AD - FREE' with a dollar-sign strike-through.
+Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
 
 ---
-**Keyword CTA:** comment 'SYS' · **Voiceover file:** voiceover_2026-09-18.mp3 · **Captions:** captions_2026-09-18.srt
+**Keyword CTA:** comment 'SECRET' · **Voiceover file:** voiceover_2026-09-18.mp3 · **Captions:** captions_2026-09-18.srt
