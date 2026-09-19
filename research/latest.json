@@ -2,109 +2,109 @@
   "date": "2026-09-19",
   "top": [
     {
+      "source": "HackerNews",
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "points": 1004,
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "score": 5.6
+    },
+    {
       "source": "GitHub",
       "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and resu",
-      "points": 3595,
+      "points": 4023,
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "Edge0-AI/Edge0 -",
-      "points": 1976,
+      "points": 1996,
       "url": "https://github.com/Edge0-AI/Edge0",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "openai/NavierStokesAndEuler - Lean certificates accompanying Navier-Stokes and Euler results",
-      "points": 1952,
+      "points": 1958,
       "url": "https://github.com/openai/NavierStokesAndEuler",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "TheoLeeCJ/SemIf - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-      "points": 1674,
+      "points": 1829,
       "url": "https://github.com/TheoLeeCJ/SemIf",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "points": 788,
-      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "score": 5.44
+      "title": "AI-generated posters don’t have to be horrible",
+      "points": 839,
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "score": 5.54
     },
     {
       "source": "HackerNews",
       "title": "Cloudflare Quick Tunnels",
-      "points": 685,
+      "points": 782,
       "url": "https://try.cloudflare.com/",
-      "score": 5.23
+      "score": 5.43
+    },
+    {
+      "source": "HackerNews",
+      "title": "I Built Non-Autoregressive Decision Models with RL a Year Ago",
+      "points": 644,
+      "url": "https://laya.convaiinnovations.com/",
+      "score": 5.14
     },
     {
       "source": "HackerNews",
       "title": "How to Write with an LLM",
-      "points": 480,
+      "points": 568,
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "score": 4.75
+      "score": 4.97
     },
     {
       "source": "HackerNews",
-      "title": "Inside ZCode: Silently uploading your Git history to the cloud",
-      "points": 293,
-      "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-      "score": 4.19
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "points": 521,
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "score": 4.86
     },
     {
       "source": "HackerNews",
-      "title": "Minimal Phone 2",
-      "points": 261,
-      "url": "https://minimalcompany.com/",
-      "score": 4.07
-    },
-    {
-      "source": "HackerNews",
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "points": 196,
-      "url": "https://cactuscompute.com/needle",
-      "score": 3.8
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "points": 273,
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "score": 4.11
     },
     {
       "source": "GitHub",
       "title": "browser-use/jev-ultrafast - i. am. speed.",
-      "points": 6196,
+      "points": 7734,
       "url": "https://github.com/browser-use/jev-ultrafast",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "eternity4719/HowToLiveBetter - 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
-      "points": 5418,
+      "points": 5883,
       "url": "https://github.com/eternity4719/HowToLiveBetter",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "sdli1995/dlssg_for_sm86 - Here is a dlssg for RTX30 Series GPU",
-      "points": 3458,
+      "points": 3521,
       "url": "https://github.com/sdli1995/dlssg_for_sm86",
       "score": 3.5
     },
     {
       "source": "GitHub",
-      "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an inte",
-      "points": 1673,
-      "url": "https://github.com/EverettFish/holo-card-studio",
+      "title": "robbietilton/Compositor - The Photoshop alternative for Mac",
+      "points": 2012,
+      "url": "https://github.com/robbietilton/Compositor",
       "score": 3.5
-    },
-    {
-      "source": "HackerNews",
-      "title": "Saving another 100TB of RAM",
-      "points": 340,
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "score": 2.72
     }
   ],
   "count": 31
