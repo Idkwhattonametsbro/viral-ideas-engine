@@ -1,34 +1,32 @@
 # Viral Tech Pack · 2026-09-24
 
-**Format:** The Autonomous Workforce · **Source topic:** VSCode's SSH Agent Is Bananas 2025
+**Format:** The Ad Creative Remix · **Source topic:** Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK - urgency] Vscode'S Ssh Agent Is Bananas 2025 are taking over the internet right now. This is how you get them working for you today.
-[WHO] And the people who figured this out first are already running entire operations without adding a Single Person to their team.
-[RETENTION BRIDGE] Watch till the end because the last thing I show you changes everything.
-[THE THING] It's called an open-source project that does it all. The first platform where Vscode'S Ssh Agent Is Bananas 2025 become real members of your team - with names, with roles, and the ability to work 24 hours a day.
-[RAPID-FIRE] Think creators. Think marketers. Think e-commerce. Think investors. Every single one of them can plug Vscode'S Ssh Agent Is Bananas 2025 in and watch the busywork disappear.
-[PROOF] Every decision, every brief, every piece of feedback is remembered forever. No re-explaining. No lost ideas. No scattered files.
-[CTA] Comment 'ALPHA' and I will send you the direct link. Make sure you follow - the system only sends it to followers.
+[HOOK - financial pain] Most people spend $50,000 testing a free tool you already have access to to find the one that actually works. You can now recreate that success for free.
+[FLIP] Most people do this backwards. You just flip the equation: start with something that's already proven, then make it yours.
+[THE TOOL] Go to a free tool you already have access to. Find one you like, click it, upload your logo, your product images, your colors. It rebuilds the exact same structure that's already converting.
+[VISUAL PROOF] You are pointing at a a free tool you already have access to that is already making someone else money, and saying: build this, but make it mine.
+[CTA] Comment 'EDGE' and I will send you the direct link. Follow first - the system only sends it to followers.
 
 ## TITLE
-Vscode'S Ssh Agent Is Bananas 2025: The Unfair Advantage Nobody Is Talking About
+Recreate A Winning Ad For Free In 5 Minutes
 
 ## CAPTION
-Vscode'S Ssh Agent Is Bananas 2025 are moving fast. The people who start now get the unfair advantage. Comment 'ALPHA' and follow for the direct link.
+Stop testing from zero. Remix what already converts. Comment 'EDGE' and follow for the direct link.
 
 ## HASHTAGS
-#aitools #aiagents #futureofwork #vscodessshagentisb
+#technology #tech #automation #zaiscodingagenthar
 
 ## POSTING TIPS
-- Keep the first 2 seconds purely the hook - no intro, no logo.
 - Reply to EVERY comment in the first hour - it doubles the algorithm push.
-- Same 3-4 keywords in title, spoken line, and on-screen text.
+- Pin your own comment with the direct link + a question.
+- Use 3 hashtags max. More looks desperate.
 
 ## THUMBNAIL IDEA
-Clean light UI mockup + big text 'Vscode'S Ssh Agent Is Bananas 2025 ON YOUR TEAM' with a blue accent, phone in hand.
+Before/after mockup of an ad, big text 'REMAKE THIS AD - FREE' with a dollar-sign strike-through.
 
 ---
-**Keyword CTA:** comment 'ALPHA' · **Voiceover file:** voiceover_2026-09-24.mp3 · **Captions:** captions_2026-09-24.srt
+**Keyword CTA:** comment 'EDGE' · **Voiceover file:** voiceover_2026-09-24.mp3 · **Captions:** captions_2026-09-24.srt

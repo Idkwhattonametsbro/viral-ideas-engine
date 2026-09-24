@@ -4,108 +4,108 @@
     {
       "source": "GitHub",
       "title": "browser-use/jev-ultrafast - Fastest and cheapest web agent",
-      "points": 19361,
+      "points": 19715,
       "url": "https://github.com/browser-use/jev-ultrafast",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and resu",
-      "points": 6646,
+      "points": 6700,
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "points": 6628,
+      "points": 6696,
       "url": "https://github.com/zai-org/ZCode",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "jaredpalmer/kev - tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
-      "points": 6381,
+      "title": "jaredpalmer/kev - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
+      "points": 6686,
       "url": "https://github.com/jaredpalmer/kev",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text gener",
-      "points": 6088,
+      "points": 6190,
       "url": "https://github.com/mizorewww/laya-mlx",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Feds Target AI Critics as \"Foreign Agents\"",
-      "points": 281,
-      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-      "score": 4.14
-    },
-    {
-      "source": "HackerNews",
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
-      "points": 215,
-      "url": "https://fly.io/blog/vscode-ssh-wtf/",
-      "score": 3.89
-    },
-    {
-      "source": "HackerNews",
-      "title": "Making Tailscale Faster",
-      "points": 156,
-      "url": "https://tailscale.com/blog/making-tailscale-faster",
-      "score": 3.61
+      "title": "GitHub has not removed malicious imitation software after 3 weeks",
+      "points": 177,
+      "url": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
+      "score": 3.71
     },
     {
       "source": "GitHub",
       "title": "NandhaKishorM/laya - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text",
-      "points": 21549,
+      "points": 22703,
       "url": "https://github.com/NandhaKishorM/laya",
       "score": 3.5
     },
     {
       "source": "GitHub",
-      "title": "jev-chat/jev-chat-jarvis - 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "points": 5502,
+      "title": "jev-chat/jev-chat-jarvis - 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "points": 5977,
       "url": "https://github.com/jev-chat/jev-chat-jarvis",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "robbietilton/Compositor - The Photoshop alternative for Mac",
-      "points": 5313,
+      "points": 5380,
       "url": "https://github.com/robbietilton/Compositor",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "Italian parliament votes for return to nuclear energy",
-      "points": 754,
-      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-      "score": 3.36
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "points": 79,
+      "url": "https://github.com/devdotfast/whiteboard",
+      "score": 3.13
     },
     {
       "source": "HackerNews",
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "points": 628,
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "score": 3.19
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "points": 78,
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "score": 3.12
     },
     {
       "source": "HackerNews",
-      "title": "Fixing the Portobello Police Station Clock",
-      "points": 434,
-      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
-      "score": 2.89
+      "title": "F-Droid 2.0",
+      "points": 494,
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "score": 2.99
     },
     {
       "source": "HackerNews",
-      "title": "Meta VR Glasses",
-      "points": 377,
-      "url": "https://www.meta.com/vr-glasses/",
-      "score": 2.79
+      "title": "Ideas on modernizing the open-source desktop",
+      "points": 352,
+      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "score": 2.74
+    },
+    {
+      "source": "HackerNews",
+      "title": "Two-tier encryption in the UK",
+      "points": 300,
+      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "score": 2.63
+    },
+    {
+      "source": "HackerNews",
+      "title": "Nokia Design Archive (2025)",
+      "points": 186,
+      "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
+      "score": 2.35
     }
   ],
-  "count": 26
+  "count": 32
 }
