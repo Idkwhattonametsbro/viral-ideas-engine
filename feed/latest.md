@@ -1,34 +1,33 @@
 # Viral Tech Pack · 2026-09-30
 
-**Format:** The Autonomous Workforce · **Source topic:** Claude Code plugin that replaces the compaction summary with Jev decisions every tool call and resu
+**Format:** The Before/After Transformation · **Source topic:** Dots Always-on agents
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK - urgency] Claude Code Plugin That Replaces The Compaction Summary With Jev Decisions Every Tool Call And Resu are taking over the internet right now. This is how you get them working for you today.
-[WHO] And the people who figured this out first are already running entire operations without adding a Single Person to their team.
-[RETENTION BRIDGE] Watch till the end because the last thing I show you changes everything.
-[THE THING] It's called a free tool you already have access to. The first platform where Claude Code Plugin That Replaces The Compaction Summary With Jev Decisions Every Tool Call And Resu become real members of your team - with names, with roles, and the ability to work 24 hours a day.
-[RAPID-FIRE] Think creators. Think marketers. Think e-commerce. Think investors. Every single one of them can plug Claude Code Plugin That Replaces The Compaction Summary With Jev Decisions Every Tool Call And Resu in and watch the busywork disappear.
-[PROOF] Every decision, every brief, every piece of feedback is remembered forever. No re-explaining. No lost ideas. No scattered files.
-[CTA] Comment 'MOVE' and I will send you the direct link. Make sure you follow - the system only sends it to followers.
+[HOOK] I went from confused and overwhelmed to running it on autopilot using only Dots Always-on agents - and it took a weekend.
+[STEP 1] Step one: pick ONE tool in the Dots Always-on agents space and master it.
+[STEP 2] Step two: systemize the workflow so it runs without you.
+[STEP 3] Step three: document the results and post the process.
+[RESULT] The result: a system that works while you sleep.
+[CTA] Comment 'TOOL' and I will send you the exact system. Follow - it only goes to followers.
 
 ## TITLE
-This Platform Turns Claude Code Plugin That Replaces The Compaction Summary With
+How Dots Always-On Agents Made My Work Disappear
 
 ## CAPTION
-Claude Code Plugin That Replaces The Compaction Summary With Jev Decisions Every Tool Call And Resu are moving fast. The people who start now get the unfair advantage. Comment 'MOVE' and follow for the direct link.
+Systems beat motivation every time. Comment 'TOOL' and follow for the exact system.
 
 ## HASHTAGS
-#aiagents #aitools #technews #claudecodepluginth
+#automation #aitools #startup #dotsalwaysonagents
 
 ## POSTING TIPS
+- Post 4-5 times a week consistently for 4 weeks before judging anything.
 - End every video with the same follow CTA so it becomes a habit for viewers.
-- Use 3 hashtags max. More looks desperate.
-- Post at evening local time (19:00-21:00) for max initial engagement.
+- Keep the first 2 seconds purely the hook - no intro, no logo.
 
 ## THUMBNAIL IDEA
-Clean light UI mockup + big text 'Claude Code Plugin That Replaces The Compaction Summary With Jev Decisions Every Tool Call And Resu ON YOUR TEAM' with a blue accent, phone in hand.
+Two columns 'BEFORE chaos' vs 'AFTER system' with an arrow between.
 
 ---
-**Keyword CTA:** comment 'MOVE' · **Voiceover file:** voiceover_2026-09-30.mp3 · **Captions:** captions_2026-09-30.srt
+**Keyword CTA:** comment 'TOOL' · **Voiceover file:** voiceover_2026-09-30.mp3 · **Captions:** captions_2026-09-30.srt

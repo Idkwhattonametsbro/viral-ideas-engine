@@ -2,109 +2,109 @@
   "date": "2026-09-30",
   "top": [
     {
-      "source": "HackerNews",
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "points": 936,
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "score": 5.6
-    },
-    {
       "source": "GitHub",
       "title": "jaredpalmer/kev - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
-      "points": 7981,
+      "points": 8047,
       "url": "https://github.com/jaredpalmer/kev",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and resu",
-      "points": 7222,
+      "points": 7247,
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "points": 7219,
+      "points": 7247,
       "url": "https://github.com/zai-org/ZCode",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text gener",
-      "points": 6643,
+      "points": 6654,
       "url": "https://github.com/mizorewww/laya-mlx",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "points": 3764,
+      "points": 4036,
       "url": "https://github.com/KKKKhazix/AIHOT",
       "score": 5.6
     },
     {
       "source": "HackerNews",
       "title": "Dots: Always-on agents",
-      "points": 614,
+      "points": 731,
       "url": "https://openai.com/index/introducing-dots/",
-      "score": 5.08
+      "score": 5.33
     },
     {
       "source": "HackerNews",
-      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-      "points": 229,
-      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-      "score": 3.94
+      "title": "You said no MCP",
+      "points": 527,
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "score": 4.87
+    },
+    {
+      "source": "HackerNews",
+      "title": "I Could've Accessed 17T Microsoft Records",
+      "points": 187,
+      "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+      "score": 3.76
     },
     {
       "source": "GitHub",
       "title": "NandhaKishorM/laya - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text",
-      "points": 28880,
+      "points": 29186,
       "url": "https://github.com/NandhaKishorM/laya",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "jev-chat/jev-chat-jarvis - 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "points": 7158,
+      "points": 7181,
       "url": "https://github.com/jev-chat/jev-chat-jarvis",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "cdyforever/how-to-live-better - 《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线",
-      "points": 5401,
+      "points": 5772,
       "url": "https://github.com/cdyforever/how-to-live-better",
       "score": 3.5
     },
     {
       "source": "HackerNews",
       "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-      "points": 604,
+      "points": 850,
       "url": "https://github.com/ninjahawk/livenerf",
-      "score": 3.16
+      "score": 3.48
     },
     {
       "source": "HackerNews",
-      "title": "America.gov",
-      "points": 552,
-      "url": "https://america.gov/",
-      "score": 3.08
+      "title": "The last time my family was replaced by technology",
+      "points": 115,
+      "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+      "score": 3.38
     },
     {
       "source": "HackerNews",
-      "title": "How Delhi cut electricity loss from 50 to 5 percent",
-      "points": 518,
-      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "score": 3.03
+      "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
+      "points": 113,
+      "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
+      "score": 3.37
     },
     {
       "source": "HackerNews",
-      "title": "PS5 Relapse Exploit",
-      "points": 308,
-      "url": "https://github.com/ntfargo/Relapse-Exploit",
-      "score": 2.65
+      "title": "Vermont replacing power plants with home batteries",
+      "points": 357,
+      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "score": 2.75
     }
   ],
   "count": 32
