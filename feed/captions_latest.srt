@@ -1,99 +1,55 @@
 1
-00:00:00,000 --> 00:00:03,720
-Z.Ai'S Coding Agent Harness.
+00:00:00,000 --> 00:00:05,540
+I went from confused and overwhelmed to running it on autopilot using only Every
 
 2
-00:00:03,900 --> 00:00:07,620
-Powerful, Intelligent, Extensible.
+00:00:05,720 --> 00:00:07,780
+agent's model.
 
 3
-00:00:07,800 --> 00:00:10,970
-are taking over the internet right now.
+00:00:07,960 --> 00:00:10,000
+One place.
 
 4
-00:00:11,150 --> 00:00:14,580
-This is how you get them working for you today.
+00:00:10,180 --> 00:00:15,150
+Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
 5
-00:00:14,760 --> 00:00:21,020
-And the people who figured this out first are already running entire operations without
+00:00:15,330 --> 00:00:17,630
+- and it took one month.
 
 6
-00:00:21,200 --> 00:00:24,370
-adding a Single Person to their team.
+00:00:17,810 --> 00:00:23,090
+[STEP 1] Step one: pick ONE tool in the Every agent's model.
 
 7
-00:00:24,550 --> 00:00:29,610
-Watch till the end because the last thing I show you changes everything.
+00:00:23,270 --> 00:00:25,310
+One place.
 
 8
-00:00:29,790 --> 00:00:33,580
-It's called the platform everyone is switching to.
+00:00:25,490 --> 00:00:30,460
+Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
 9
-00:00:33,760 --> 00:00:38,630
-The first platform where Z.Ai'S Coding Agent Harness.
+00:00:30,640 --> 00:00:33,060
+space and master it.
 
 10
-00:00:38,810 --> 00:00:42,530
-Powerful, Intelligent, Extensible.
+00:00:33,240 --> 00:00:38,980
+[STEP 2] Step two: systemize the workflow so it runs without you.
 
 11
-00:00:42,710 --> 00:00:49,650
-become real members of your team - with names, with roles, and the ability to work 24
+00:00:39,160 --> 00:00:44,800
+[STEP 3] Step three: document the results and post the process.
 
 12
-00:00:49,830 --> 00:00:51,920
-hours a day.
+00:00:44,980 --> 00:00:48,770
+The result: a system that works while you sleep.
 
 13
-00:00:52,100 --> 00:00:54,310
-Think creators.
+00:00:48,950 --> 00:00:52,740
+Comment 'EDGE' and I will send you the exact system.
 
 14
-00:00:54,490 --> 00:00:56,670
-Think marketers.
-
-15
-00:00:56,850 --> 00:00:59,030
-Think e-commerce.
-
-16
-00:00:59,210 --> 00:01:01,440
-Think investors.
-
-17
-00:01:01,620 --> 00:01:07,040
-Every single one of them can plug Z.Ai'S Coding Agent Harness.
-
-18
-00:01:07,220 --> 00:01:10,940
-Powerful, Intelligent, Extensible.
-
-19
-00:01:11,120 --> 00:01:14,410
-in and watch the busywork disappear.
-
-20
-00:01:14,590 --> 00:01:20,250
-Every decision, every brief, every piece of feedback is remembered forever.
-
-21
-00:01:20,430 --> 00:01:22,780
-No re-explaining.
-
-22
-00:01:22,960 --> 00:01:25,410
-No lost ideas.
-
-23
-00:01:25,590 --> 00:01:28,180
-No scattered files.
-
-24
-00:01:28,360 --> 00:01:32,130
-Comment 'START' and I will send you the direct link.
-
-25
-00:01:32,310 --> 00:01:36,870
-Make sure you follow - the system only sends it to followers.
+00:00:52,920 --> 00:00:56,230
+Follow - it only goes to followers.

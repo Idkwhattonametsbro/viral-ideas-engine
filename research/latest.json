@@ -4,108 +4,108 @@
     {
       "source": "GitHub",
       "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "points": 7314,
+      "points": 7331,
       "url": "https://github.com/zai-org/ZCode",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text gener",
-      "points": 6702,
+      "points": 6716,
       "url": "https://github.com/mizorewww/laya-mlx",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "points": 4850,
+      "points": 4951,
       "url": "https://github.com/KKKKhazix/AIHOT",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "yetone/magpie - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "points": 4166,
+      "points": 4263,
       "url": "https://github.com/yetone/magpie",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-      "points": 505,
-      "url": "https://blog.cloudflare.com/clef-decision-models/",
-      "score": 4.82
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "points": 287,
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "score": 4.17
     },
     {
       "source": "HackerNews",
-      "title": "RIP, vector database",
-      "points": 324,
-      "url": "https://turbopuffer.com/blog/rip-vector-database",
-      "score": 4.29
-    },
-    {
-      "source": "HackerNews",
-      "title": "Cloudflare K2: serverless event streams",
-      "points": 238,
-      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
-      "score": 3.98
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "points": 136,
+      "url": "https://stillwet.art/",
+      "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "jev-chat/jev-chat-jarvis - 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "points": 7243,
+      "points": 7257,
       "url": "https://github.com/jev-chat/jev-chat-jarvis",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "Niko1221/Strata - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference",
-      "points": 5200,
+      "points": 6028,
       "url": "https://github.com/Niko1221/Strata",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "newliver666/apk-reverse - Suitable for Android APK reverse engineering analysis",
-      "points": 3146,
+      "points": 3163,
       "url": "https://github.com/newliver666/apk-reverse",
       "score": 3.5
     },
     {
       "source": "GitHub",
-      "title": "Contrastive-LM/CLM -",
-      "points": 2712,
-      "url": "https://github.com/Contrastive-LM/CLM",
+      "title": "Louis-CFM/coucou - A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and kee",
+      "points": 2901,
+      "url": "https://github.com/Louis-CFM/coucou",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "StreetComplete on iOS is now in public beta",
-      "points": 565,
-      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-      "score": 3.1
+      "title": "Sites in ChatGPT",
+      "points": 117,
+      "url": "https://chatgpt.com/features/sites/",
+      "score": 3.39
     },
     {
       "source": "HackerNews",
-      "title": "Pi Durable",
-      "points": 370,
-      "url": "https://earendil.com/posts/pi-durable/",
-      "score": 2.77
+      "title": "Apple Pass Designer",
+      "points": 90,
+      "url": "https://developer.apple.com/pass-designer/",
+      "score": 3.21
     },
     {
       "source": "HackerNews",
-      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-      "points": 366,
-      "url": "https://blog.gitbutler.com/git-3-sha-256",
-      "score": 2.77
+      "title": "Dutch computer museums (2022)",
+      "points": 90,
+      "url": "https://aresluna.org/dutch-computer-museums/",
+      "score": 3.21
     },
     {
       "source": "HackerNews",
-      "title": "Several vulnerabilities have been discovered in the Linux kernel",
-      "points": 293,
-      "url": "https://lwn.net/Articles/1097401/",
-      "score": 2.62
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "points": 70,
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "score": 3.06
+    },
+    {
+      "source": "HackerNews",
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "points": 58,
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "score": 2.95
     }
   ],
-  "count": 31
+  "count": 32
 }
