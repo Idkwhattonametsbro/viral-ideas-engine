@@ -4,107 +4,107 @@
     {
       "source": "GitHub",
       "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "points": 7349,
+      "points": 7370,
       "url": "https://github.com/zai-org/ZCode",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "points": 5035,
+      "points": 5358,
       "url": "https://github.com/KKKKhazix/AIHOT",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "yetone/magpie - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "points": 4344,
+      "points": 4445,
       "url": "https://github.com/yetone/magpie",
       "score": 5.6
     },
     {
       "source": "HackerNews",
       "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-      "points": 617,
+      "points": 753,
       "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-      "score": 5.08
+      "score": 5.37
     },
     {
       "source": "HackerNews",
       "title": "Apple Pass Designer",
-      "points": 410,
+      "points": 527,
       "url": "https://developer.apple.com/pass-designer/",
-      "score": 4.56
-    },
-    {
-      "source": "HackerNews",
-      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-      "points": 270,
-      "url": "https://stillwet.art/",
-      "score": 4.1
-    },
-    {
-      "source": "HackerNews",
-      "title": "Sites in ChatGPT",
-      "points": 263,
-      "url": "https://chatgpt.com/features/sites/",
-      "score": 4.08
-    },
-    {
-      "source": "HackerNews",
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "points": 235,
-      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "score": 3.97
+      "score": 4.87
     },
     {
       "source": "HackerNews",
       "title": "From the creator of Redis; run LLM locally with ds4",
-      "points": 230,
+      "points": 318,
       "url": "https://dwarfstar.sh/",
-      "score": 3.95
+      "score": 4.27
     },
     {
-      "source": "GitHub",
-      "title": "jev-chat/jev-chat-jarvis - 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "points": 7275,
-      "url": "https://github.com/jev-chat/jev-chat-jarvis",
-      "score": 3.5
+      "source": "HackerNews",
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "points": 305,
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "score": 4.23
+    },
+    {
+      "source": "HackerNews",
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "points": 287,
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "score": 4.17
+    },
+    {
+      "source": "HackerNews",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "points": 268,
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "score": 4.1
     },
     {
       "source": "GitHub",
       "title": "Niko1221/Strata - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference",
-      "points": 7156,
+      "points": 8174,
       "url": "https://github.com/Niko1221/Strata",
       "score": 3.5
     },
     {
       "source": "GitHub",
+      "title": "jev-chat/jev-chat-jarvis - 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "points": 7293,
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
       "title": "Louis-CFM/coucou - A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and kee",
-      "points": 3077,
+      "points": 3179,
       "url": "https://github.com/Louis-CFM/coucou",
       "score": 3.5
     },
     {
       "source": "GitHub",
-      "title": "Contrastive-LM/CLM -",
-      "points": 2746,
-      "url": "https://github.com/Contrastive-LM/CLM",
+      "title": "shihabal3amri/DiPlay - Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+      "points": 2962,
+      "url": "https://github.com/shihabal3amri/DiPlay",
       "score": 3.5
     },
     {
       "source": "GitHub",
-      "title": "shihabal3amri/DiPlay - Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
-      "points": 2716,
-      "url": "https://github.com/shihabal3amri/DiPlay",
+      "title": "Contrastive-LM/CLM -",
+      "points": 2755,
+      "url": "https://github.com/Contrastive-LM/CLM",
       "score": 3.5
     },
     {
       "source": "HackerNews",
       "title": "Mike Tomlin spent 12 years building a Minecraft city",
-      "points": 446,
+      "points": 616,
       "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-      "score": 2.91
+      "score": 3.18
     }
   ],
   "count": 32
