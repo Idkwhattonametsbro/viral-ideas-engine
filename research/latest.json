@@ -4,107 +4,107 @@
     {
       "source": "GitHub",
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "points": 5583,
+      "points": 5743,
       "url": "https://github.com/KKKKhazix/AIHOT",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "yetone/magpie - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "points": 4549,
+      "points": 4786,
       "url": "https://github.com/yetone/magpie",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "CopilotKit/OpenDots - Your always-on AI coworkers that move between text, calls, and Slack.",
-      "points": 2814,
+      "points": 3102,
       "url": "https://github.com/CopilotKit/OpenDots",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game",
+      "points": 2965,
+      "url": "https://github.com/rehan-remade/universal-modder",
       "score": 5.6
     },
     {
       "source": "HackerNews",
       "title": "I quit OpenAI because its culture is broken",
-      "points": 218,
+      "points": 410,
       "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-      "score": 3.9
+      "score": 4.56
     },
     {
       "source": "HackerNews",
-      "title": "FTL: A new operating system for clouds",
-      "points": 173,
-      "url": "https://ftl-os.org/",
-      "score": 3.7
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "points": 314,
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "score": 4.26
     },
     {
       "source": "HackerNews",
       "title": "Agents don't need memory, they need documentation",
-      "points": 163,
+      "points": 308,
       "url": "https://liao.gg/blog/agents-dont-need-memory",
-      "score": 3.65
+      "score": 4.24
     },
     {
       "source": "GitHub",
       "title": "Niko1221/Strata - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference",
-      "points": 9046,
+      "points": 10300,
       "url": "https://github.com/Niko1221/Strata",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "jev-chat/jev-chat-jarvis - 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "points": 7312,
+      "points": 7329,
       "url": "https://github.com/jev-chat/jev-chat-jarvis",
       "score": 3.5
     },
     {
       "source": "GitHub",
-      "title": "Louis-CFM/coucou - A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and kee",
-      "points": 3292,
-      "url": "https://github.com/Louis-CFM/coucou",
-      "score": 3.5
-    },
-    {
-      "source": "GitHub",
       "title": "shihabal3amri/DiPlay - Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
-      "points": 3240,
+      "points": 3732,
       "url": "https://github.com/shihabal3amri/DiPlay",
       "score": 3.5
     },
     {
       "source": "GitHub",
-      "title": "Contrastive-LM/CLM -",
-      "points": 2776,
-      "url": "https://github.com/Contrastive-LM/CLM",
+      "title": "Louis-CFM/coucou - A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and kee",
+      "points": 3396,
+      "url": "https://github.com/Louis-CFM/coucou",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "points": 426,
-      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "score": 2.88
-    },
-    {
-      "source": "HackerNews",
       "title": "Tell HN: Bob Cringely has died",
-      "points": 424,
+      "points": 725,
       "url": "https://news.ycombinator.com/item?id=49949438",
-      "score": 2.87
+      "score": 3.32
     },
     {
       "source": "HackerNews",
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "points": 287,
-      "url": "https://notoriousbfg.com/hole-punch/",
-      "score": 2.6
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "points": 564,
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "score": 3.1
     },
     {
       "source": "HackerNews",
       "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "points": 280,
+      "points": 417,
       "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "score": 2.59
+      "score": 2.86
+    },
+    {
+      "source": "HackerNews",
+      "title": "So you think you could be an electrician?",
+      "points": 412,
+      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+      "score": 2.85
     }
   ],
   "count": 32
