@@ -4,108 +4,108 @@
     {
       "source": "GitHub",
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "points": 5888,
+      "points": 5989,
       "url": "https://github.com/KKKKhazix/AIHOT",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "yetone/magpie - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "points": 5003,
+      "points": 5125,
       "url": "https://github.com/yetone/magpie",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game",
-      "points": 3489,
+      "points": 3808,
       "url": "https://github.com/rehan-remade/universal-modder",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "CopilotKit/OpenDots - Your always-on AI coworkers that move between text, calls, and Slack.",
-      "points": 3378,
+      "points": 3647,
       "url": "https://github.com/CopilotKit/OpenDots",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "points": 576,
-      "url": "https://github.com/omlahore/RemoveMacAI",
-      "score": 4.99
+      "title": "Web Search API",
+      "points": 436,
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "score": 4.63
     },
     {
       "source": "HackerNews",
-      "title": "Improper redaction reveals Google Data Center water and electricity usage",
-      "points": 397,
-      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-      "score": 4.52
+      "title": "The technology to eradicate mosquito-borne disease exists",
+      "points": 216,
+      "url": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
+      "score": 3.89
     },
     {
       "source": "HackerNews",
-      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-      "points": 205,
-      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-      "score": 3.84
+      "title": "Beam: Reflection's 501B open-weight model",
+      "points": 192,
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "score": 3.78
     },
     {
       "source": "HackerNews",
-      "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
-      "points": 140,
-      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-      "score": 3.52
+      "title": "Apple and a hacker's future",
+      "points": 174,
+      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "score": 3.7
     },
     {
       "source": "HackerNews",
-      "title": "Tell HN: Bob Cringely has died",
-      "points": 875,
-      "url": "https://news.ycombinator.com/item?id=49949438",
-      "score": 3.5
+      "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+      "points": 165,
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+      "score": 3.66
     },
     {
       "source": "GitHub",
       "title": "Niko1221/Strata - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference",
-      "points": 12292,
+      "points": 13722,
       "url": "https://github.com/Niko1221/Strata",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "shihabal3amri/DiPlay - Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
-      "points": 4311,
+      "points": 4657,
       "url": "https://github.com/shihabal3amri/DiPlay",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "Louis-CFM/coucou - A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and kee",
-      "points": 3569,
+      "points": 3667,
       "url": "https://github.com/Louis-CFM/coucou",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "Contrastive-LM/CLM -",
-      "points": 2835,
+      "points": 2849,
       "url": "https://github.com/Contrastive-LM/CLM",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "points": 809,
-      "url": "https://github.com/Niko1221/Strata",
+      "title": "Type Safe Generic Data Structures in C (2025)",
+      "points": 124,
+      "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
       "score": 3.43
     },
     {
       "source": "HackerNews",
-      "title": "What is going on with ceiling fans",
-      "points": 312,
-      "url": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
-      "score": 2.66
+      "title": "Making a GTK application in Haskell, part 1",
+      "points": 115,
+      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "score": 3.38
     }
   ],
-  "count": 24
+  "count": 32
 }
