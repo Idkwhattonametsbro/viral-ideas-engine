@@ -1,34 +1,32 @@
 # Viral Tech Pack · 2026-10-06
 
-**Format:** The Autonomous Workforce · **Source topic:** A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents Cla
+**Format:** The Ad Creative Remix · **Source topic:** Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK - urgency] A Tiny Friend In Your Mac'S Notch And On Your Iphone That Keeps An Eye On Your Ai Coding Agents Cla are taking over the internet right now. This is how you get them working for you today.
-[WHO] And the people who figured this out first are already running entire operations without adding a Single Person to their team.
-[RETENTION BRIDGE] Watch till the end because the last thing I show you changes everything.
-[THE THING] It's called a free tool you already have access to. The first platform where A Tiny Friend In Your Mac'S Notch And On Your Iphone That Keeps An Eye On Your Ai Coding Agents Cla become real members of your team - with names, with roles, and the ability to work 24 hours a day.
-[RAPID-FIRE] Think creators. Think marketers. Think e-commerce. Think investors. Every single one of them can plug A Tiny Friend In Your Mac'S Notch And On Your Iphone That Keeps An Eye On Your Ai Coding Agents Cla in and watch the busywork disappear.
-[PROOF] Every decision, every brief, every piece of feedback is remembered forever. No re-explaining. No lost ideas. No scattered files.
-[CTA] Comment 'START' and I will send you the direct link. Make sure you follow - the system only sends it to followers.
+[HOOK - financial pain] Most people spend $4,000 testing the platform everyone is switching to to find the one that actually works. You can now recreate that success for free.
+[FLIP] Most people do this backwards. You just flip the equation: start with something that's already proven, then make it yours.
+[THE TOOL] Go to the platform everyone is switching to. Find one you like, click it, upload your logo, your product images, your colors. It rebuilds the exact same structure that's already converting.
+[VISUAL PROOF] You are pointing at a the platform everyone is switching to that is already making someone else money, and saying: build this, but make it mine.
+[CTA] Comment 'MOVE' and I will send you the direct link. Follow first - the system only sends it to followers.
 
 ## TITLE
-This Platform Turns A Tiny Friend In Your Mac'S Notch And On Your Iphone That Ke
+How To Copy A Proven Ad (Legally) And Win
 
 ## CAPTION
-A Tiny Friend In Your Mac'S Notch And On Your Iphone That Keeps An Eye On Your Ai Coding Agents Cla are moving fast. The people who start now get the unfair advantage. Comment 'START' and follow for the direct link.
+Stop testing from zero. Remix what already converts. Comment 'MOVE' and follow for the direct link.
 
 ## HASHTAGS
-#aitools #futureofwork #aitrends #atinyfriendinyourm
+#startup #aitrends #technology #everyagentsmodelon
 
 ## POSTING TIPS
-- Post at evening local time (19:00-21:00) for max initial engagement.
-- End every video with the same follow CTA so it becomes a habit for viewers.
+- Reply to EVERY comment in the first hour - it doubles the algorithm push.
 - Post 4-5 times a week consistently for 4 weeks before judging anything.
+- Keep the first 2 seconds purely the hook - no intro, no logo.
 
 ## THUMBNAIL IDEA
-Clean light UI mockup + big text 'A Tiny Friend In Your Mac'S Notch And On Your Iphone That Keeps An Eye On Your Ai Coding Agents Cla ON YOUR TEAM' with a blue accent, phone in hand.
+Before/after mockup of an ad, big text 'REMAKE THIS AD - FREE' with a dollar-sign strike-through.
 
 ---
-**Keyword CTA:** comment 'START' · **Voiceover file:** voiceover_2026-10-06.mp3 · **Captions:** captions_2026-10-06.srt
+**Keyword CTA:** comment 'MOVE' · **Voiceover file:** voiceover_2026-10-06.mp3 · **Captions:** captions_2026-10-06.srt

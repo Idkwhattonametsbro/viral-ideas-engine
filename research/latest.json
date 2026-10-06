@@ -4,107 +4,107 @@
     {
       "source": "GitHub",
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "points": 6103,
+      "points": 6175,
       "url": "https://github.com/KKKKhazix/AIHOT",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "yetone/magpie - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "points": 5307,
+      "points": 5445,
       "url": "https://github.com/yetone/magpie",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game",
-      "points": 4103,
+      "points": 4493,
       "url": "https://github.com/rehan-remade/universal-modder",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "CopilotKit/OpenDots - Your always-on AI coworkers that move between text, calls, and Slack.",
-      "points": 3785,
+      "points": 3900,
       "url": "https://github.com/CopilotKit/OpenDots",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "Louis-CFM/coucou - A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Cla",
-      "points": 3749,
+      "points": 3819,
       "url": "https://github.com/Louis-CFM/coucou",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Web Search API",
-      "points": 548,
-      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "score": 4.92
-    },
-    {
-      "source": "HackerNews",
       "title": "Beam: Reflection's 501B open-weight model",
-      "points": 456,
+      "points": 526,
       "url": "https://reflection.ai/blog/introducing-beam",
-      "score": 4.69
-    },
-    {
-      "source": "HackerNews",
-      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-      "points": 439,
-      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-      "score": 4.64
-    },
-    {
-      "source": "HackerNews",
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "points": 357,
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "score": 4.4
-    },
-    {
-      "source": "HackerNews",
-      "title": "Apple and a hacker's future",
-      "points": 258,
-      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-      "score": 4.06
-    },
-    {
-      "source": "HackerNews",
-      "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
-      "points": 192,
-      "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
-      "score": 3.78
+      "score": 4.87
     },
     {
       "source": "HackerNews",
       "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "points": 191,
+      "points": 257,
       "url": "https://qlabs.sh/research/dust",
-      "score": 3.78
+      "score": 4.05
+    },
+    {
+      "source": "HackerNews",
+      "title": "Mistral Large 4",
+      "points": 1265,
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "Niko1221/Strata - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference",
-      "points": 14741,
+      "points": 15525,
       "url": "https://github.com/Niko1221/Strata",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "shihabal3amri/DiPlay - Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
-      "points": 5024,
+      "points": 5301,
       "url": "https://github.com/shihabal3amri/DiPlay",
       "score": 3.5
     },
     {
       "source": "GitHub",
-      "title": "Contrastive-LM/CLM -",
-      "points": 2866,
-      "url": "https://github.com/Contrastive-LM/CLM",
+      "title": "storytold/photocraft - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+      "points": 4776,
+      "url": "https://github.com/storytold/photocraft",
       "score": 3.5
+    },
+    {
+      "source": "HackerNews",
+      "title": "Nobel Prize in Physics 2026: Francis Halzen",
+      "points": 444,
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
+      "score": 2.91
+    },
+    {
+      "source": "HackerNews",
+      "title": "Polars 2.0",
+      "points": 357,
+      "url": "https://pola.rs/posts/release-polars-2/",
+      "score": 2.75
+    },
+    {
+      "source": "HackerNews",
+      "title": "Example.com just launched the biggest redesign in decades",
+      "points": 318,
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "score": 2.67
+    },
+    {
+      "source": "HackerNews",
+      "title": "The lamps in my house",
+      "points": 309,
+      "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+      "score": 2.65
     }
   ],
   "count": 32
