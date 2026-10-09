@@ -4,107 +4,107 @@
     {
       "source": "GitHub",
       "title": "openai/math -",
-      "points": 12638,
+      "points": 12979,
       "url": "https://github.com/openai/math",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "points": 6857,
+      "points": 6903,
       "url": "https://github.com/KKKKhazix/AIHOT",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game",
-      "points": 5805,
+      "points": 5977,
       "url": "https://github.com/rehan-remade/universal-modder",
       "score": 5.6
     },
     {
-      "source": "GitHub",
-      "title": "CopilotKit/OpenDots - Your always-on AI coworkers that move between text, calls, and Slack.",
-      "points": 4579,
-      "url": "https://github.com/CopilotKit/OpenDots",
-      "score": 5.6
+      "source": "HackerNews",
+      "title": "Cloudflare acquires Deno",
+      "points": 852,
+      "url": "https://deno.com/blog/cloudflare",
+      "score": 5.56
     },
     {
       "source": "HackerNews",
-      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-      "points": 703,
-      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-      "score": 5.27
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "points": 330,
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "score": 4.31
     },
     {
       "source": "HackerNews",
-      "title": "OpenAI withdraws three mathematical results",
-      "points": 317,
-      "url": "https://twitter.com/danintheory/status/2108065033070789090",
-      "score": 4.27
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "points": 1030,
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-      "points": 185,
-      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-      "score": 3.75
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "points": 900,
+      "url": "https://cactuscompute.com/blog/whistle",
+      "score": 3.5
+    },
+    {
+      "source": "HackerNews",
+      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "points": 871,
+      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+      "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "storytold/photocraft - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
-      "points": 30579,
+      "points": 34100,
       "url": "https://github.com/storytold/photocraft",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "storytold/lightcraft - An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
-      "points": 6640,
+      "points": 7429,
       "url": "https://github.com/storytold/lightcraft",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "storytold/filmcraft - An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
-      "points": 6025,
+      "points": 6812,
       "url": "https://github.com/storytold/filmcraft",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "storytold/pdfcraft - An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
-      "points": 5279,
+      "points": 6079,
       "url": "https://github.com/storytold/pdfcraft",
       "score": 3.5
     },
     {
-      "source": "HackerNews",
-      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "points": 774,
-      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-      "score": 3.38
+      "source": "GitHub",
+      "title": "storytold/vectorcraft - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
+      "points": 4957,
+      "url": "https://github.com/storytold/vectorcraft",
+      "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "Whistle: Speech to Text in 16.9 MB",
-      "points": 771,
-      "url": "https://cactuscompute.com/blog/whistle",
-      "score": 3.38
-    },
-    {
-      "source": "HackerNews",
-      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
-      "points": 650,
-      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
-      "score": 3.22
+      "title": "Sorry, I'm in a meeting",
+      "points": 605,
+      "url": "https://iminafleeting.com/",
+      "score": 3.16
     },
     {
       "source": "HackerNews",
       "title": "Theranos.world",
-      "points": 451,
+      "points": 535,
       "url": "https://www.theranos.world/",
-      "score": 2.92
+      "score": 3.06
     }
   ],
   "count": 31
