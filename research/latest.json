@@ -4,107 +4,107 @@
     {
       "source": "HackerNews",
       "title": "Cloudflare acquires Deno",
-      "points": 1222,
+      "points": 1324,
       "url": "https://deno.com/blog/cloudflare",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "openai/math -",
-      "points": 13393,
+      "points": 13614,
       "url": "https://github.com/openai/math",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "points": 7012,
+      "points": 7064,
       "url": "https://github.com/KKKKhazix/AIHOT",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game",
-      "points": 6153,
+      "points": 6306,
       "url": "https://github.com/rehan-remade/universal-modder",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "points": 372,
-      "url": "https://typesafe.ai/blog/series-ai",
-      "score": 4.45
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "points": 393,
+      "url": "https://carrierexplode.com/",
+      "score": 4.51
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "points": 322,
-      "url": "https://carrierexplode.com/",
-      "score": 4.29
+      "title": "`123456' password used in Danish CPR data breach",
+      "points": 344,
+      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "score": 4.36
+    },
+    {
+      "source": "HackerNews",
+      "title": "Bitwarden Dual License Model",
+      "points": 257,
+      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "score": 4.05
+    },
+    {
+      "source": "HackerNews",
+      "title": "Grieving the Loss of Details",
+      "points": 197,
+      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+      "score": 3.81
+    },
+    {
+      "source": "HackerNews",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "points": 183,
+      "url": "https://github.com/rociiu/talorys",
+      "score": 3.74
+    },
+    {
+      "source": "HackerNews",
+      "title": "Apple/macOS silently removed from official Unix registry",
+      "points": 172,
+      "url": "https://www.opengroup.org//openbrand/register/",
+      "score": 3.69
     },
     {
       "source": "HackerNews",
       "title": "Triple-A Minesweeper",
-      "points": 962,
+      "points": 1281,
       "url": "https://minesweeper.mikelacher.com/",
-      "score": 3.5
-    },
-    {
-      "source": "HackerNews",
-      "title": "Sorry, I'm in a meeting",
-      "points": 898,
-      "url": "https://iminafleeting.com/",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "storytold/photocraft - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
-      "points": 38106,
+      "points": 40885,
       "url": "https://github.com/storytold/photocraft",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "storytold/lightcraft - An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
-      "points": 8233,
+      "points": 8784,
       "url": "https://github.com/storytold/lightcraft",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "storytold/filmcraft - An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
-      "points": 7677,
+      "points": 8341,
       "url": "https://github.com/storytold/filmcraft",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "storytold/pdfcraft - An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
-      "points": 6988,
+      "points": 7669,
       "url": "https://github.com/storytold/pdfcraft",
       "score": 3.5
-    },
-    {
-      "source": "GitHub",
-      "title": "storytold/vectorcraft - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
-      "points": 5549,
-      "url": "https://github.com/storytold/vectorcraft",
-      "score": 3.5
-    },
-    {
-      "source": "HackerNews",
-      "title": "Our $445M Series D",
-      "points": 659,
-      "url": "https://oxide.computer/blog/our-445m-series-d",
-      "score": 3.24
-    },
-    {
-      "source": "HackerNews",
-      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "points": 573,
-      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-      "score": 3.11
     }
   ],
   "count": 24
