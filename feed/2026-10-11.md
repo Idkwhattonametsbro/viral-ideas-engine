@@ -1,32 +1,36 @@
 # Viral Tech Pack · 2026-10-11
 
-**Format:** The Ad Creative Remix · **Source topic:** openaimath -
+**Format:** The Vocabulary Reframing · **Source topic:** Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK - financial pain] Most people spend $4,000 testing the exact system top creators use to find the one that actually works. You can now recreate that success for free.
-[FLIP] Most people do this backwards. You just flip the equation: start with something that's already proven, then make it yours.
-[THE TOOL] Go to the exact system top creators use. Find one you like, click it, upload your logo, your product images, your colors. It rebuilds the exact same structure that's already converting.
-[VISUAL PROOF] You are pointing at a the exact system top creators use that is already making someone else money, and saying: build this, but make it mine.
-[CTA] Comment 'MOVE' and I will send you the direct link. Follow first - the system only sends it to followers.
+[HOOK] 5 words to never say in productivity.
+[PAIRS - rapid fire]
+Don't say multitask, instead say batch - because people batching actually finishes.
+Don't say work harder, instead say work smarter - effort isn't the edge.
+Don't say stay busy, instead say stay focused - busy is a trap.
+Don't say discipline, instead say routine - discipline fades, routine holds.
+Don't say more hours, instead say better blocks - hours don't scale, focus does.
+[CLOSE] Your productivity does not have to sound like everyone else's. Comment 'EDGE' and I will send you the full list.
+Make sure you follow - it only goes to followers.
 
 ## TITLE
-Stop Wasting Money On Ads - Remix What Already Works
+The Vocabulary That Doubles Your Conversion Rate
 
 ## CAPTION
-Stop testing from zero. Remix what already converts. Comment 'MOVE' and follow for the direct link.
+Words change how people feel about buying. These 7 swaps work everywhere. Comment 'EDGE' and follow for the full list.
 
 ## HASHTAGS
-#aiagents #technology #productivity #openaimath
+#startup #technews #tech #pointclaudeatanyga
 
 ## POSTING TIPS
-- Same 3-4 keywords in title, spoken line, and on-screen text.
 - Reply to EVERY comment in the first hour - it doubles the algorithm push.
-- Use 3 hashtags max. More looks desperate.
+- End every video with the same follow CTA so it becomes a habit for viewers.
+- Post 4-5 times a week consistently for 4 weeks before judging anything.
 
 ## THUMBNAIL IDEA
-Before/after mockup of an ad, big text 'REMAKE THIS AD - FREE' with a dollar-sign strike-through.
+Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
 
 ---
-**Keyword CTA:** comment 'MOVE' · **Voiceover file:** voiceover_2026-10-11.mp3 · **Captions:** captions_2026-10-11.srt
+**Keyword CTA:** comment 'EDGE' · **Voiceover file:** voiceover_2026-10-11.mp3 · **Captions:** captions_2026-10-11.srt
