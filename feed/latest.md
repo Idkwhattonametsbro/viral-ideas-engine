@@ -1,33 +1,32 @@
-# Viral Tech Pack · 2026-10-10
+# Viral Tech Pack · 2026-10-11
 
-**Format:** The Before/After Transformation · **Source topic:** Talorys A self-hosted personal AI agent on Cloudflare's free tier
+**Format:** The Ad Creative Remix · **Source topic:** openaimath -
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK] I went from confused and overwhelmed to running it on autopilot using only Talorys A self-hosted personal AI agent on Cloudflare's free tier - and it took one month.
-[STEP 1] Step one: pick ONE tool in the Talorys A self-hosted personal AI agent on Cloudflare's free tier space and master it.
-[STEP 2] Step two: systemize the workflow so it runs without you.
-[STEP 3] Step three: document the results and post the process.
-[RESULT] The result: a system that works while you sleep.
-[CTA] Comment 'TOOL' and I will send you the exact system. Follow - it only goes to followers.
+[HOOK - financial pain] Most people spend $4,000 testing the exact system top creators use to find the one that actually works. You can now recreate that success for free.
+[FLIP] Most people do this backwards. You just flip the equation: start with something that's already proven, then make it yours.
+[THE TOOL] Go to the exact system top creators use. Find one you like, click it, upload your logo, your product images, your colors. It rebuilds the exact same structure that's already converting.
+[VISUAL PROOF] You are pointing at a the exact system top creators use that is already making someone else money, and saying: build this, but make it mine.
+[CTA] Comment 'MOVE' and I will send you the direct link. Follow first - the system only sends it to followers.
 
 ## TITLE
-How Talorys A Self-Hosted Personal Ai Agent On Cloudflare'S Free Tier Made My Wo
+Stop Wasting Money On Ads - Remix What Already Works
 
 ## CAPTION
-Systems beat motivation every time. Comment 'TOOL' and follow for the exact system.
+Stop testing from zero. Remix what already converts. Comment 'MOVE' and follow for the direct link.
 
 ## HASHTAGS
-#tech #futureofwork #aitrends #talorysaselfhosted
+#aiagents #technology #productivity #openaimath
 
 ## POSTING TIPS
+- Same 3-4 keywords in title, spoken line, and on-screen text.
 - Reply to EVERY comment in the first hour - it doubles the algorithm push.
-- Keep the first 2 seconds purely the hook - no intro, no logo.
-- Post 4-5 times a week consistently for 4 weeks before judging anything.
+- Use 3 hashtags max. More looks desperate.
 
 ## THUMBNAIL IDEA
-Two columns 'BEFORE chaos' vs 'AFTER system' with an arrow between.
+Before/after mockup of an ad, big text 'REMAKE THIS AD - FREE' with a dollar-sign strike-through.
 
 ---
-**Keyword CTA:** comment 'TOOL' · **Voiceover file:** voiceover_2026-10-10.mp3 · **Captions:** captions_2026-10-10.srt
+**Keyword CTA:** comment 'MOVE' · **Voiceover file:** voiceover_2026-10-11.mp3 · **Captions:** captions_2026-10-11.srt

@@ -1,111 +1,111 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "top": [
-    {
-      "source": "HackerNews",
-      "title": "Cloudflare acquires Deno",
-      "points": 1324,
-      "url": "https://deno.com/blog/cloudflare",
-      "score": 5.6
-    },
     {
       "source": "GitHub",
       "title": "openai/math -",
-      "points": 13614,
+      "points": 13845,
       "url": "https://github.com/openai/math",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "points": 7064,
+      "points": 7116,
       "url": "https://github.com/KKKKhazix/AIHOT",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game",
-      "points": 6306,
+      "points": 6487,
       "url": "https://github.com/rehan-remade/universal-modder",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "points": 393,
-      "url": "https://carrierexplode.com/",
-      "score": 4.51
-    },
-    {
-      "source": "HackerNews",
-      "title": "`123456' password used in Danish CPR data breach",
-      "points": 344,
-      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-      "score": 4.36
-    },
-    {
-      "source": "HackerNews",
-      "title": "Bitwarden Dual License Model",
-      "points": 257,
-      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-      "score": 4.05
-    },
-    {
-      "source": "HackerNews",
-      "title": "Grieving the Loss of Details",
-      "points": 197,
+      "title": "Grieving the loss of details",
+      "points": 444,
       "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-      "score": 3.81
+      "score": 4.65
+    },
+    {
+      "source": "HackerNews",
+      "title": "The Lightbulb Computer",
+      "points": 412,
+      "url": "https://lightbulbcomputer.com/",
+      "score": 4.56
+    },
+    {
+      "source": "HackerNews",
+      "title": "Build your own decision model",
+      "points": 301,
+      "url": "https://nishtahir.com/build-your-own-decision-model/",
+      "score": 4.21
     },
     {
       "source": "HackerNews",
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "points": 183,
+      "points": 294,
       "url": "https://github.com/rociiu/talorys",
-      "score": 3.74
+      "score": 4.19
     },
     {
       "source": "HackerNews",
-      "title": "Apple/macOS silently removed from official Unix registry",
-      "points": 172,
-      "url": "https://www.opengroup.org//openbrand/register/",
-      "score": 3.69
+      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+      "points": 191,
+      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "score": 3.78
     },
     {
       "source": "HackerNews",
-      "title": "Triple-A Minesweeper",
-      "points": 1281,
-      "url": "https://minesweeper.mikelacher.com/",
-      "score": 3.5
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "points": 184,
+      "url": "https://status.yandex.cloud/en/incidents/2136",
+      "score": 3.75
     },
     {
       "source": "GitHub",
       "title": "storytold/photocraft - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
-      "points": 40885,
+      "points": 44072,
       "url": "https://github.com/storytold/photocraft",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "storytold/lightcraft - An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
-      "points": 8784,
+      "points": 9406,
       "url": "https://github.com/storytold/lightcraft",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "storytold/filmcraft - An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
-      "points": 8341,
+      "points": 9107,
       "url": "https://github.com/storytold/filmcraft",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "storytold/pdfcraft - An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
-      "points": 7669,
+      "points": 8492,
       "url": "https://github.com/storytold/pdfcraft",
       "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "storytold/vectorcraft - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
+      "points": 6491,
+      "url": "https://github.com/storytold/vectorcraft",
+      "score": 3.5
+    },
+    {
+      "source": "HackerNews",
+      "title": "2D Vehicles",
+      "points": 470,
+      "url": "https://patkerr.co.uk/2d-vehicles/",
+      "score": 2.95
     }
   ],
-  "count": 24
+  "count": 32
 }
