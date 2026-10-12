@@ -1,36 +1,33 @@
-# Viral Tech Pack · 2026-10-11
+# Viral Tech Pack · 2026-10-12
 
-**Format:** The Vocabulary Reframing · **Source topic:** Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game
+**Format:** The Industry Takedown (myth vs truth) · **Source topic:** An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK] 5 words to never say in productivity.
-[PAIRS - rapid fire]
-Don't say multitask, instead say batch - because people batching actually finishes.
-Don't say work harder, instead say work smarter - effort isn't the edge.
-Don't say stay busy, instead say stay focused - busy is a trap.
-Don't say discipline, instead say routine - discipline fades, routine holds.
-Don't say more hours, instead say better blocks - hours don't scale, focus does.
-[CLOSE] Your productivity does not have to sound like everyone else's. Comment 'EDGE' and I will send you the full list.
-Make sure you follow - it only goes to followers.
+[HOOK - contrarian] Everything you know about An open-source, clean-room reimplementation of Microsoft Word in pure Rust is wrong. Here is what actually works.
+[MYTH] Most people think it is too late to start.
+[TRUTH] The truth: the window is open exactly because An open-source, clean-room reimplementation of Microsoft Word in pure Rust is still confusing to most people.
+[WHY] Here is why this matters right now: early movers in An open-source, clean-room reimplementation of Microsoft Word in pure Rust get 10x the attention for half the effort.
+[PROOF] I have tested this. the fastest-growing accounts right now are all built on An open-source, clean-room reimplementation of Microsoft Word in pure Rust.
+[CTA] Comment 'EDGE' and I will send you the playbook. Follow so you don't miss the next one.
 
 ## TITLE
-The Vocabulary That Doubles Your Conversion Rate
+Why An Open-Source, Clean-Room Reimplementation Of Microsoft Word In Pure Rust I
 
 ## CAPTION
-Words change how people feel about buying. These 7 swaps work everywhere. Comment 'EDGE' and follow for the full list.
+Most people are 2 years late on An open-source, clean-room reimplementation of Microsoft Word in pure Rust. The ones who act now win. Comment 'EDGE' and follow.
 
 ## HASHTAGS
-#startup #technews #tech #pointclaudeatanyga
+#technology #aiagents #aitools #anopensourcecleanr
 
 ## POSTING TIPS
-- Reply to EVERY comment in the first hour - it doubles the algorithm push.
+- Keep the first 2 seconds purely the hook - no intro, no logo.
 - End every video with the same follow CTA so it becomes a habit for viewers.
 - Post 4-5 times a week consistently for 4 weeks before judging anything.
 
 ## THUMBNAIL IDEA
-Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
+Big myth crossed out + 'AN OPEN-SOURCE, CLEAN-ROOM REIMPLEMENTATION OF MICROSOFT WORD IN PURE RUST: THE TRUTH' in bold, light background.
 
 ---
-**Keyword CTA:** comment 'EDGE' · **Voiceover file:** voiceover_2026-10-11.mp3 · **Captions:** captions_2026-10-11.srt
+**Keyword CTA:** comment 'EDGE' · **Voiceover file:** voiceover_2026-10-12.mp3 · **Captions:** captions_2026-10-12.srt
