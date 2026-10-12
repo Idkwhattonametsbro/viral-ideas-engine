@@ -1,33 +1,36 @@
 # Viral Tech Pack · 2026-10-12
 
-**Format:** The Industry Takedown (myth vs truth) · **Source topic:** An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+**Format:** The Vocabulary Reframing · **Source topic:** Codex CLI installs a persistent, self-updating background daemon by default
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK - contrarian] Everything you know about An open-source, clean-room reimplementation of Microsoft Word in pure Rust is wrong. Here is what actually works.
-[MYTH] Most people think it is too late to start.
-[TRUTH] The truth: the window is open exactly because An open-source, clean-room reimplementation of Microsoft Word in pure Rust is still confusing to most people.
-[WHY] Here is why this matters right now: early movers in An open-source, clean-room reimplementation of Microsoft Word in pure Rust get 10x the attention for half the effort.
-[PROOF] I have tested this. the fastest-growing accounts right now are all built on An open-source, clean-room reimplementation of Microsoft Word in pure Rust.
-[CTA] Comment 'EDGE' and I will send you the playbook. Follow so you don't miss the next one.
+[HOOK] 5 words to never say in AI copywriting.
+[PAIRS - rapid fire]
+Don't say delve, instead say dig into - because people nobody says delve.
+Don't say leverage, instead say apply - leveraged is AI-slop.
+Don't say revolutionize, instead say change - nobody believes revolution.
+Don't say in today's world, instead say right now - timeless.
+Don't say game-changer, instead say turns things around - cliche alerts.
+[CLOSE] Your AI copywriting does not have to sound like everyone else's. Comment 'ALPHA' and I will send you the full list.
+Make sure you follow - it only goes to followers.
 
 ## TITLE
-Why An Open-Source, Clean-Room Reimplementation Of Microsoft Word In Pure Rust I
+7 Words To Never Say In Sales
 
 ## CAPTION
-Most people are 2 years late on An open-source, clean-room reimplementation of Microsoft Word in pure Rust. The ones who act now win. Comment 'EDGE' and follow.
+Words change how people feel about buying. These 7 swaps work everywhere. Comment 'ALPHA' and follow for the full list.
 
 ## HASHTAGS
-#technology #aiagents #aitools #anopensourcecleanr
+#startup #futureofwork #technews #codexcliinstallsap
 
 ## POSTING TIPS
-- Keep the first 2 seconds purely the hook - no intro, no logo.
-- End every video with the same follow CTA so it becomes a habit for viewers.
-- Post 4-5 times a week consistently for 4 weeks before judging anything.
+- Use 3 hashtags max. More looks desperate.
+- Same 3-4 keywords in title, spoken line, and on-screen text.
+- Pin your own comment with the direct link + a question.
 
 ## THUMBNAIL IDEA
-Big myth crossed out + 'AN OPEN-SOURCE, CLEAN-ROOM REIMPLEMENTATION OF MICROSOFT WORD IN PURE RUST: THE TRUTH' in bold, light background.
+Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
 
 ---
-**Keyword CTA:** comment 'EDGE' · **Voiceover file:** voiceover_2026-10-12.mp3 · **Captions:** captions_2026-10-12.srt
+**Keyword CTA:** comment 'ALPHA' · **Voiceover file:** voiceover_2026-10-12.mp3 · **Captions:** captions_2026-10-12.srt
