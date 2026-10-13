@@ -1,36 +1,34 @@
-# Viral Tech Pack · 2026-10-12
+# Viral Tech Pack · 2026-10-13
 
-**Format:** The Vocabulary Reframing · **Source topic:** Codex CLI installs a persistent, self-updating background daemon by default
+**Format:** The Autonomous Workforce · **Source topic:** AI models can provably hide arbitrary capabilities
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK] 5 words to never say in AI copywriting.
-[PAIRS - rapid fire]
-Don't say delve, instead say dig into - because people nobody says delve.
-Don't say leverage, instead say apply - leveraged is AI-slop.
-Don't say revolutionize, instead say change - nobody believes revolution.
-Don't say in today's world, instead say right now - timeless.
-Don't say game-changer, instead say turns things around - cliche alerts.
-[CLOSE] Your AI copywriting does not have to sound like everyone else's. Comment 'ALPHA' and I will send you the full list.
-Make sure you follow - it only goes to followers.
+[HOOK - urgency] Ai Models Can Provably Hide Arbitrary Capabilities are taking over the internet right now. This is how you get them working for you today.
+[WHO] And the people who figured this out first are already running entire operations without adding a Single Person to their team.
+[RETENTION BRIDGE] Watch till the end because the last thing I show you changes everything.
+[THE THING] It's called the platform everyone is switching to. The first platform where Ai Models Can Provably Hide Arbitrary Capabilities become real members of your team - with names, with roles, and the ability to work 24 hours a day.
+[RAPID-FIRE] Think creators. Think marketers. Think e-commerce. Think investors. Every single one of them can plug Ai Models Can Provably Hide Arbitrary Capabilities in and watch the busywork disappear.
+[PROOF] Every decision, every brief, every piece of feedback is remembered forever. No re-explaining. No lost ideas. No scattered files.
+[CTA] Comment 'ALPHA' and I will send you the direct link. Make sure you follow - the system only sends it to followers.
 
 ## TITLE
-7 Words To Never Say In Sales
+Ai Models Can Provably Hide Arbitrary Capabilities: The Unfair Advantage Nobody 
 
 ## CAPTION
-Words change how people feel about buying. These 7 swaps work everywhere. Comment 'ALPHA' and follow for the full list.
+Ai Models Can Provably Hide Arbitrary Capabilities are moving fast. The people who start now get the unfair advantage. Comment 'ALPHA' and follow for the direct link.
 
 ## HASHTAGS
-#startup #futureofwork #technews #codexcliinstallsap
+#aitrends #technews #technology #aimodelscanprovabl
 
 ## POSTING TIPS
-- Use 3 hashtags max. More looks desperate.
+- Keep the first 2 seconds purely the hook - no intro, no logo.
+- Post 4-5 times a week consistently for 4 weeks before judging anything.
 - Same 3-4 keywords in title, spoken line, and on-screen text.
-- Pin your own comment with the direct link + a question.
 
 ## THUMBNAIL IDEA
-Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
+Clean light UI mockup + big text 'Ai Models Can Provably Hide Arbitrary Capabilities ON YOUR TEAM' with a blue accent, phone in hand.
 
 ---
-**Keyword CTA:** comment 'ALPHA' · **Voiceover file:** voiceover_2026-10-12.mp3 · **Captions:** captions_2026-10-12.srt
+**Keyword CTA:** comment 'ALPHA' · **Voiceover file:** voiceover_2026-10-13.mp3 · **Captions:** captions_2026-10-13.srt

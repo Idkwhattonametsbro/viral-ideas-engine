@@ -1,110 +1,110 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "top": [
     {
       "source": "GitHub",
       "title": "openai/math -",
-      "points": 14407,
+      "points": 14556,
       "url": "https://github.com/openai/math",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "storytold/wordcraft - An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-      "points": 8984,
+      "points": 10004,
       "url": "https://github.com/storytold/wordcraft",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game",
-      "points": 7060,
+      "points": 7205,
       "url": "https://github.com/rehan-remade/universal-modder",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-      "points": 377,
-      "url": "https://github.com/openai/codex/issues/48195",
-      "score": 4.46
-    },
-    {
-      "source": "HackerNews",
-      "title": "QGIS enacts moratorium on AI contributions",
-      "points": 357,
-      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-      "score": 4.4
-    },
-    {
-      "source": "HackerNews",
       "title": "A Modern Web App in C",
-      "points": 328,
+      "points": 568,
       "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-      "score": 4.31
+      "score": 4.97
     },
     {
       "source": "HackerNews",
-      "title": "AI coding agents generate more code, but not more software",
-      "points": 274,
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "score": 4.12
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "points": 566,
+      "url": "https://github.com/openai/codex/issues/48195",
+      "score": 4.97
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
-      "points": 249,
-      "url": "https://github.com/snuri00/ps2-web-recomp",
-      "score": 4.02
+      "title": "AI is a tool and using it well takes skill",
+      "points": 423,
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "score": 4.6
     },
     {
       "source": "HackerNews",
       "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
-      "points": 218,
+      "points": 351,
       "url": "https://github.com/h0m3us3r/w1700k-sdr",
-      "score": 3.9
+      "score": 4.38
+    },
+    {
+      "source": "HackerNews",
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "points": 215,
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "score": 3.89
+    },
+    {
+      "source": "HackerNews",
+      "title": "AI models can provably hide arbitrary capabilities",
+      "points": 211,
+      "url": "https://arxiv.org/abs/2610.13928",
+      "score": 3.87
     },
     {
       "source": "GitHub",
       "title": "storytold/photocraft - PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
-      "points": 53124,
+      "points": 55417,
       "url": "https://github.com/storytold/photocraft",
       "score": 3.5
     },
     {
       "source": "GitHub",
-      "title": "storytold/filmcraft - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust",
-      "points": 11420,
-      "url": "https://github.com/storytold/filmcraft",
-      "score": 3.5
-    },
-    {
-      "source": "GitHub",
       "title": "storytold/pdfcraft - PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
-      "points": 11195,
+      "points": 11985,
       "url": "https://github.com/storytold/pdfcraft",
       "score": 3.5
     },
     {
       "source": "GitHub",
+      "title": "storytold/filmcraft - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust",
+      "points": 11932,
+      "url": "https://github.com/storytold/filmcraft",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
       "title": "storytold/lightcraft - LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust",
-      "points": 11160,
+      "points": 11569,
       "url": "https://github.com/storytold/lightcraft",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "storytold/vectorcraft - VectorCraft: An open-source, vector art tool written by scratch in pure Rust",
-      "points": 7847,
+      "points": 8124,
       "url": "https://github.com/storytold/vectorcraft",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "Muse Wonder",
-      "points": 466,
-      "url": "https://research.meta.ai/blog/muse-wonder",
-      "score": 2.95
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "points": 706,
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "score": 3.3
     }
   ],
   "count": 32
