@@ -4,107 +4,107 @@
     {
       "source": "GitHub",
       "title": "openai/math -",
-      "points": 14556,
+      "points": 14652,
       "url": "https://github.com/openai/math",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "storytold/wordcraft - An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-      "points": 10004,
+      "points": 10883,
       "url": "https://github.com/storytold/wordcraft",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game",
-      "points": 7205,
-      "url": "https://github.com/rehan-remade/universal-modder",
+      "title": "wheresryan22/anatomy - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and",
+      "points": 8021,
+      "url": "https://github.com/wheresryan22/anatomy",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "A Modern Web App in C",
-      "points": 568,
-      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-      "score": 4.97
+      "title": "Apple HomeView",
+      "points": 573,
+      "url": "https://www.apple.com/apple-homeview/",
+      "score": 4.98
     },
     {
       "source": "HackerNews",
-      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-      "points": 566,
-      "url": "https://github.com/openai/codex/issues/48195",
-      "score": 4.97
+      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+      "points": 354,
+      "url": "https://eg2.haku.sh/",
+      "score": 4.39
     },
     {
       "source": "HackerNews",
-      "title": "AI is a tool and using it well takes skill",
-      "points": 423,
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "score": 4.6
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "points": 231,
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "score": 3.95
     },
     {
       "source": "HackerNews",
-      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
-      "points": 351,
-      "url": "https://github.com/h0m3us3r/w1700k-sdr",
-      "score": 4.38
+      "title": "New Apple TV 4K",
+      "points": 223,
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "score": 3.92
     },
     {
       "source": "HackerNews",
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "points": 215,
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "score": 3.89
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "points": 198,
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "score": 3.81
     },
     {
       "source": "HackerNews",
-      "title": "AI models can provably hide arbitrary capabilities",
-      "points": 211,
-      "url": "https://arxiv.org/abs/2610.13928",
-      "score": 3.87
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "points": 179,
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "score": 3.72
     },
     {
       "source": "GitHub",
       "title": "storytold/photocraft - PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
-      "points": 55417,
+      "points": 57412,
       "url": "https://github.com/storytold/photocraft",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "storytold/pdfcraft - PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
-      "points": 11985,
+      "points": 12593,
       "url": "https://github.com/storytold/pdfcraft",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "storytold/filmcraft - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust",
-      "points": 11932,
+      "points": 12407,
       "url": "https://github.com/storytold/filmcraft",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "storytold/lightcraft - LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust",
-      "points": 11569,
+      "points": 11919,
       "url": "https://github.com/storytold/lightcraft",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "storytold/vectorcraft - VectorCraft: An open-source, vector art tool written by scratch in pure Rust",
-      "points": 8124,
+      "points": 8386,
       "url": "https://github.com/storytold/vectorcraft",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-      "points": 706,
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-      "score": 3.3
+      "title": "Gemini 4 Argon",
+      "points": 699,
+      "url": "https://deepmind.google/models/gemini/",
+      "score": 3.29
     }
   ],
   "count": 32
