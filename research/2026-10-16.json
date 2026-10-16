@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-16",
+  "top": [
+    {
+      "source": "GitHub",
+      "title": "openai/math -",
+      "points": 14974,
+      "url": "https://github.com/openai/math",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "storytold/wordcraft - An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "points": 13358,
+      "url": "https://github.com/storytold/wordcraft",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "wheresryan22/anatomy - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and",
+      "points": 13272,
+      "url": "https://github.com/wheresryan22/anatomy",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "storytold/gridcraft - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "points": 5256,
+      "url": "https://github.com/storytold/gridcraft",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "storytold/cadcraft - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure",
+      "points": 5238,
+      "url": "https://github.com/storytold/cadcraft",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "mhtsec/ARTEX - AI 自主渗透测试系统",
+      "points": 4336,
+      "url": "https://github.com/mhtsec/ARTEX",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "ARahim3/DigUp - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code.",
+      "points": 4179,
+      "url": "https://github.com/ARahim3/DigUp",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "points": 4103,
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "score": 5.6
+    },
+    {
+      "source": "HackerNews",
+      "title": "Krea 3 – An image model built for editing at scale",
+      "points": 298,
+      "url": "https://www.krea.ai/krea-3",
+      "score": 4.2
+    },
+    {
+      "source": "HackerNews",
+      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+      "points": 261,
+      "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+      "score": 4.07
+    },
+    {
+      "source": "HackerNews",
+      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+      "points": 224,
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "score": 3.92
+    },
+    {
+      "source": "HackerNews",
+      "title": "Muse Spark Open",
+      "points": 778,
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "score": 3.39
+    },
+    {
+      "source": "HackerNews",
+      "title": "Neural networks are clean",
+      "points": 653,
+      "url": "https://already-clean.goodfire.com/",
+      "score": 3.23
+    },
+    {
+      "source": "HackerNews",
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "points": 592,
+      "url": "https://github.com/fyzugx/DEsk",
+      "score": 3.14
+    },
+    {
+      "source": "HackerNews",
+      "title": "What I self-host",
+      "points": 441,
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "score": 2.9
+    }
+  ],
+  "count": 32
+}

@@ -1,33 +1,33 @@
-# Viral Tech Pack · 2026-10-15
+# Viral Tech Pack · 2026-10-16
 
-**Format:** The Industry Takedown (myth vs truth) · **Source topic:** Search your computer by what's in your files photos, PDFs, documents, recordings, videos and code.
+**Format:** The Before/After Transformation · **Source topic:** An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK - contrarian] Everything you know about Search your computer by what's in your files photos, PDFs, documents, recordings, videos and code. is wrong. Here is what actually works.
-[MYTH] Most people think it is too late to start.
-[TRUTH] The truth: the window is open exactly because Search your computer by what's in your files photos, PDFs, documents, recordings, videos and code. is still confusing to most people.
-[WHY] Here is why this matters right now: early movers in Search your computer by what's in your files photos, PDFs, documents, recordings, videos and code. get 10x the attention for half the effort.
-[PROOF] I have tested this. the fastest-growing accounts right now are all built on Search your computer by what's in your files photos, PDFs, documents, recordings, videos and code..
-[CTA] Comment 'MOVE' and I will send you the playbook. Follow so you don't miss the next one.
+[HOOK] I went from confused and overwhelmed to running it on autopilot using only An open-source, clean-room reimplementation of Microsoft Word in pure Rust - and it took a weekend.
+[STEP 1] Step one: pick ONE tool in the An open-source, clean-room reimplementation of Microsoft Word in pure Rust space and master it.
+[STEP 2] Step two: systemize the workflow so it runs without you.
+[STEP 3] Step three: document the results and post the process.
+[RESULT] The result: a system that works while you sleep.
+[CTA] Comment 'ALPHA' and I will send you the exact system. Follow - it only goes to followers.
 
 ## TITLE
-Everything You Know About Search Your Computer By What'S In Your Files Photos, P
+An Open-Source, Clean-Room Reimplementation Of Microsoft Word In Pure Rust Chang
 
 ## CAPTION
-Most people are 2 years late on Search your computer by what's in your files photos, PDFs, documents, recordings, videos and code.. The ones who act now win. Comment 'MOVE' and follow.
+Systems beat motivation every time. Comment 'ALPHA' and follow for the exact system.
 
 ## HASHTAGS
-#technology #startup #aitrends #searchyourcomputer
+#technology #tech #automation #anopensourcecleanr
 
 ## POSTING TIPS
-- Use 3 hashtags max. More looks desperate.
+- Pin your own comment with the direct link + a question.
 - Keep the first 2 seconds purely the hook - no intro, no logo.
-- End every video with the same follow CTA so it becomes a habit for viewers.
+- Reply to EVERY comment in the first hour - it doubles the algorithm push.
 
 ## THUMBNAIL IDEA
-Big myth crossed out + 'SEARCH YOUR COMPUTER BY WHAT'S IN YOUR FILES PHOTOS, PDFS, DOCUMENTS, RECORDINGS, VIDEOS AND CODE.: THE TRUTH' in bold, light background.
+Two columns 'BEFORE chaos' vs 'AFTER system' with an arrow between.
 
 ---
-**Keyword CTA:** comment 'MOVE' · **Voiceover file:** voiceover_2026-10-15.mp3 · **Captions:** captions_2026-10-15.srt
+**Keyword CTA:** comment 'ALPHA' · **Voiceover file:** voiceover_2026-10-16.mp3 · **Captions:** captions_2026-10-16.srt
