@@ -1,39 +1,63 @@
 1
-00:00:00,000 --> 00:00:05,860
-I went from confused and overwhelmed to running it on autopilot using only An
+00:00:00,000 --> 00:00:05,540
+[HOOK - contrarian] Everything you know about Search your computer by what's in your
 
 2
-00:00:06,040 --> 00:00:12,900
-open-source, clean-room reimplementation of Microsoft Word in pure Rust - and it took a
+00:00:05,720 --> 00:00:11,530
+files photos, PDFs, documents, recordings, videos and code.
 
 3
-00:00:13,080 --> 00:00:14,950
-weekend.
+00:00:11,710 --> 00:00:13,580
+is wrong.
 
 4
-00:00:15,130 --> 00:00:22,350
-[STEP 1] Step one: pick ONE tool in the An open-source, clean-room reimplementation of
+00:00:13,760 --> 00:00:16,640
+Here is what actually works.
 
 5
-00:00:22,530 --> 00:00:26,830
-Microsoft Word in pure Rust space and master it.
+00:00:16,820 --> 00:00:20,230
+Most people think it is too late to start.
 
 6
-00:00:27,010 --> 00:00:32,700
-[STEP 2] Step two: systemize the workflow so it runs without you.
+00:00:20,410 --> 00:00:26,190
+The truth: the window is open exactly because Search your computer by what's in your
 
 7
-00:00:32,880 --> 00:00:38,520
-[STEP 3] Step three: document the results and post the process.
+00:00:26,370 --> 00:00:32,180
+files photos, PDFs, documents, recordings, videos and code.
 
 8
-00:00:38,700 --> 00:00:42,760
-The result: a system that works while you sleep.
+00:00:32,360 --> 00:00:35,550
+is still confusing to most people.
 
 9
-00:00:42,940 --> 00:00:47,000
-Comment 'ALPHA' and I will send you the exact system.
+00:00:35,730 --> 00:00:41,470
+Here is why this matters right now: early movers in Search your computer by what's in
 
 10
-00:00:47,180 --> 00:00:50,490
-Follow - it only goes to followers.
+00:00:41,650 --> 00:00:47,630
+your files photos, PDFs, documents, recordings, videos and code.
+
+11
+00:00:47,810 --> 00:00:51,600
+get 10x the attention for half the effort.
+
+12
+00:00:51,780 --> 00:00:54,160
+I have tested this.
+
+13
+00:00:54,340 --> 00:00:59,880
+the fastest-growing accounts right now are all built on Search your computer by what's
+
+14
+00:01:00,060 --> 00:01:06,160
+in your files photos, PDFs, documents, recordings, videos and code..
+
+15
+00:01:06,340 --> 00:01:09,890
+Comment 'MOVE' and I will send you the playbook.
+
+16
+00:01:10,070 --> 00:01:13,290
+Follow so you don't miss the next one.

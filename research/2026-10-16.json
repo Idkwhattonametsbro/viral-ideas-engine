@@ -4,107 +4,107 @@
     {
       "source": "GitHub",
       "title": "openai/math -",
-      "points": 14974,
+      "points": 15017,
       "url": "https://github.com/openai/math",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "storytold/wordcraft - An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-      "points": 13358,
-      "url": "https://github.com/storytold/wordcraft",
-      "score": 5.6
-    },
-    {
-      "source": "GitHub",
       "title": "wheresryan22/anatomy - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and",
-      "points": 13272,
+      "points": 13806,
       "url": "https://github.com/wheresryan22/anatomy",
       "score": 5.6
     },
     {
       "source": "GitHub",
+      "title": "storytold/wordcraft - An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "points": 13597,
+      "url": "https://github.com/storytold/wordcraft",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
       "title": "storytold/gridcraft - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-      "points": 5256,
+      "points": 5370,
       "url": "https://github.com/storytold/gridcraft",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "storytold/cadcraft - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure",
-      "points": 5238,
+      "points": 5357,
       "url": "https://github.com/storytold/cadcraft",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "mhtsec/ARTEX - AI 自主渗透测试系统",
-      "points": 4336,
+      "points": 4409,
       "url": "https://github.com/mhtsec/ARTEX",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "ARahim3/DigUp - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code.",
-      "points": 4179,
+      "points": 4280,
       "url": "https://github.com/ARahim3/DigUp",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-      "points": 4103,
+      "points": 4144,
       "url": "https://github.com/alchaincyf/huashu-art-motion",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Krea 3 – An image model built for editing at scale",
-      "points": 298,
-      "url": "https://www.krea.ai/krea-3",
-      "score": 4.2
+      "title": "Tesla Roadster",
+      "points": 593,
+      "url": "https://www.tesla.com/roadster",
+      "score": 5.03
     },
     {
       "source": "HackerNews",
-      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-      "points": 261,
-      "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-      "score": 4.07
+      "title": "I Love Software Rendering",
+      "points": 232,
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "score": 3.96
     },
     {
       "source": "HackerNews",
-      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
-      "points": 224,
-      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-      "score": 3.92
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "points": 184,
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "score": 3.75
     },
     {
       "source": "HackerNews",
-      "title": "Muse Spark Open",
-      "points": 778,
-      "url": "https://research.meta.ai/blog/muse-spark-open",
-      "score": 3.39
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "points": 149,
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "score": 3.57
     },
     {
       "source": "HackerNews",
-      "title": "Neural networks are clean",
-      "points": 653,
-      "url": "https://already-clean.goodfire.com/",
-      "score": 3.23
+      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+      "points": 113,
+      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "score": 3.37
     },
     {
       "source": "HackerNews",
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "points": 592,
-      "url": "https://github.com/fyzugx/DEsk",
-      "score": 3.14
+      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+      "points": 756,
+      "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+      "score": 3.36
     },
     {
       "source": "HackerNews",
-      "title": "What I self-host",
-      "points": 441,
-      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-      "score": 2.9
+      "title": "AI-assisted PCB design for KiCad 10",
+      "points": 111,
+      "url": "https://github.com/mixelpixx/Konnect",
+      "score": 3.35
     }
   ],
   "count": 32
