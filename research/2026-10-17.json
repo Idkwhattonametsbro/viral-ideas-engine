@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-17",
+  "top": [
+    {
+      "source": "HackerNews",
+      "title": "Tesla Roadster",
+      "points": 1370,
+      "url": "https://www.tesla.com/roadster",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "openai/math -",
+      "points": 15055,
+      "url": "https://github.com/openai/math",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "wheresryan22/anatomy - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and",
+      "points": 14255,
+      "url": "https://github.com/wheresryan22/anatomy",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "storytold/wordcraft - An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "points": 13760,
+      "url": "https://github.com/storytold/wordcraft",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "storytold/gridcraft - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "points": 5450,
+      "url": "https://github.com/storytold/gridcraft",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "storytold/cadcraft - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure",
+      "points": 5449,
+      "url": "https://github.com/storytold/cadcraft",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "ARahim3/DigUp - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code.",
+      "points": 4379,
+      "url": "https://github.com/ARahim3/DigUp",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "points": 4174,
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "zhongerxin/iPhone-use - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "points": 4019,
+      "url": "https://github.com/zhongerxin/iPhone-use",
+      "score": 5.6
+    },
+    {
+      "source": "HackerNews",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "points": 478,
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "score": 4.75
+    },
+    {
+      "source": "HackerNews",
+      "title": "How the Claude Code team does code review",
+      "points": 319,
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "score": 4.28
+    },
+    {
+      "source": "HackerNews",
+      "title": "I love software rendering",
+      "points": 318,
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "score": 4.27
+    },
+    {
+      "source": "HackerNews",
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "points": 302,
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "score": 4.22
+    },
+    {
+      "source": "HackerNews",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "points": 272,
+      "url": "https://github.com/cobanov/PS5LM",
+      "score": 4.11
+    },
+    {
+      "source": "HackerNews",
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "points": 241,
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "score": 3.99
+    }
+  ],
+  "count": 32
+}

@@ -1,33 +1,36 @@
-# Viral Tech Pack · 2026-10-16
+# Viral Tech Pack · 2026-10-17
 
-**Format:** The Industry Takedown (myth vs truth) · **Source topic:** Search your computer by what's in your files photos, PDFs, documents, recordings, videos and code.
+**Format:** The Vocabulary Reframing · **Source topic:** An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK - contrarian] Everything you know about Search your computer by what's in your files photos, PDFs, documents, recordings, videos and code. is wrong. Here is what actually works.
-[MYTH] Most people think it is too late to start.
-[TRUTH] The truth: the window is open exactly because Search your computer by what's in your files photos, PDFs, documents, recordings, videos and code. is still confusing to most people.
-[WHY] Here is why this matters right now: early movers in Search your computer by what's in your files photos, PDFs, documents, recordings, videos and code. get 10x the attention for half the effort.
-[PROOF] I have tested this. the fastest-growing accounts right now are all built on Search your computer by what's in your files photos, PDFs, documents, recordings, videos and code..
-[CTA] Comment 'MOVE' and I will send you the playbook. Follow so you don't miss the next one.
+[HOOK] 5 words to never say in AI copywriting.
+[PAIRS - rapid fire]
+Don't say game-changer, instead say turns things around - because people cliche alerts.
+Don't say utilize, instead say use - short words win.
+Don't say leverage, instead say apply - leveraged is AI-slop.
+Don't say delve, instead say dig into - nobody says delve.
+Don't say in today's world, instead say right now - timeless.
+[CLOSE] Your AI copywriting does not have to sound like everyone else's. Comment 'EDGE' and I will send you the full list.
+Make sure you follow - it only goes to followers.
 
 ## TITLE
-Everything You Know About Search Your Computer By What'S In Your Files Photos, P
+The Vocabulary That Doubles Your Conversion Rate
 
 ## CAPTION
-Most people are 2 years late on Search your computer by what's in your files photos, PDFs, documents, recordings, videos and code.. The ones who act now win. Comment 'MOVE' and follow.
+Words change how people feel about buying. These 7 swaps work everywhere. Comment 'EDGE' and follow for the full list.
 
 ## HASHTAGS
-#startup #automation #futureofwork #searchyourcomputer
+#aiagents #productivity #futureofwork #anopensourcecleanr
 
 ## POSTING TIPS
-- Pin your own comment with the direct link + a question.
 - End every video with the same follow CTA so it becomes a habit for viewers.
-- Use 3 hashtags max. More looks desperate.
+- Post 4-5 times a week consistently for 4 weeks before judging anything.
+- Pin your own comment with the direct link + a question.
 
 ## THUMBNAIL IDEA
-Big myth crossed out + 'SEARCH YOUR COMPUTER BY WHAT'S IN YOUR FILES PHOTOS, PDFS, DOCUMENTS, RECORDINGS, VIDEOS AND CODE.: THE TRUTH' in bold, light background.
+Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
 
 ---
-**Keyword CTA:** comment 'MOVE' · **Voiceover file:** voiceover_2026-10-16.mp3 · **Captions:** captions_2026-10-16.srt
+**Keyword CTA:** comment 'EDGE' · **Voiceover file:** voiceover_2026-10-17.mp3 · **Captions:** captions_2026-10-17.srt
