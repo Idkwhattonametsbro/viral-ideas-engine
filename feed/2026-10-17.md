@@ -1,36 +1,33 @@
 # Viral Tech Pack · 2026-10-17
 
-**Format:** The Vocabulary Reframing · **Source topic:** An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+**Format:** The Before/After Transformation · **Source topic:** CADCraft computer-aided design and drafting an open-source, clean-room AutoCAD-style app in pure
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK] 5 words to never say in AI copywriting.
-[PAIRS - rapid fire]
-Don't say game-changer, instead say turns things around - because people cliche alerts.
-Don't say utilize, instead say use - short words win.
-Don't say leverage, instead say apply - leveraged is AI-slop.
-Don't say delve, instead say dig into - nobody says delve.
-Don't say in today's world, instead say right now - timeless.
-[CLOSE] Your AI copywriting does not have to sound like everyone else's. Comment 'EDGE' and I will send you the full list.
-Make sure you follow - it only goes to followers.
+[HOOK] I went from confused and overwhelmed to running it on autopilot using only CADCraft computer-aided design and drafting an open-source, clean-room AutoCAD-style app in pure - and it took a weekend.
+[STEP 1] Step one: pick ONE tool in the CADCraft computer-aided design and drafting an open-source, clean-room AutoCAD-style app in pure space and master it.
+[STEP 2] Step two: systemize the workflow so it runs without you.
+[STEP 3] Step three: document the results and post the process.
+[RESULT] The result: a system that works while you sleep.
+[CTA] Comment 'EDGE' and I will send you the exact system. Follow - it only goes to followers.
 
 ## TITLE
-The Vocabulary That Doubles Your Conversion Rate
+Cadcraft Computer-Aided Design And Drafting An Open-Source, Clean-Room Autocad-S
 
 ## CAPTION
-Words change how people feel about buying. These 7 swaps work everywhere. Comment 'EDGE' and follow for the full list.
+Systems beat motivation every time. Comment 'EDGE' and follow for the exact system.
 
 ## HASHTAGS
-#aiagents #productivity #futureofwork #anopensourcecleanr
+#technews #futureofwork #startup #cadcraftcomputerai
 
 ## POSTING TIPS
+- Use 3 hashtags max. More looks desperate.
+- Same 3-4 keywords in title, spoken line, and on-screen text.
 - End every video with the same follow CTA so it becomes a habit for viewers.
-- Post 4-5 times a week consistently for 4 weeks before judging anything.
-- Pin your own comment with the direct link + a question.
 
 ## THUMBNAIL IDEA
-Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
+Two columns 'BEFORE chaos' vs 'AFTER system' with an arrow between.
 
 ---
 **Keyword CTA:** comment 'EDGE' · **Voiceover file:** voiceover_2026-10-17.mp3 · **Captions:** captions_2026-10-17.srt
