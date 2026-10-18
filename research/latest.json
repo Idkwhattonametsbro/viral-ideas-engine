@@ -4,107 +4,107 @@
     {
       "source": "GitHub",
       "title": "wheresryan22/anatomy - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and",
-      "points": 15421,
+      "points": 15850,
       "url": "https://github.com/wheresryan22/anatomy",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "openai/math -",
-      "points": 15123,
+      "points": 15157,
       "url": "https://github.com/openai/math",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "storytold/wordcraft - An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-      "points": 14138,
+      "points": 14298,
       "url": "https://github.com/storytold/wordcraft",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "storytold/cadcraft - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure",
-      "points": 5650,
+      "points": 5731,
       "url": "https://github.com/storytold/cadcraft",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "storytold/gridcraft - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-      "points": 5648,
+      "points": 5703,
       "url": "https://github.com/storytold/gridcraft",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "ARahim3/DigUp - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code.",
-      "points": 4643,
-      "url": "https://github.com/ARahim3/DigUp",
-      "score": 5.6
-    },
-    {
-      "source": "GitHub",
       "title": "tangency-labs/solidcraft - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and autom",
-      "points": 4532,
+      "points": 5237,
       "url": "https://github.com/tangency-labs/solidcraft",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-      "points": 4273,
-      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "title": "google-research/harness2 -",
+      "points": 4957,
+      "url": "https://github.com/google-research/harness2",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "ARahim3/DigUp - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code.",
+      "points": 4765,
+      "url": "https://github.com/ARahim3/DigUp",
       "score": 5.6
     },
     {
       "source": "HackerNews",
       "title": "Pele – Mermaid diagrams as themeable SVG",
-      "points": 394,
+      "points": 542,
       "url": "https://pele.run/",
-      "score": 4.51
+      "score": 4.91
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "points": 282,
-      "url": "https://llmspeed.dev/",
-      "score": 4.15
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "points": 212,
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "score": 3.87
     },
     {
       "source": "HackerNews",
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "points": 181,
-      "url": "https://github.com/antirez/c64-hw-simulator",
-      "score": 3.73
-    },
-    {
-      "source": "HackerNews",
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "points": 827,
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "score": 3.45
-    },
-    {
-      "source": "HackerNews",
-      "title": "Solar surpasses nuclear power globally for first time",
-      "points": 577,
-      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-      "score": 3.12
-    },
-    {
-      "source": "HackerNews",
-      "title": "You could have invented transformers from memory",
-      "points": 547,
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "score": 3.08
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "points": 175,
+      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "score": 3.7
     },
     {
       "source": "HackerNews",
       "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "points": 421,
+      "points": 528,
       "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "score": 2.87
+      "score": 3.05
+    },
+    {
+      "source": "HackerNews",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "points": 441,
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "score": 2.9
+    },
+    {
+      "source": "HackerNews",
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "points": 334,
+      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "score": 2.7
+    },
+    {
+      "source": "HackerNews",
+      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "points": 278,
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "score": 2.58
     }
   ],
   "count": 32
