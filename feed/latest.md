@@ -1,33 +1,36 @@
-# Viral Tech Pack · 2026-10-17
+# Viral Tech Pack · 2026-10-18
 
-**Format:** The Before/After Transformation · **Source topic:** CADCraft computer-aided design and drafting an open-source, clean-room AutoCAD-style app in pure
+**Format:** The Vocabulary Reframing · **Source topic:** Pele Mermaid diagrams as themeable SVG
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK] I went from confused and overwhelmed to running it on autopilot using only CADCraft computer-aided design and drafting an open-source, clean-room AutoCAD-style app in pure - and it took a weekend.
-[STEP 1] Step one: pick ONE tool in the CADCraft computer-aided design and drafting an open-source, clean-room AutoCAD-style app in pure space and master it.
-[STEP 2] Step two: systemize the workflow so it runs without you.
-[STEP 3] Step three: document the results and post the process.
-[RESULT] The result: a system that works while you sleep.
-[CTA] Comment 'EDGE' and I will send you the exact system. Follow - it only goes to followers.
+[HOOK] 5 words to never say in AI copywriting.
+[PAIRS - rapid fire]
+Don't say delve, instead say dig into - because people nobody says delve.
+Don't say game-changer, instead say turns things around - cliche alerts.
+Don't say revolutionize, instead say change - nobody believes revolution.
+Don't say leverage, instead say apply - leveraged is AI-slop.
+Don't say empower, instead say help - empower is corporate noise.
+[CLOSE] Your AI copywriting does not have to sound like everyone else's. Comment 'ALPHA' and I will send you the full list.
+Make sure you follow - it only goes to followers.
 
 ## TITLE
-Cadcraft Computer-Aided Design And Drafting An Open-Source, Clean-Room Autocad-S
+Stop Saying These 7 Words Immediately
 
 ## CAPTION
-Systems beat motivation every time. Comment 'EDGE' and follow for the exact system.
+Words change how people feel about buying. These 7 swaps work everywhere. Comment 'ALPHA' and follow for the full list.
 
 ## HASHTAGS
-#technews #futureofwork #startup #cadcraftcomputerai
+#futureofwork #productivity #automation #pelemermaiddiagram
 
 ## POSTING TIPS
-- Use 3 hashtags max. More looks desperate.
+- Pin your own comment with the direct link + a question.
 - Same 3-4 keywords in title, spoken line, and on-screen text.
-- End every video with the same follow CTA so it becomes a habit for viewers.
+- Use 3 hashtags max. More looks desperate.
 
 ## THUMBNAIL IDEA
-Two columns 'BEFORE chaos' vs 'AFTER system' with an arrow between.
+Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
 
 ---
-**Keyword CTA:** comment 'EDGE' · **Voiceover file:** voiceover_2026-10-17.mp3 · **Captions:** captions_2026-10-17.srt
+**Keyword CTA:** comment 'ALPHA' · **Voiceover file:** voiceover_2026-10-18.mp3 · **Captions:** captions_2026-10-18.srt

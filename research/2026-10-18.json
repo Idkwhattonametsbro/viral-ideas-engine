@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-18",
+  "top": [
+    {
+      "source": "GitHub",
+      "title": "wheresryan22/anatomy - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and",
+      "points": 15421,
+      "url": "https://github.com/wheresryan22/anatomy",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "openai/math -",
+      "points": 15123,
+      "url": "https://github.com/openai/math",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "storytold/wordcraft - An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "points": 14138,
+      "url": "https://github.com/storytold/wordcraft",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "storytold/cadcraft - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure",
+      "points": 5650,
+      "url": "https://github.com/storytold/cadcraft",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "storytold/gridcraft - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "points": 5648,
+      "url": "https://github.com/storytold/gridcraft",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "ARahim3/DigUp - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code.",
+      "points": 4643,
+      "url": "https://github.com/ARahim3/DigUp",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "tangency-labs/solidcraft - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and autom",
+      "points": 4532,
+      "url": "https://github.com/tangency-labs/solidcraft",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "points": 4273,
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "score": 5.6
+    },
+    {
+      "source": "HackerNews",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "points": 394,
+      "url": "https://pele.run/",
+      "score": 4.51
+    },
+    {
+      "source": "HackerNews",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "points": 282,
+      "url": "https://llmspeed.dev/",
+      "score": 4.15
+    },
+    {
+      "source": "HackerNews",
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "points": 181,
+      "url": "https://github.com/antirez/c64-hw-simulator",
+      "score": 3.73
+    },
+    {
+      "source": "HackerNews",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "points": 827,
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "score": 3.45
+    },
+    {
+      "source": "HackerNews",
+      "title": "Solar surpasses nuclear power globally for first time",
+      "points": 577,
+      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "score": 3.12
+    },
+    {
+      "source": "HackerNews",
+      "title": "You could have invented transformers from memory",
+      "points": 547,
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "score": 3.08
+    },
+    {
+      "source": "HackerNews",
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "points": 421,
+      "url": "https://www.nature.com/articles/d41586-026-03266-x",
+      "score": 2.87
+    }
+  ],
+  "count": 32
+}
