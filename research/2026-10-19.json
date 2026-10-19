@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-19",
+  "top": [
+    {
+      "source": "GitHub",
+      "title": "wheresryan22/anatomy - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and",
+      "points": 16414,
+      "url": "https://github.com/wheresryan22/anatomy",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "openai/math -",
+      "points": 15194,
+      "url": "https://github.com/openai/math",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "storytold/wordcraft - An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "points": 14513,
+      "url": "https://github.com/storytold/wordcraft",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "google-research/harness2 -",
+      "points": 8676,
+      "url": "https://github.com/google-research/harness2",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "tangency-labs/solidcraft - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and autom",
+      "points": 6209,
+      "url": "https://github.com/tangency-labs/solidcraft",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "storytold/cadcraft - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure",
+      "points": 5854,
+      "url": "https://github.com/storytold/cadcraft",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "storytold/gridcraft - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "points": 5803,
+      "url": "https://github.com/storytold/gridcraft",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "ARahim3/DigUp - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code.",
+      "points": 4858,
+      "url": "https://github.com/ARahim3/DigUp",
+      "score": 5.6
+    },
+    {
+      "source": "HackerNews",
+      "title": "Someone behind the software",
+      "points": 434,
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "score": 4.63
+    },
+    {
+      "source": "HackerNews",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "points": 379,
+      "url": "https://arxiv.org/abs/2610.18861",
+      "score": 4.47
+    },
+    {
+      "source": "HackerNews",
+      "title": "I built a programming language that LLMs can't use",
+      "points": 174,
+      "url": "https://blog.picheta.me/post/killswitch-lang/",
+      "score": 3.7
+    },
+    {
+      "source": "HackerNews",
+      "title": "RepRapMicron",
+      "points": 387,
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "score": 2.81
+    },
+    {
+      "source": "HackerNews",
+      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+      "points": 354,
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "score": 2.74
+    },
+    {
+      "source": "HackerNews",
+      "title": "macOS 15.8.2 Breaks OpenGL",
+      "points": 251,
+      "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+      "score": 2.52
+    },
+    {
+      "source": "HackerNews",
+      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+      "points": 225,
+      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+      "score": 2.45
+    }
+  ],
+  "count": 32
+}
