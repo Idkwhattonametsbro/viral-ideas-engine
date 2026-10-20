@@ -2,110 +2,110 @@
   "date": "2026-10-20",
   "top": [
     {
+      "source": "HackerNews",
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "points": 1928,
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "score": 5.6
+    },
+    {
       "source": "GitHub",
       "title": "wheresryan22/anatomy - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and",
-      "points": 17153,
+      "points": 17470,
       "url": "https://github.com/wheresryan22/anatomy",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "storytold/wordcraft - An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-      "points": 14865,
+      "points": 15012,
       "url": "https://github.com/storytold/wordcraft",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "tangency-labs/solidcraft - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and autom",
-      "points": 7677,
-      "url": "https://github.com/tangency-labs/solidcraft",
+      "title": "deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "points": 11213,
+      "url": "https://github.com/deepseek-ai/DeepInfer",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "Gathin23/cleanyourtv - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-      "points": 7539,
+      "points": 10823,
       "url": "https://github.com/Gathin23/cleanyourtv",
       "score": 5.6
     },
     {
       "source": "GitHub",
+      "title": "tangency-labs/solidcraft - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and autom",
+      "points": 8114,
+      "url": "https://github.com/tangency-labs/solidcraft",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
       "title": "storytold/cadcraft - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure",
-      "points": 6059,
+      "points": 6129,
       "url": "https://github.com/storytold/cadcraft",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "storytold/gridcraft - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-      "points": 5951,
+      "points": 6015,
       "url": "https://github.com/storytold/gridcraft",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "ARahim3/DigUp - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code.",
-      "points": 5126,
+      "points": 5211,
       "url": "https://github.com/ARahim3/DigUp",
       "score": 5.6
     },
     {
-      "source": "GitHub",
-      "title": "jhaizhou-ops/d2r-mobile - Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock",
-      "points": 4101,
-      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "score": 5.6
+      "source": "HackerNews",
+      "title": "Nordwand Mono – A monospace font for coders and adventurers",
+      "points": 502,
+      "url": "https://github.com/tywr/Nordwand-Mono",
+      "score": 4.81
     },
     {
       "source": "HackerNews",
-      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-      "points": 415,
-      "url": "https://news.ycombinator.com/item?id=50151036",
-      "score": 4.57
+      "title": "Apple broke an essential presentation feature of iPads",
+      "points": 356,
+      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "score": 4.4
     },
     {
       "source": "HackerNews",
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "points": 376,
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "score": 4.46
+      "title": "Facebook Pages require paid subscription to post more than two links per month",
+      "points": 340,
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "score": 4.35
     },
     {
       "source": "HackerNews",
-      "title": "Ukraine claims first drone evacuation of wounded soldier",
-      "points": 256,
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-      "score": 4.05
+      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "points": 330,
+      "url": "https://github.com/microg/GmsCore/wiki",
+      "score": 4.31
     },
     {
       "source": "HackerNews",
-      "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
-      "points": 226,
-      "url": "https://josie.lol/blog/linux-rtx-spark",
-      "score": 3.93
+      "title": "Publish fake stats, get cited in LLMs",
+      "points": 260,
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "score": 4.07
     },
     {
       "source": "HackerNews",
-      "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
-      "points": 192,
-      "url": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
-      "score": 3.78
-    },
-    {
-      "source": "HackerNews",
-      "title": "It's still ok to enjoy programming",
-      "points": 579,
-      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-      "score": 3.12
-    },
-    {
-      "source": "HackerNews",
-      "title": "Wine ported to OpenBSD",
-      "points": 555,
-      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "score": 3.09
+      "title": "Google Cloud outage affects almost all banking and other operations in Europe",
+      "points": 231,
+      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "score": 3.95
     }
   ],
-  "count": 24
+  "count": 32
 }
