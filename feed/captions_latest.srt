@@ -1,44 +1,44 @@
 1
-00:00:00,000 --> 00:00:03,500
+00:00:00,000 --> 00:00:03,580
 5 words to never say in sales.
 
 2
-00:00:03,680 --> 00:00:11,530
+00:00:03,760 --> 00:00:12,040
 [PAIRS - rapid fire]
 Don't say sign, instead say authorize - because people authorizing
 
 3
-00:00:11,710 --> 00:00:15,070
+00:00:12,220 --> 00:00:15,560
 feels like a choice, not a trap.
 
 4
-00:00:15,250 --> 00:00:21,250
-Don't say maybe, instead say absolutely - certainty closes, maybe kills.
-
-5
-00:00:21,430 --> 00:00:27,840
-Don't say buy, instead say invest - people invest in value, not purchases.
-
-6
-00:00:28,020 --> 00:00:34,480
-Don't say problem, instead say concern - concerns get solved, problems get blamed.
-
-7
-00:00:34,660 --> 00:00:41,140
+00:00:15,740 --> 00:00:22,120
 Don't say contract, instead say agreement - agreements are mutual, contracts feel
 
-8
-00:00:41,320 --> 00:00:43,310
+5
+00:00:22,300 --> 00:00:24,220
 one-sided.
 
+6
+00:00:24,400 --> 00:00:31,100
+Don't say cheap, instead say affordable - affordable feels smart, cheap feels risky.
+
+7
+00:00:31,280 --> 00:00:37,880
+Don't say buy, instead say invest - people invest in value, not purchases.
+
+8
+00:00:38,060 --> 00:00:44,660
+Don't say problem, instead say concern - concerns get solved, problems get blamed.
+
 9
-00:00:43,490 --> 00:00:47,690
+00:00:44,840 --> 00:00:48,850
 Your sales does not have to sound like everyone else's.
 
 10
-00:00:47,870 --> 00:00:51,570
-Comment 'SYS' and I will send you the full list.
+00:00:49,030 --> 00:00:52,820
+Comment 'MOVE' and I will send you the full list.
 
 11
-00:00:51,750 --> 00:00:55,690
+00:00:52,1000 --> 00:00:57,080
 Make sure you follow - it only goes to followers.
