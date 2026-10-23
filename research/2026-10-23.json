@@ -4,107 +4,107 @@
     {
       "source": "GitHub",
       "title": "Gathin23/cleanyourtv - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-      "points": 25667,
+      "points": 27395,
       "url": "https://github.com/Gathin23/cleanyourtv",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-      "points": 20407,
+      "points": 20938,
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "jhaizhou-ops/d2r-mobile - Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion.",
-      "points": 4442,
+      "points": 4472,
       "url": "https://github.com/jhaizhou-ops/d2r-mobile",
       "score": 5.6
     },
     {
       "source": "GitHub",
+      "title": "simbasjungles/free-my-tv - A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+      "points": 3857,
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
       "title": "HeyPuter/everything - We're rebuilding and open-sourcing the world’s software from scratch.",
-      "points": 3655,
+      "points": 3713,
       "url": "https://github.com/HeyPuter/everything",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cur",
-      "points": 3652,
+      "points": 3669,
       "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
       "score": 5.6
     },
     {
-      "source": "GitHub",
-      "title": "simbasjungles/free-my-tv - A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
-      "points": 3621,
-      "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5.6
-    },
-    {
-      "source": "GitHub",
-      "title": "onehumanbeing/esp32-iphone-agent - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatibl",
-      "points": 3591,
-      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "score": 5.6
-    },
-    {
-      "source": "HackerNews",
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "points": 537,
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "score": 4.9
-    },
-    {
-      "source": "HackerNews",
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "points": 389,
-      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "score": 4.5
-    },
-    {
       "source": "HackerNews",
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "points": 383,
+      "points": 482,
       "url": "https://github.com/NVIDIA/OpenShell",
-      "score": 4.48
+      "score": 4.76
+    },
+    {
+      "source": "HackerNews",
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "points": 476,
+      "url": "https://news.ycombinator.com/item?id=50200997",
+      "score": 4.74
+    },
+    {
+      "source": "HackerNews",
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "points": 455,
+      "url": "https://blog.calif.io/p/iphone",
+      "score": 4.68
     },
     {
       "source": "HackerNews",
       "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "points": 330,
+      "points": 429,
       "url": "https://www.anthropic.com/research/formal-verification",
-      "score": 4.31
+      "score": 4.61
     },
     {
       "source": "HackerNews",
-      "title": "Quad9 to exit France",
-      "points": 1170,
-      "url": "https://quad9.net/news/blog/au-revoir-france/",
-      "score": 3.5
+      "title": "The alien space of science: Coherent but cognitively unavailable directions",
+      "points": 185,
+      "url": "https://arxiv.org/abs/2603.01092",
+      "score": 3.75
     },
     {
       "source": "HackerNews",
-      "title": "eMudhra to exit global SSL/TLS certificate business",
-      "points": 1038,
-      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+      "points": 176,
+      "url": "https://github.com/dsmurrell/onkey",
+      "score": 3.71
+    },
+    {
+      "source": "HackerNews",
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "points": 1022,
+      "url": "https://edjefferson.com/localwiki/",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "ly05010419/MacNativeGames -",
-      "points": 4662,
+      "points": 4837,
       "url": "https://github.com/ly05010419/MacNativeGames",
       "score": 3.5
     },
     {
-      "source": "HackerNews",
-      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
-      "points": 524,
-      "url": "https://news.ycombinator.com/item?id=50193416",
-      "score": 3.04
+      "source": "GitHub",
+      "title": "pengchujin/aerial-tv - 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other",
+      "points": 3779,
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "score": 3.5
     }
   ],
   "count": 32
