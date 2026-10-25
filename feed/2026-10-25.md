@@ -1,32 +1,36 @@
 # Viral Tech Pack · 2026-10-25
 
-**Format:** The Ad Creative Remix · **Source topic:** Unlock FPBF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
+**Format:** The Vocabulary Reframing · **Source topic:** Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK - financial pain] Most people spend $50,000 testing an open-source project that does it all to find the one that actually works. You can now recreate that success for free.
-[FLIP] Most people do this backwards. You just flip the equation: start with something that's already proven, then make it yours.
-[THE TOOL] Go to an open-source project that does it all. Find one you like, click it, upload your logo, your product images, your colors. It rebuilds the exact same structure that's already converting.
-[VISUAL PROOF] You are pointing at a an open-source project that does it all that is already making someone else money, and saying: build this, but make it mine.
-[CTA] Comment 'ALPHA' and I will send you the direct link. Follow first - the system only sends it to followers.
+[HOOK] 5 words to never say in productivity.
+[PAIRS - rapid fire]
+Don't say more hours, instead say better blocks - because people hours don't scale, focus does.
+Don't say multitask, instead say batch - batching actually finishes.
+Don't say hustle, instead say system - hustle burns out, systems compound.
+Don't say work harder, instead say work smarter - effort isn't the edge.
+Don't say stay busy, instead say stay focused - busy is a trap.
+[CLOSE] Your productivity does not have to sound like everyone else's. Comment 'SECRET' and I will send you the full list.
+Make sure you follow - it only goes to followers.
 
 ## TITLE
-Stop Wasting Money On Ads - Remix What Already Works
+The Vocabulary That Doubles Your Conversion Rate
 
 ## CAPTION
-Stop testing from zero. Remix what already converts. Comment 'ALPHA' and follow for the direct link.
+Words change how people feel about buying. These 7 swaps work everywhere. Comment 'SECRET' and follow for the full list.
 
 ## HASHTAGS
-#automation #startup #technology #unlockfpbf16instru
+#automation #startup #technology #debloatanyandroido
 
 ## POSTING TIPS
-- Reply to EVERY comment in the first hour - it doubles the algorithm push.
-- Pin your own comment with the direct link + a question.
 - Post 4-5 times a week consistently for 4 weeks before judging anything.
+- Same 3-4 keywords in title, spoken line, and on-screen text.
+- Use 3 hashtags max. More looks desperate.
 
 ## THUMBNAIL IDEA
-Before/after mockup of an ad, big text 'REMAKE THIS AD - FREE' with a dollar-sign strike-through.
+Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
 
 ---
-**Keyword CTA:** comment 'ALPHA' · **Voiceover file:** voiceover_2026-10-25.mp3 · **Captions:** captions_2026-10-25.srt
+**Keyword CTA:** comment 'SECRET' · **Voiceover file:** voiceover_2026-10-25.mp3 · **Captions:** captions_2026-10-25.srt
