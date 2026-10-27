@@ -1,108 +1,108 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "top": [
+    {
+      "source": "HackerNews",
+      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "points": 922,
+      "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+      "score": 5.6
+    },
     {
       "source": "GitHub",
       "title": "Gathin23/cleanyourtv - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-      "points": 38845,
+      "points": 40207,
       "url": "https://github.com/Gathin23/cleanyourtv",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-      "points": 22989,
+      "points": 23213,
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "Zagitta/gpu-unlock - Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
-      "points": 9339,
+      "points": 10400,
       "url": "https://github.com/Zagitta/gpu-unlock",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "seedds/nxnative - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO re",
-      "points": 5822,
-      "url": "https://github.com/seedds/nxnative",
-      "score": 5.6
-    },
-    {
-      "source": "GitHub",
       "title": "ly05010419/MacNativeGames - Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and",
-      "points": 5751,
+      "points": 5901,
       "url": "https://github.com/ly05010419/MacNativeGames",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "simbasjungles/free-my-tv - A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
-      "points": 4830,
+      "points": 4900,
       "url": "https://github.com/simbasjungles/free-my-tv",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "HeyPuter/everything - We're rebuilding and open-sourcing the world’s software from scratch.",
-      "points": 4133,
-      "url": "https://github.com/HeyPuter/everything",
+      "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked:",
+      "points": 3125,
+      "url": "https://github.com/aicodeking/leanrea",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Birdwatching rewires the brain and slows cognitive decline",
-      "points": 449,
-      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-      "score": 4.67
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "points": 853,
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "score": 5.57
     },
     {
       "source": "HackerNews",
       "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "points": 413,
+      "points": 692,
       "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "score": 4.57
+      "score": 5.25
     },
     {
       "source": "HackerNews",
       "title": "GPT-6.1 Terra",
-      "points": 312,
+      "points": 579,
       "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "score": 4.25
+      "score": 5.0
+    },
+    {
+      "source": "HackerNews",
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "points": 404,
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "score": 4.54
+    },
+    {
+      "source": "HackerNews",
+      "title": "Websites Should Be Printable",
+      "points": 328,
+      "url": "https://brennenputh.me/blog/printable-websites/",
+      "score": 4.31
     },
     {
       "source": "HackerNews",
       "title": "Blaise Pascal invented fixed route public transport (2024)",
-      "points": 232,
+      "points": 286,
       "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-      "score": 3.96
-    },
-    {
-      "source": "HackerNews",
-      "title": "Concerning behavior from a popular open-weight AI model",
-      "points": 175,
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "score": 3.7
-    },
-    {
-      "source": "HackerNews",
-      "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
-      "points": 153,
-      "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
-      "score": 3.59
+      "score": 4.16
     },
     {
       "source": "HackerNews",
       "title": "Anthropic S-1",
-      "points": 1284,
+      "points": 1601,
       "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "pengchujin/aerial-tv - 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other",
-      "points": 6010,
+      "points": 6432,
       "url": "https://github.com/pengchujin/aerial-tv",
       "score": 3.5
     }
