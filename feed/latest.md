@@ -1,34 +1,36 @@
 # Viral Tech Pack · 2026-10-31
 
-**Format:** The Autonomous Workforce · **Source topic:** Your GeForce runs AI at half speed. This fixes it for 203040 series cards. Up to 2 FP16 BF16
+**Format:** The Vocabulary Reframing · **Source topic:** AI 1439 2878
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK - urgency] Your Geforce Runs Ai At Half Speed. This Fixes It For 203040 Series Cards. Up To 2 Fp16 Bf16 are taking over the internet right now. This is how you get them working for you today.
-[WHO] And the people who figured this out first are already running entire operations without adding a Single Person to their team.
-[RETENTION BRIDGE] Watch till the end because the last thing I show you changes everything.
-[THE THING] It's called the platform everyone is switching to. The first platform where Your Geforce Runs Ai At Half Speed. This Fixes It For 203040 Series Cards. Up To 2 Fp16 Bf16 become real members of your team - with names, with roles, and the ability to work 24 hours a day.
-[RAPID-FIRE] Think creators. Think marketers. Think e-commerce. Think investors. Every single one of them can plug Your Geforce Runs Ai At Half Speed. This Fixes It For 203040 Series Cards. Up To 2 Fp16 Bf16 in and watch the busywork disappear.
-[PROOF] Every decision, every brief, every piece of feedback is remembered forever. No re-explaining. No lost ideas. No scattered files.
-[CTA] Comment 'START' and I will send you the direct link. Make sure you follow - the system only sends it to followers.
+[HOOK] 5 words to never say in productivity.
+[PAIRS - rapid fire]
+Don't say try harder, instead say simplify - because people simpler survives.
+Don't say multitask, instead say batch - batching actually finishes.
+Don't say discipline, instead say routine - discipline fades, routine holds.
+Don't say hustle, instead say system - hustle burns out, systems compound.
+Don't say stay busy, instead say stay focused - busy is a trap.
+[CLOSE] Your productivity does not have to sound like everyone else's. Comment 'TOOL' and I will send you the full list.
+Make sure you follow - it only goes to followers.
 
 ## TITLE
-Your Geforce Runs Ai At Half Speed. This Fixes It For 203040 Series Cards. Up To
+7 Words To Never Say In Sales
 
 ## CAPTION
-Your Geforce Runs Ai At Half Speed. This Fixes It For 203040 Series Cards. Up To 2 Fp16 Bf16 are moving fast. The people who start now get the unfair advantage. Comment 'START' and follow for the direct link.
+Words change how people feel about buying. These 7 swaps work everywhere. Comment 'TOOL' and follow for the full list.
 
 ## HASHTAGS
-#automation #technology #aitrends #yourgeforcerunsaia
+#technology #productivity #tech #ai14392878
 
 ## POSTING TIPS
 - Use 3 hashtags max. More looks desperate.
+- Post 4-5 times a week consistently for 4 weeks before judging anything.
 - Reply to EVERY comment in the first hour - it doubles the algorithm push.
-- Post at evening local time (19:00-21:00) for max initial engagement.
 
 ## THUMBNAIL IDEA
-Clean light UI mockup + big text 'Your Geforce Runs Ai At Half Speed. This Fixes It For 203040 Series Cards. Up To 2 Fp16 Bf16 ON YOUR TEAM' with a blue accent, phone in hand.
+Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
 
 ---
-**Keyword CTA:** comment 'START' · **Voiceover file:** voiceover_2026-10-31.mp3 · **Captions:** captions_2026-10-31.srt
+**Keyword CTA:** comment 'TOOL' · **Voiceover file:** voiceover_2026-10-31.mp3 · **Captions:** captions_2026-10-31.srt
