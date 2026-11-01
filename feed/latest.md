@@ -1,36 +1,33 @@
-# Viral Tech Pack · 2026-10-31
+# Viral Tech Pack · 2026-11-01
 
-**Format:** The Vocabulary Reframing · **Source topic:** AI 1439 2878
+**Format:** The Before/After Transformation · **Source topic:** ChatGPT and Codex usage limits merging
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK] 5 words to never say in productivity.
-[PAIRS - rapid fire]
-Don't say try harder, instead say simplify - because people simpler survives.
-Don't say multitask, instead say batch - batching actually finishes.
-Don't say discipline, instead say routine - discipline fades, routine holds.
-Don't say hustle, instead say system - hustle burns out, systems compound.
-Don't say stay busy, instead say stay focused - busy is a trap.
-[CLOSE] Your productivity does not have to sound like everyone else's. Comment 'TOOL' and I will send you the full list.
-Make sure you follow - it only goes to followers.
+[HOOK] I went from confused and overwhelmed to running it on autopilot using only ChatGPT and Codex usage limits merging - and it took a weekend.
+[STEP 1] Step one: pick ONE tool in the ChatGPT and Codex usage limits merging space and master it.
+[STEP 2] Step two: systemize the workflow so it runs without you.
+[STEP 3] Step three: document the results and post the process.
+[RESULT] The result: a system that works while you sleep.
+[CTA] Comment 'EDGE' and I will send you the exact system. Follow - it only goes to followers.
 
 ## TITLE
-7 Words To Never Say In Sales
+How Chatgpt And Codex Usage Limits Merging Made My Work Disappear
 
 ## CAPTION
-Words change how people feel about buying. These 7 swaps work everywhere. Comment 'TOOL' and follow for the full list.
+Systems beat motivation every time. Comment 'EDGE' and follow for the exact system.
 
 ## HASHTAGS
-#technology #productivity #tech #ai14392878
+#aitrends #technology #futureofwork #chatgptandcodexusa
 
 ## POSTING TIPS
-- Use 3 hashtags max. More looks desperate.
-- Post 4-5 times a week consistently for 4 weeks before judging anything.
+- Same 3-4 keywords in title, spoken line, and on-screen text.
 - Reply to EVERY comment in the first hour - it doubles the algorithm push.
+- Post at evening local time (19:00-21:00) for max initial engagement.
 
 ## THUMBNAIL IDEA
-Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
+Two columns 'BEFORE chaos' vs 'AFTER system' with an arrow between.
 
 ---
-**Keyword CTA:** comment 'TOOL' · **Voiceover file:** voiceover_2026-10-31.mp3 · **Captions:** captions_2026-10-31.srt
+**Keyword CTA:** comment 'EDGE' · **Voiceover file:** voiceover_2026-11-01.mp3 · **Captions:** captions_2026-11-01.srt
