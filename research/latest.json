@@ -4,107 +4,107 @@
     {
       "source": "GitHub",
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
-      "points": 10890,
+      "points": 12991,
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "score": 5.6
     },
     {
       "source": "GitHub",
+      "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "points": 6196,
+      "url": "https://github.com/heydamir/unslop",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "points": 5813,
+      "points": 5892,
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "points": 5374,
+      "points": 5481,
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "points": 5345,
-      "url": "https://github.com/heydamir/unslop",
-      "score": 5.6
-    },
-    {
-      "source": "GitHub",
       "title": "wangzan101/Mika - An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "points": 4739,
+      "points": 5245,
       "url": "https://github.com/wangzan101/Mika",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "The AI cost of JavaScript frameworks",
-      "points": 378,
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "score": 4.46
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "points": 455,
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "score": 4.68
     },
     {
       "source": "HackerNews",
-      "title": "OccupySaaS",
-      "points": 283,
-      "url": "https://occupysaas.com/",
-      "score": 4.15
+      "title": "If you love a website, back it up",
+      "points": 325,
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "score": 4.3
     },
     {
       "source": "HackerNews",
-      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-      "points": 202,
-      "url": "https://arxiv.org/abs/2409.02292",
-      "score": 3.83
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "points": 195,
+      "url": "https://syscall.sh/",
+      "score": 3.8
     },
     {
       "source": "HackerNews",
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "points": 2584,
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "title": "Astra can read and write weights to improve Qwen",
+      "points": 1531,
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-      "points": 1404,
-      "url": "https://hackerbooks.org",
+      "title": "WTF Ubuntu?",
+      "points": 1218,
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "pengchujin/aerial-tv - 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other",
-      "points": 8906,
+      "points": 9001,
       "url": "https://github.com/pengchujin/aerial-tv",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "unclebob/ub-mode -",
-      "points": 6422,
+      "points": 6535,
       "url": "https://github.com/unclebob/ub-mode",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "ccch1mneyyy/dsh-Go - dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-      "points": 5367,
+      "points": 5811,
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "points": 824,
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "score": 3.44
+      "title": "US boy names that became girl names and vice versa",
+      "points": 229,
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "score": 2.46
     },
     {
       "source": "HackerNews",
-      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-      "points": 492,
-      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-      "score": 2.99
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "points": 225,
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "score": 2.45
     }
   ],
   "count": 32
