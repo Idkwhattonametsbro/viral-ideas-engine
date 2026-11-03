@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-03",
+  "top": [
+    {
+      "source": "GitHub",
+      "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
+      "points": 15311,
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "points": 6813,
+      "url": "https://github.com/heydamir/unslop",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "points": 6006,
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "wangzan101/Mika - An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "points": 5818,
+      "url": "https://github.com/wangzan101/Mika",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
+      "points": 5803,
+      "url": "https://github.com/storytold/craft-anything",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "points": 5705,
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "score": 5.6
+    },
+    {
+      "source": "HackerNews",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "points": 704,
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "score": 5.27
+    },
+    {
+      "source": "HackerNews",
+      "title": "If you love a website, back it up",
+      "points": 554,
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "score": 4.94
+    },
+    {
+      "source": "HackerNews",
+      "title": "Scaling Git at OpenAI",
+      "points": 232,
+      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "score": 3.96
+    },
+    {
+      "source": "HackerNews",
+      "title": "Astra can read and write weights to improve Qwen",
+      "points": 2664,
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "unclebob/ub-mode -",
+      "points": 6687,
+      "url": "https://github.com/unclebob/ub-mode",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "ccch1mneyyy/dsh-Go - dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "points": 6536,
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "score": 3.5
+    },
+    {
+      "source": "HackerNews",
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "points": 523,
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "score": 3.04
+    },
+    {
+      "source": "HackerNews",
+      "title": "US boy names that became girl names and vice versa",
+      "points": 409,
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "score": 2.85
+    },
+    {
+      "source": "HackerNews",
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "points": 359,
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "score": 2.75
+    }
+  ],
+  "count": 32
+}
