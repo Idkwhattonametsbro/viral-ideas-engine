@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-04",
+  "top": [
+    {
+      "source": "HackerNews",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "points": 1265,
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
+      "points": 18038,
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
+      "points": 9758,
+      "url": "https://github.com/storytold/craft-anything",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "points": 7914,
+      "url": "https://github.com/heydamir/unslop",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "wangzan101/Mika - An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "points": 6328,
+      "url": "https://github.com/wangzan101/Mika",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "points": 6227,
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "points": 5869,
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "score": 5.6
+    },
+    {
+      "source": "HackerNews",
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "points": 796,
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "score": 5.46
+    },
+    {
+      "source": "HackerNews",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "points": 615,
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "score": 5.08
+    },
+    {
+      "source": "HackerNews",
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "points": 590,
+      "url": "https://neufangled.com/",
+      "score": 5.02
+    },
+    {
+      "source": "HackerNews",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "points": 468,
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "score": 4.72
+    },
+    {
+      "source": "HackerNews",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "points": 334,
+      "url": "https://arxiv.org/abs/2605.29713",
+      "score": 4.33
+    },
+    {
+      "source": "HackerNews",
+      "title": "C++26 Disapproved",
+      "points": 288,
+      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "score": 4.17
+    },
+    {
+      "source": "HackerNews",
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "points": 973,
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "ccch1mneyyy/dsh-Go - dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "points": 8639,
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "score": 3.5
+    }
+  ],
+  "count": 32
+}
