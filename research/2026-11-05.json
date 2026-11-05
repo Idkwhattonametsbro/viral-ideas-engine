@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-05",
+  "top": [
+    {
+      "source": "HackerNews",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "points": 1194,
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
+      "points": 19123,
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
+      "points": 13624,
+      "url": "https://github.com/storytold/craft-anything",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "points": 9077,
+      "url": "https://github.com/heydamir/unslop",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "wangzan101/Mika - An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "points": 6913,
+      "url": "https://github.com/wangzan101/Mika",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "points": 6461,
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "points": 6028,
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "score": 5.6
+    },
+    {
+      "source": "HackerNews",
+      "title": "Kimi K3.1 Pro model weights are out",
+      "points": 537,
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "score": 4.9
+    },
+    {
+      "source": "HackerNews",
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "points": 337,
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "score": 4.34
+    },
+    {
+      "source": "HackerNews",
+      "title": "A new Go API for JSON",
+      "points": 319,
+      "url": "https://go.dev/blog/jsonv2",
+      "score": 4.28
+    },
+    {
+      "source": "HackerNews",
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "points": 295,
+      "url": "https://www.ricursive.com/ripple",
+      "score": 4.19
+    },
+    {
+      "source": "HackerNews",
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "points": 240,
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "score": 3.99
+    },
+    {
+      "source": "HackerNews",
+      "title": "Residential proxies detected on White House network",
+      "points": 1063,
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "ccch1mneyyy/dsh-Go - dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "points": 10644,
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "unclebob/ub-mode -",
+      "points": 7050,
+      "url": "https://github.com/unclebob/ub-mode",
+      "score": 3.5
+    }
+  ],
+  "count": 24
+}
