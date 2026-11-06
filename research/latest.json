@@ -1,110 +1,110 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "top": [
+    {
+      "source": "HackerNews",
+      "title": "Claude Code sends your email address to websites",
+      "points": 1170,
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "score": 5.6
+    },
     {
       "source": "GitHub",
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
-      "points": 19425,
+      "points": 19959,
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
-      "points": 14747,
+      "points": 16425,
       "url": "https://github.com/storytold/craft-anything",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "points": 9690,
+      "points": 10284,
       "url": "https://github.com/heydamir/unslop",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "wangzan101/Mika - An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "points": 7064,
+      "points": 7295,
       "url": "https://github.com/wangzan101/Mika",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "points": 6544,
+      "points": 6651,
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "points": 6078,
+      "points": 6190,
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "GPT-6 Astra covertly underperforms on safety research",
-      "points": 237,
-      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-      "score": 3.98
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "points": 556,
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "score": 4.94
     },
     {
       "source": "HackerNews",
       "title": "I wish tech companies knew more about me",
-      "points": 221,
+      "points": 426,
       "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
-      "score": 3.91
+      "score": 4.6
+    },
+    {
+      "source": "HackerNews",
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "points": 344,
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "score": 4.36
     },
     {
       "source": "HackerNews",
       "title": "MCP Explained",
-      "points": 201,
+      "points": 302,
       "url": "https://mcp-explained.com/",
-      "score": 3.82
-    },
-    {
-      "source": "HackerNews",
-      "title": "Baidu released ERNIE 5.5 Flash Base",
-      "points": 157,
-      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-      "score": 3.62
+      "score": 4.22
     },
     {
       "source": "GitHub",
       "title": "ccch1mneyyy/dsh-Go - dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-      "points": 11368,
+      "points": 12355,
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "unclebob/ub-mode -",
-      "points": 7089,
+      "points": 7164,
       "url": "https://github.com/unclebob/ub-mode",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "points": 495,
-      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-      "score": 2.99
+      "title": "Goodbye from Salon",
+      "points": 586,
+      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "score": 3.13
     },
     {
       "source": "HackerNews",
       "title": "Motorola Signature 27 with GrapheneOS support",
-      "points": 309,
+      "points": 487,
       "url": "https://motorolanews.com/motorola-signature-27-2/",
-      "score": 2.65
-    },
-    {
-      "source": "HackerNews",
-      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-      "points": 221,
-      "url": "https://www.openssh.org/releasenotes.html#10.6p2",
-      "score": 2.44
+      "score": 2.98
     }
   ],
   "count": 31

@@ -1,33 +1,36 @@
-# Viral Tech Pack · 2026-11-05
+# Viral Tech Pack · 2026-11-06
 
-**Format:** The Before/After Transformation · **Source topic:** I wish tech companies knew more about me
+**Format:** The Vocabulary Reframing · **Source topic:** Cuban Facebook knowingly runs AI deepfake scam ads docs say 16B fraud revenue
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK] I went from confused and overwhelmed to running it on autopilot using only I wish tech companies knew more about me - and it took 14 days.
-[STEP 1] Step one: pick ONE tool in the I wish tech companies knew more about me space and master it.
-[STEP 2] Step two: systemize the workflow so it runs without you.
-[STEP 3] Step three: document the results and post the process.
-[RESULT] The result: a system that works while you sleep.
-[CTA] Comment 'MOVE' and I will send you the exact system. Follow - it only goes to followers.
+[HOOK] 5 words to never say in AI copywriting.
+[PAIRS - rapid fire]
+Don't say empower, instead say help - because people empower is corporate noise.
+Don't say leverage, instead say apply - leveraged is AI-slop.
+Don't say utilize, instead say use - short words win.
+Don't say delve, instead say dig into - nobody says delve.
+Don't say in today's world, instead say right now - timeless.
+[CLOSE] Your AI copywriting does not have to sound like everyone else's. Comment 'MOVE' and I will send you the full list.
+Make sure you follow - it only goes to followers.
 
 ## TITLE
-I Went From Zero To Automated With I Wish Tech Companies Knew More About Me
+Stop Saying These 7 Words Immediately
 
 ## CAPTION
-Systems beat motivation every time. Comment 'MOVE' and follow for the exact system.
+Words change how people feel about buying. These 7 swaps work everywhere. Comment 'MOVE' and follow for the full list.
 
 ## HASHTAGS
-#automation #aitrends #technology #iwishtechcompanies
+#aitools #technology #startup #cubanfacebookknowi
 
 ## POSTING TIPS
-- Same 3-4 keywords in title, spoken line, and on-screen text.
-- Keep the first 2 seconds purely the hook - no intro, no logo.
 - Post 4-5 times a week consistently for 4 weeks before judging anything.
+- Same 3-4 keywords in title, spoken line, and on-screen text.
+- Pin your own comment with the direct link + a question.
 
 ## THUMBNAIL IDEA
-Two columns 'BEFORE chaos' vs 'AFTER system' with an arrow between.
+Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
 
 ---
-**Keyword CTA:** comment 'MOVE' · **Voiceover file:** voiceover_2026-11-05.mp3 · **Captions:** captions_2026-11-05.srt
+**Keyword CTA:** comment 'MOVE' · **Voiceover file:** voiceover_2026-11-06.mp3 · **Captions:** captions_2026-11-06.srt
