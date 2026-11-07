@@ -1,36 +1,34 @@
 # Viral Tech Pack · 2026-11-07
 
-**Format:** The Vocabulary Reframing · **Source topic:** AI is dramatically accelerating AI research
+**Format:** The Autonomous Workforce · **Source topic:** Running a law firm on Free software
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK] 5 words to never say in productivity.
-[PAIRS - rapid fire]
-Don't say multitask, instead say batch - because people batching actually finishes.
-Don't say stay busy, instead say stay focused - busy is a trap.
-Don't say more hours, instead say better blocks - hours don't scale, focus does.
-Don't say work harder, instead say work smarter - effort isn't the edge.
-Don't say discipline, instead say routine - discipline fades, routine holds.
-[CLOSE] Your productivity does not have to sound like everyone else's. Comment 'TOOL' and I will send you the full list.
-Make sure you follow - it only goes to followers.
+[HOOK - urgency] Running A Law Firm On Free Software are taking over the internet right now. This is how you get them working for you today.
+[WHO] And the people who figured this out first are already running entire operations without adding a Single Person to their team.
+[RETENTION BRIDGE] Watch till the end because the last thing I show you changes everything.
+[THE THING] It's called the platform everyone is switching to. The first platform where Running A Law Firm On Free Software become real members of your team - with names, with roles, and the ability to work 24 hours a day.
+[RAPID-FIRE] Think creators. Think marketers. Think e-commerce. Think investors. Every single one of them can plug Running A Law Firm On Free Software in and watch the busywork disappear.
+[PROOF] Every decision, every brief, every piece of feedback is remembered forever. No re-explaining. No lost ideas. No scattered files.
+[CTA] Comment 'MOVE' and I will send you the direct link. Make sure you follow - the system only sends it to followers.
 
 ## TITLE
-The Vocabulary That Doubles Your Conversion Rate
+This Platform Turns Running A Law Firm On Free Software Into Your 24/7 Workforce
 
 ## CAPTION
-Words change how people feel about buying. These 7 swaps work everywhere. Comment 'TOOL' and follow for the full list.
+Running A Law Firm On Free Software are moving fast. The people who start now get the unfair advantage. Comment 'MOVE' and follow for the direct link.
 
 ## HASHTAGS
-#aiagents #automation #technology #aiisdramaticallyac
+#productivity #technews #aiagents #runningalawfirmonf
 
 ## POSTING TIPS
-- Same 3-4 keywords in title, spoken line, and on-screen text.
 - Use 3 hashtags max. More looks desperate.
-- Post at evening local time (19:00-21:00) for max initial engagement.
+- Reply to EVERY comment in the first hour - it doubles the algorithm push.
+- Same 3-4 keywords in title, spoken line, and on-screen text.
 
 ## THUMBNAIL IDEA
-Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
+Clean light UI mockup + big text 'Running A Law Firm On Free Software ON YOUR TEAM' with a blue accent, phone in hand.
 
 ---
-**Keyword CTA:** comment 'TOOL' · **Voiceover file:** voiceover_2026-11-07.mp3 · **Captions:** captions_2026-11-07.srt
+**Keyword CTA:** comment 'MOVE' · **Voiceover file:** voiceover_2026-11-07.mp3 · **Captions:** captions_2026-11-07.srt
