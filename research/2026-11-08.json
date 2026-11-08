@@ -4,106 +4,106 @@
     {
       "source": "GitHub",
       "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
-      "points": 21548,
+      "points": 22366,
       "url": "https://github.com/storytold/craft-anything",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
-      "points": 20997,
+      "points": 21157,
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "points": 11557,
+      "points": 11856,
       "url": "https://github.com/heydamir/unslop",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "wangzan101/Mika - An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "points": 7669,
+      "points": 7726,
       "url": "https://github.com/wangzan101/Mika",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "points": 6401,
+      "points": 6434,
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "patch-gg/pixelfx - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-      "points": 5958,
+      "points": 6054,
       "url": "https://github.com/patch-gg/pixelfx",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-      "points": 462,
-      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-      "score": 4.7
-    },
-    {
-      "source": "HackerNews",
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "points": 456,
-      "url": "https://hunch.net/?p=13764006",
-      "score": 4.69
-    },
-    {
-      "source": "HackerNews",
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "points": 392,
+      "points": 520,
       "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "score": 4.51
+      "score": 4.85
     },
     {
       "source": "HackerNews",
       "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
-      "points": 325,
+      "points": 430,
       "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
-      "score": 4.3
+      "score": 4.62
     },
     {
       "source": "HackerNews",
-      "title": "Running a law firm on Free software",
-      "points": 278,
-      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-      "score": 4.13
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "points": 272,
+      "url": "https://github.com/synchopate/llama-modchip",
+      "score": 4.11
     },
     {
       "source": "HackerNews",
-      "title": "Need for Speed Underground 2 online in the browser",
-      "points": 989,
-      "url": "https://nfsu2.xyz/",
-      "score": 3.5
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "points": 199,
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "score": 3.82
+    },
+    {
+      "source": "HackerNews",
+      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "points": 151,
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "score": 3.58
     },
     {
       "source": "GitHub",
       "title": "zortos293/Lichii - VERY experimental Nintendo Switch 2 emulator",
-      "points": 6170,
+      "points": 6627,
       "url": "https://github.com/zortos293/Lichii",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "valentderah/totk-pc-recomp - Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64",
-      "points": 5762,
+      "points": 5880,
       "url": "https://github.com/valentderah/totk-pc-recomp",
       "score": 3.5
     },
     {
       "source": "HackerNews",
       "title": "Every Mac comes with an (undocumented) family member classifier",
-      "points": 725,
+      "points": 824,
       "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "score": 3.44
+    },
+    {
+      "source": "HackerNews",
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "points": 725,
+      "url": "https://blog.bosscher.ch/posts/openstick/",
       "score": 3.32
     }
   ],
