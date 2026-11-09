@@ -4,107 +4,107 @@
     {
       "source": "GitHub",
       "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
-      "points": 23649,
+      "points": 24398,
       "url": "https://github.com/storytold/craft-anything",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
-      "points": 21558,
+      "points": 21734,
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "points": 12343,
+      "points": 12732,
       "url": "https://github.com/heydamir/unslop",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "wangzan101/Mika - An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "points": 7844,
+      "points": 7905,
       "url": "https://github.com/wangzan101/Mika",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "points": 6511,
+      "points": 6548,
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "patch-gg/pixelfx - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-      "points": 6215,
+      "points": 6321,
       "url": "https://github.com/patch-gg/pixelfx",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-      "points": 790,
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "score": 5.45
+      "title": "Fold Epic Paper Airplanes",
+      "points": 799,
+      "url": "https://www.foldableflight.com",
+      "score": 5.46
     },
     {
       "source": "HackerNews",
-      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "points": 702,
-      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
-      "score": 5.27
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "points": 441,
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "score": 4.65
     },
     {
       "source": "HackerNews",
-      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-      "points": 524,
-      "url": "https://ketchup3d.github.io/app/",
-      "score": 4.86
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "points": 367,
+      "url": "https://postalpro.usps.com/zcb",
+      "score": 4.43
     },
     {
       "source": "HackerNews",
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "points": 429,
-      "url": "https://github.com/synchopate/llama-modchip",
-      "score": 4.61
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "points": 284,
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "score": 4.15
     },
     {
       "source": "HackerNews",
-      "title": "Outlook.com is rejecting email from domains without DMARC",
-      "points": 420,
-      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-      "score": 4.59
+      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+      "points": 254,
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "score": 4.04
     },
     {
       "source": "HackerNews",
-      "title": "I'm not convinced the AI bubble exists",
-      "points": 318,
-      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-      "score": 4.27
+      "title": "Our Smallest, Most Efficient Model: Muse Ember",
+      "points": 220,
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "score": 3.91
     },
     {
       "source": "GitHub",
       "title": "zortos293/Lichii - VERY experimental Nintendo Switch 2 emulator",
-      "points": 7154,
+      "points": 7592,
       "url": "https://github.com/zortos293/Lichii",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "valentderah/totk-pc-recomp - Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64",
-      "points": 6057,
+      "points": 6183,
       "url": "https://github.com/valentderah/totk-pc-recomp",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "Goodbye Claude, hello Pi",
-      "points": 771,
-      "url": "https://caleb.software/posts/claude-to-pi.html",
-      "score": 3.38
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "points": 840,
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "score": 3.46
     }
   ],
   "count": 32
