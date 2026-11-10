@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-10",
+  "top": [
+    {
+      "source": "HackerNews",
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "points": 1042,
+      "url": "https://www.foldableflight.com",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
+      "points": 25406,
+      "url": "https://github.com/storytold/craft-anything",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
+      "points": 22020,
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "points": 13161,
+      "url": "https://github.com/heydamir/unslop",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "wangzan101/Mika - An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "points": 7989,
+      "url": "https://github.com/wangzan101/Mika",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "patch-gg/pixelfx - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "points": 6528,
+      "url": "https://github.com/patch-gg/pixelfx",
+      "score": 5.6
+    },
+    {
+      "source": "HackerNews",
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "points": 624,
+      "url": "https://postalpro.usps.com/zcb",
+      "score": 5.1
+    },
+    {
+      "source": "HackerNews",
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "points": 620,
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "score": 5.09
+    },
+    {
+      "source": "HackerNews",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "points": 532,
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "score": 4.88
+    },
+    {
+      "source": "HackerNews",
+      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+      "points": 317,
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "score": 4.27
+    },
+    {
+      "source": "HackerNews",
+      "title": "Muse Ember: Our smallest, most efficient model",
+      "points": 305,
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "score": 4.23
+    },
+    {
+      "source": "GitHub",
+      "title": "zortos293/Lichii - VERY experimental Nintendo Switch 2 emulator",
+      "points": 7871,
+      "url": "https://github.com/zortos293/Lichii",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "Minireel/HGhub - YellowFruit third-party client",
+      "points": 7524,
+      "url": "https://github.com/Minireel/HGhub",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "valentderah/totk-pc-recomp - Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64",
+      "points": 6298,
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "score": 3.5
+    },
+    {
+      "source": "HackerNews",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "points": 627,
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "score": 3.19
+    }
+  ],
+  "count": 32
+}
