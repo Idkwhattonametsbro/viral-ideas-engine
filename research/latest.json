@@ -2,109 +2,109 @@
   "date": "2026-11-10",
   "top": [
     {
-      "source": "HackerNews",
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "points": 1042,
-      "url": "https://www.foldableflight.com",
-      "score": 5.6
-    },
-    {
       "source": "GitHub",
       "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
-      "points": 25406,
+      "points": 26056,
       "url": "https://github.com/storytold/craft-anything",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
-      "points": 22020,
+      "points": 22157,
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "points": 13161,
+      "points": 13638,
       "url": "https://github.com/heydamir/unslop",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "wangzan101/Mika - An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "points": 7989,
+      "points": 8062,
       "url": "https://github.com/wangzan101/Mika",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "patch-gg/pixelfx - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-      "points": 6528,
+      "points": 6641,
       "url": "https://github.com/patch-gg/pixelfx",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "points": 624,
-      "url": "https://postalpro.usps.com/zcb",
-      "score": 5.1
-    },
-    {
-      "source": "HackerNews",
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "points": 620,
-      "url": "https://github.com/thisisme6598/gemini_files/",
-      "score": 5.09
-    },
-    {
-      "source": "HackerNews",
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "points": 532,
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "title": "AlphaProof Code",
+      "points": 531,
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
       "score": 4.88
     },
     {
       "source": "HackerNews",
-      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-      "points": 317,
-      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-      "score": 4.27
+      "title": "AI usage generates a fragile codebase",
+      "points": 272,
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "score": 4.11
     },
     {
       "source": "HackerNews",
-      "title": "Muse Ember: Our smallest, most efficient model",
-      "points": 305,
-      "url": "https://research.meta.ai/blog/muse-ember",
-      "score": 4.23
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "points": 179,
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "score": 3.72
     },
     {
       "source": "GitHub",
       "title": "zortos293/Lichii - VERY experimental Nintendo Switch 2 emulator",
-      "points": 7871,
+      "points": 8124,
       "url": "https://github.com/zortos293/Lichii",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "Minireel/HGhub - YellowFruit third-party client",
-      "points": 7524,
+      "points": 8083,
       "url": "https://github.com/Minireel/HGhub",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "valentderah/totk-pc-recomp - Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64",
-      "points": 6298,
+      "points": 6387,
       "url": "https://github.com/valentderah/totk-pc-recomp",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "points": 627,
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "score": 3.19
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "points": 668,
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "score": 3.25
+    },
+    {
+      "source": "HackerNews",
+      "title": ".name Grandfathered",
+      "points": 511,
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "score": 3.02
+    },
+    {
+      "source": "HackerNews",
+      "title": "Smart home devices should work without the internet",
+      "points": 483,
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "score": 2.97
+    },
+    {
+      "source": "HackerNews",
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "points": 354,
+      "url": "https://www.blender.org/download/releases/5-3/",
+      "score": 2.74
     }
   ],
   "count": 32
