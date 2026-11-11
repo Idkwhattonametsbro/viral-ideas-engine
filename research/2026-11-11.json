@@ -2,109 +2,109 @@
   "date": "2026-11-11",
   "top": [
     {
+      "source": "HackerNews",
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "points": 878,
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "score": 5.6
+    },
+    {
       "source": "GitHub",
       "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
-      "points": 27513,
+      "points": 28284,
       "url": "https://github.com/storytold/craft-anything",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
-      "points": 22364,
+      "points": 22481,
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "points": 14137,
+      "points": 14477,
       "url": "https://github.com/heydamir/unslop",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "wangzan101/Mika - An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "points": 8166,
+      "points": 8240,
       "url": "https://github.com/wangzan101/Mika",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "patch-gg/pixelfx - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-      "points": 6848,
-      "url": "https://github.com/patch-gg/pixelfx",
+      "title": "JuneYaooo/rea-video - Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. 逆向一切视",
+      "points": 7019,
+      "url": "https://github.com/JuneYaooo/rea-video",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "AlphaProof Code",
-      "points": 639,
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "score": 5.13
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "points": 330,
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "score": 4.31
     },
     {
       "source": "HackerNews",
-      "title": "AI usage generates a fragile codebase",
-      "points": 559,
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "score": 4.95
+      "title": "Hyper-Realistic Sand with WebGL2",
+      "points": 254,
+      "url": "https://av.github.io/safe-sand/",
+      "score": 4.04
     },
     {
       "source": "HackerNews",
-      "title": "Synaptics patent claims stop work on DisplayLink drivers",
-      "points": 405,
-      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-      "score": 4.54
-    },
-    {
-      "source": "HackerNews",
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "points": 370,
-      "url": "https://github.com/GoogleChrome/modern-web-guidance",
-      "score": 4.44
-    },
-    {
-      "source": "HackerNews",
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "points": 263,
-      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "score": 4.08
-    },
-    {
-      "source": "HackerNews",
-      "title": "Smart home devices should work without the internet",
-      "points": 959,
-      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-      "score": 3.5
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "points": 167,
+      "url": "https://blog.atuin.sh/threads-agent-sessions/",
+      "score": 3.67
     },
     {
       "source": "GitHub",
       "title": "zortos293/Lichii - VERY experimental Nintendo Switch 2 emulator",
-      "points": 8332,
+      "points": 8497,
       "url": "https://github.com/zortos293/Lichii",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "Minireel/HGhub - YellowFruit third-party client",
-      "points": 8244,
+      "points": 8283,
       "url": "https://github.com/Minireel/HGhub",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "NotRexed/Hookshot - A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-      "points": 7023,
+      "points": 7630,
       "url": "https://github.com/NotRexed/Hookshot",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": ".name Grandfathered",
-      "points": 847,
-      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "title": "Gemini Decisions API",
+      "points": 131,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
       "score": 3.47
+    },
+    {
+      "source": "HackerNews",
+      "title": "Tim Peters has died",
+      "points": 643,
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "score": 3.21
+    },
+    {
+      "source": "HackerNews",
+      "title": "AWS emulator",
+      "points": 475,
+      "url": "https://github.com/aws/aws-emulator",
+      "score": 2.96
     }
   ],
   "count": 32
