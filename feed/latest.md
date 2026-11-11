@@ -1,34 +1,36 @@
-# Viral Tech Pack · 2026-11-10
+# Viral Tech Pack · 2026-11-11
 
-**Format:** The Autonomous Workforce · **Source topic:** 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
+**Format:** The Vocabulary Reframing · **Source topic:** Craft Anything understand how any software works, and craft your own.
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK - urgency] 244 Pixel Art Effects, Every One A Small Piece Of Code. Plus A Claude Code Skill To Make Your Own. are taking over the internet right now. This is how you get them working for you today.
-[WHO] And the people who figured this out first are already running entire operations without adding a Single Person to their team.
-[RETENTION BRIDGE] Watch till the end because the last thing I show you changes everything.
-[THE THING] It's called the platform everyone is switching to. The first platform where 244 Pixel Art Effects, Every One A Small Piece Of Code. Plus A Claude Code Skill To Make Your Own. become real members of your team - with names, with roles, and the ability to work 24 hours a day.
-[RAPID-FIRE] Think creators. Think marketers. Think e-commerce. Think investors. Every single one of them can plug 244 Pixel Art Effects, Every One A Small Piece Of Code. Plus A Claude Code Skill To Make Your Own. in and watch the busywork disappear.
-[PROOF] Every decision, every brief, every piece of feedback is remembered forever. No re-explaining. No lost ideas. No scattered files.
-[CTA] Comment 'EDGE' and I will send you the direct link. Make sure you follow - the system only sends it to followers.
+[HOOK] 5 words to never say in productivity.
+[PAIRS - rapid fire]
+Don't say hustle, instead say system - because people hustle burns out, systems compound.
+Don't say multitask, instead say batch - batching actually finishes.
+Don't say more hours, instead say better blocks - hours don't scale, focus does.
+Don't say stay busy, instead say stay focused - busy is a trap.
+Don't say work harder, instead say work smarter - effort isn't the edge.
+[CLOSE] Your productivity does not have to sound like everyone else's. Comment 'TOOL' and I will send you the full list.
+Make sure you follow - it only goes to followers.
 
 ## TITLE
-244 Pixel Art Effects, Every One A Small Piece Of Code. Plus A Claude Code Skill
+The Vocabulary That Doubles Your Conversion Rate
 
 ## CAPTION
-244 Pixel Art Effects, Every One A Small Piece Of Code. Plus A Claude Code Skill To Make Your Own. are moving fast. The people who start now get the unfair advantage. Comment 'EDGE' and follow for the direct link.
+Words change how people feel about buying. These 7 swaps work everywhere. Comment 'TOOL' and follow for the full list.
 
 ## HASHTAGS
-#aitools #automation #productivity #244pixelarteffects
+#aitools #aiagents #technews #craftanythingunder
 
 ## POSTING TIPS
-- Post at evening local time (19:00-21:00) for max initial engagement.
 - Keep the first 2 seconds purely the hook - no intro, no logo.
+- Same 3-4 keywords in title, spoken line, and on-screen text.
 - Reply to EVERY comment in the first hour - it doubles the algorithm push.
 
 ## THUMBNAIL IDEA
-Clean light UI mockup + big text '244 Pixel Art Effects, Every One A Small Piece Of Code. Plus A Claude Code Skill To Make Your Own. ON YOUR TEAM' with a blue accent, phone in hand.
+Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
 
 ---
-**Keyword CTA:** comment 'EDGE' · **Voiceover file:** voiceover_2026-11-10.mp3 · **Captions:** captions_2026-11-10.srt
+**Keyword CTA:** comment 'TOOL' · **Voiceover file:** voiceover_2026-11-11.mp3 · **Captions:** captions_2026-11-11.srt
