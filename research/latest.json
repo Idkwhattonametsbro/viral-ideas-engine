@@ -2,109 +2,109 @@
   "date": "2026-11-12",
   "top": [
     {
-      "source": "HackerNews",
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "points": 1046,
-      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-      "score": 5.6
-    },
-    {
-      "source": "HackerNews",
-      "title": "My AI agents found an unmapped Maya site?",
-      "points": 993,
-      "url": "https://pietromiotti.com/latest/maya-site",
-      "score": 5.6
-    },
-    {
       "source": "GitHub",
       "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
-      "points": 29181,
+      "points": 29743,
       "url": "https://github.com/storytold/craft-anything",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
-      "points": 22651,
+      "points": 22731,
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "patch-gg/pixelfx - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-      "points": 7093,
-      "url": "https://github.com/patch-gg/pixelfx",
-      "score": 5.6
-    },
-    {
-      "source": "GitHub",
       "title": "janestreet/agent_skills - Agent skills",
-      "points": 6819,
+      "points": 7693,
       "url": "https://github.com/janestreet/agent_skills",
       "score": 5.6
     },
     {
       "source": "GitHub",
+      "title": "patch-gg/pixelfx - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "points": 7164,
+      "url": "https://github.com/patch-gg/pixelfx",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
       "title": "huamidev/GestaltX - An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
-      "points": 6730,
+      "points": 6913,
       "url": "https://github.com/huamidev/GestaltX",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "points": 561,
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "score": 4.95
+      "title": "Ask HN: Microsoft/Azure Outage?",
+      "points": 393,
+      "url": "https://news.ycombinator.com/item?id=50471668",
+      "score": 4.51
     },
     {
       "source": "HackerNews",
-      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "points": 495,
-      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-      "score": 4.79
+      "title": "Why Writing Correct Software Is Hard",
+      "points": 332,
+      "url": "https://pron.github.io/posts/correctness-and-complexity",
+      "score": 4.32
     },
     {
       "source": "HackerNews",
-      "title": "Gemini Decisions API",
-      "points": 440,
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "score": 4.64
+      "title": "I'm making LLMs work on small and old devices",
+      "points": 221,
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "score": 3.91
     },
     {
       "source": "HackerNews",
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "points": 439,
-      "url": "https://www.mcmillen.dev/sigbovik/",
-      "score": 4.64
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "points": 185,
+      "url": "https://github.com/simpsoka/zigzag",
+      "score": 3.75
     },
     {
       "source": "HackerNews",
-      "title": "Hyper-Realistic Sand with WebGL2",
-      "points": 386,
-      "url": "https://av.github.io/safe-sand/",
-      "score": 4.49
-    },
-    {
-      "source": "HackerNews",
-      "title": "Tim Peters has died",
-      "points": 1221,
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "title": "Jensen Huang resigns",
+      "points": 2452,
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "zortos293/Lichii - VERY experimental Nintendo Switch 2 emulator",
-      "points": 8640,
+      "points": 8741,
       "url": "https://github.com/zortos293/Lichii",
       "score": 3.5
     },
     {
       "source": "GitHub",
+      "title": "NotRexed/Hookshot - A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "points": 8687,
+      "url": "https://github.com/NotRexed/Hookshot",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
       "title": "Minireel/HGhub - YellowFruit third-party client",
-      "points": 8403,
+      "points": 8630,
       "url": "https://github.com/Minireel/HGhub",
       "score": 3.5
+    },
+    {
+      "source": "HackerNews",
+      "title": "Anthropic IPO",
+      "points": 731,
+      "url": "https://ipo.anthropic.com/us/",
+      "score": 3.33
+    },
+    {
+      "source": "HackerNews",
+      "title": "Socratic Tutor",
+      "points": 635,
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "score": 3.2
     }
   ],
   "count": 32
