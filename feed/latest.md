@@ -1,36 +1,32 @@
-# Viral Tech Pack · 2026-11-12
+# Viral Tech Pack · 2026-11-13
 
-**Format:** The Vocabulary Reframing · **Source topic:** Agent skills
+**Format:** The Ad Creative Remix · **Source topic:** Service degradation on Microsoft 365
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK] 5 words to never say in AI copywriting.
-[PAIRS - rapid fire]
-Don't say utilize, instead say use - because people short words win.
-Don't say leverage, instead say apply - leveraged is AI-slop.
-Don't say delve, instead say dig into - nobody says delve.
-Don't say empower, instead say help - empower is corporate noise.
-Don't say revolutionize, instead say change - nobody believes revolution.
-[CLOSE] Your AI copywriting does not have to sound like everyone else's. Comment 'START' and I will send you the full list.
-Make sure you follow - it only goes to followers.
+[HOOK - financial pain] Most people spend $10,000 testing the exact system top creators use to find the one that actually works. You can now recreate that success for free.
+[FLIP] Most people do this backwards. You just flip the equation: start with something that's already proven, then make it yours.
+[THE TOOL] Go to the exact system top creators use. Find one you like, click it, upload your logo, your product images, your colors. It rebuilds the exact same structure that's already converting.
+[VISUAL PROOF] You are pointing at a the exact system top creators use that is already making someone else money, and saying: build this, but make it mine.
+[CTA] Comment 'MOVE' and I will send you the direct link. Follow first - the system only sends it to followers.
 
 ## TITLE
-The Vocabulary That Doubles Your Conversion Rate
+Recreate A Winning Ad For Free In 5 Minutes
 
 ## CAPTION
-Words change how people feel about buying. These 7 swaps work everywhere. Comment 'START' and follow for the full list.
+Stop testing from zero. Remix what already converts. Comment 'MOVE' and follow for the direct link.
 
 ## HASHTAGS
-#technology #automation #productivity #agentskills
+#futureofwork #technology #tech #servicedegradation
 
 ## POSTING TIPS
-- Use 3 hashtags max. More looks desperate.
-- Post at evening local time (19:00-21:00) for max initial engagement.
+- Same 3-4 keywords in title, spoken line, and on-screen text.
+- End every video with the same follow CTA so it becomes a habit for viewers.
 - Pin your own comment with the direct link + a question.
 
 ## THUMBNAIL IDEA
-Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
+Before/after mockup of an ad, big text 'REMAKE THIS AD - FREE' with a dollar-sign strike-through.
 
 ---
-**Keyword CTA:** comment 'START' · **Voiceover file:** voiceover_2026-11-12.mp3 · **Captions:** captions_2026-11-12.srt
+**Keyword CTA:** comment 'MOVE' · **Voiceover file:** voiceover_2026-11-13.mp3 · **Captions:** captions_2026-11-13.srt

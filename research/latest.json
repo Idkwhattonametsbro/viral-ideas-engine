@@ -1,110 +1,110 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "top": [
+    {
+      "source": "HackerNews",
+      "title": "Service degradation on Microsoft 365",
+      "points": 911,
+      "url": "https://status.cloud.microsoft/",
+      "score": 5.6
+    },
     {
       "source": "GitHub",
       "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
-      "points": 29743,
+      "points": 30820,
       "url": "https://github.com/storytold/craft-anything",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
-      "points": 22731,
+      "points": 22925,
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "janestreet/agent_skills - Agent skills",
-      "points": 7693,
+      "points": 8002,
       "url": "https://github.com/janestreet/agent_skills",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "patch-gg/pixelfx - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-      "points": 7164,
-      "url": "https://github.com/patch-gg/pixelfx",
-      "score": 5.6
-    },
-    {
-      "source": "GitHub",
       "title": "huamidev/GestaltX - An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
-      "points": 6913,
+      "points": 7134,
       "url": "https://github.com/huamidev/GestaltX",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Ask HN: Microsoft/Azure Outage?",
-      "points": 393,
-      "url": "https://news.ycombinator.com/item?id=50471668",
-      "score": 4.51
-    },
-    {
-      "source": "HackerNews",
-      "title": "Why Writing Correct Software Is Hard",
-      "points": 332,
-      "url": "https://pron.github.io/posts/correctness-and-complexity",
-      "score": 4.32
-    },
-    {
-      "source": "HackerNews",
-      "title": "I'm making LLMs work on small and old devices",
-      "points": 221,
-      "url": "https://github.com/hyperionaidev/smolmaxxing/",
-      "score": 3.91
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "points": 610,
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "score": 5.07
     },
     {
       "source": "HackerNews",
       "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-      "points": 185,
+      "points": 538,
       "url": "https://github.com/simpsoka/zigzag",
-      "score": 3.75
+      "score": 4.9
+    },
+    {
+      "source": "HackerNews",
+      "title": "I'm making LLMs work on small and old devices",
+      "points": 378,
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "score": 4.46
+    },
+    {
+      "source": "HackerNews",
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "points": 319,
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "score": 4.28
+    },
+    {
+      "source": "HackerNews",
+      "title": "Microsoft Outlook/365 still down after 12 hours",
+      "points": 310,
+      "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+      "score": 4.25
+    },
+    {
+      "source": "HackerNews",
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "points": 287,
+      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "score": 4.17
     },
     {
       "source": "HackerNews",
       "title": "Jensen Huang resigns",
-      "points": 2452,
+      "points": 3590,
       "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-      "score": 3.5
-    },
-    {
-      "source": "GitHub",
-      "title": "zortos293/Lichii - VERY experimental Nintendo Switch 2 emulator",
-      "points": 8741,
-      "url": "https://github.com/zortos293/Lichii",
-      "score": 3.5
-    },
-    {
-      "source": "GitHub",
-      "title": "NotRexed/Hookshot - A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-      "points": 8687,
-      "url": "https://github.com/NotRexed/Hookshot",
-      "score": 3.5
-    },
-    {
-      "source": "GitHub",
-      "title": "Minireel/HGhub - YellowFruit third-party client",
-      "points": 8630,
-      "url": "https://github.com/Minireel/HGhub",
       "score": 3.5
     },
     {
       "source": "HackerNews",
       "title": "Anthropic IPO",
-      "points": 731,
+      "points": 940,
       "url": "https://ipo.anthropic.com/us/",
-      "score": 3.33
+      "score": 3.5
     },
     {
-      "source": "HackerNews",
-      "title": "Socratic Tutor",
-      "points": 635,
-      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
-      "score": 3.2
+      "source": "GitHub",
+      "title": "NotRexed/Hookshot - A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "points": 9110,
+      "url": "https://github.com/NotRexed/Hookshot",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "zortos293/Lichii - VERY experimental Nintendo Switch 2 emulator",
+      "points": 8849,
+      "url": "https://github.com/zortos293/Lichii",
+      "score": 3.5
     }
   ],
   "count": 32
