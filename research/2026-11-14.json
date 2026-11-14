@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-14",
+  "top": [
+    {
+      "source": "GitHub",
+      "title": "janestreet/agent_skills - Agent skills",
+      "points": 8393,
+      "url": "https://github.com/janestreet/agent_skills",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "huamidev/GestaltX - An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+      "points": 7452,
+      "url": "https://github.com/huamidev/GestaltX",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "KKKKhazix/agent-autoloop - 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "points": 5237,
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "expo/exact - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it,",
+      "points": 4082,
+      "url": "https://github.com/expo/exact",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "shanselman/gputaskman - A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cac",
+      "points": 3142,
+      "url": "https://github.com/shanselman/gputaskman",
+      "score": 5.6
+    },
+    {
+      "source": "HackerNews",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "points": 748,
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "score": 5.36
+    },
+    {
+      "source": "HackerNews",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "points": 559,
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "score": 4.95
+    },
+    {
+      "source": "HackerNews",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "points": 292,
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "score": 4.18
+    },
+    {
+      "source": "HackerNews",
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "points": 261,
+      "url": "https://orcasairband.com/",
+      "score": 4.07
+    },
+    {
+      "source": "HackerNews",
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "points": 260,
+      "url": "https://haddyalchaer.com/jepa",
+      "score": 4.07
+    },
+    {
+      "source": "HackerNews",
+      "title": "A technical vision for the Haskell ecosystem",
+      "points": 204,
+      "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+      "score": 3.84
+    },
+    {
+      "source": "HackerNews",
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "points": 1539,
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "Minireel/HGhub - YellowFruit third-party client",
+      "points": 8836,
+      "url": "https://github.com/Minireel/HGhub",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "tangerineturtle1/NX2navi -",
+      "points": 3982,
+      "url": "https://github.com/tangerineturtle1/NX2navi",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "mromidev/claude-animated-shorts - Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotio",
+      "points": 3308,
+      "url": "https://github.com/mromidev/claude-animated-shorts",
+      "score": 3.5
+    }
+  ],
+  "count": 32
+}

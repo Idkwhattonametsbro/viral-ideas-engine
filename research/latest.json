@@ -1,110 +1,110 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "top": [
     {
       "source": "GitHub",
-      "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
-      "points": 31345,
-      "url": "https://github.com/storytold/craft-anything",
-      "score": 5.6
-    },
-    {
-      "source": "GitHub",
-      "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
-      "points": 23015,
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 5.6
-    },
-    {
-      "source": "GitHub",
       "title": "janestreet/agent_skills - Agent skills",
-      "points": 8234,
+      "points": 8393,
       "url": "https://github.com/janestreet/agent_skills",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "huamidev/GestaltX - An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
-      "points": 7275,
+      "points": 7452,
       "url": "https://github.com/huamidev/GestaltX",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "KKKKhazix/agent-autoloop - 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "points": 5116,
+      "points": 5237,
       "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "expo/exact - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it,",
+      "points": 4082,
+      "url": "https://github.com/expo/exact",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "shanselman/gputaskman - A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cac",
+      "points": 3142,
+      "url": "https://github.com/shanselman/gputaskman",
       "score": 5.6
     },
     {
       "source": "HackerNews",
       "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "points": 607,
+      "points": 748,
       "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "score": 5.06
+      "score": 5.36
     },
     {
       "source": "HackerNews",
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "points": 475,
-      "url": "https://status.claude.com/incidents/nn11wk485zfn",
-      "score": 4.74
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "points": 559,
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "score": 4.95
     },
     {
       "source": "HackerNews",
-      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "points": 245,
-      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "score": 4.01
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "points": 292,
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "score": 4.18
     },
     {
       "source": "HackerNews",
-      "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
-      "points": 157,
-      "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
-      "score": 3.62
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "points": 261,
+      "url": "https://orcasairband.com/",
+      "score": 4.07
     },
     {
       "source": "HackerNews",
       "title": "After 600 experiments, here's what I discovered about JEPA world models",
-      "points": 155,
+      "points": 260,
       "url": "https://haddyalchaer.com/jepa",
-      "score": 3.6
+      "score": 4.07
     },
     {
       "source": "HackerNews",
       "title": "A technical vision for the Haskell ecosystem",
-      "points": 150,
+      "points": 204,
       "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
-      "score": 3.58
+      "score": 3.84
     },
     {
-      "source": "GitHub",
-      "title": "zortos293/Lichii - VERY experimental Nintendo Switch 2 emulator",
-      "points": 8964,
-      "url": "https://github.com/zortos293/Lichii",
+      "source": "HackerNews",
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "points": 1539,
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "Minireel/HGhub - YellowFruit third-party client",
-      "points": 8817,
+      "points": 8836,
       "url": "https://github.com/Minireel/HGhub",
       "score": 3.5
     },
     {
       "source": "GitHub",
-      "title": "Lee-xeo/Claude-Cage - Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
-      "points": 5222,
-      "url": "https://github.com/Lee-xeo/Claude-Cage",
+      "title": "tangerineturtle1/NX2navi -",
+      "points": 3982,
+      "url": "https://github.com/tangerineturtle1/NX2navi",
       "score": 3.5
     },
     {
-      "source": "HackerNews",
-      "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-      "points": 112,
-      "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-      "score": 3.36
+      "source": "GitHub",
+      "title": "mromidev/claude-animated-shorts - Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotio",
+      "points": 3308,
+      "url": "https://github.com/mromidev/claude-animated-shorts",
+      "score": 3.5
     }
   ],
   "count": 32
