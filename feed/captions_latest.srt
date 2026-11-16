@@ -1,39 +1,35 @@
 1
-00:00:00,000 --> 00:00:05,980
-I went from confused and overwhelmed to running it on autopilot using only A small,
+00:00:00,000 --> 00:00:05,860
+I went from confused and overwhelmed to running it on autopilot using only A short
 
 2
-00:00:06,160 --> 00:00:13,650
-fast container runtime for macOS, Windows and Linux with free Ngrok alternative - and
+00:00:06,040 --> 00:00:11,100
+explainer on how El Nio works video - and it took one month.
 
 3
-00:00:13,830 --> 00:00:16,060
-it took a weekend.
+00:00:11,280 --> 00:00:18,840
+[STEP 1] Step one: pick ONE tool in the A short explainer on how El Nio works video
 
 4
-00:00:16,240 --> 00:00:24,300
-[STEP 1] Step one: pick ONE tool in the A small, fast container runtime for macOS,
+00:00:19,020 --> 00:00:21,520
+space and master it.
 
 5
-00:00:24,480 --> 00:00:29,640
-Windows and Linux with free Ngrok alternative space and master it.
-
-6
-00:00:29,820 --> 00:00:35,820
+00:00:21,700 --> 00:00:27,700
 [STEP 2] Step two: systemize the workflow so it runs without you.
 
-7
-00:00:36,000 --> 00:00:41,830
+6
+00:00:27,880 --> 00:00:33,710
 [STEP 3] Step three: document the results and post the process.
 
-8
-00:00:42,010 --> 00:00:45,920
+7
+00:00:33,890 --> 00:00:37,800
 The result: a system that works while you sleep.
 
-9
-00:00:46,100 --> 00:00:50,490
-Comment 'SECRET' and I will send you the exact system.
+8
+00:00:37,980 --> 00:00:42,230
+Comment 'ALPHA' and I will send you the exact system.
 
-10
-00:00:50,670 --> 00:00:54,150
+9
+00:00:42,410 --> 00:00:45,890
 Follow - it only goes to followers.

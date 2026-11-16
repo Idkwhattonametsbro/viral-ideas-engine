@@ -1,110 +1,110 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "top": [
-    {
-      "source": "HackerNews",
-      "title": "All AI-generated code should be Open Source",
-      "points": 892,
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "score": 5.6
-    },
     {
       "source": "GitHub",
       "title": "janestreet/agent_skills - Agent skills",
-      "points": 8919,
+      "points": 9281,
       "url": "https://github.com/janestreet/agent_skills",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "huamidev/GestaltX - An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
-      "points": 7726,
+      "points": 7808,
       "url": "https://github.com/huamidev/GestaltX",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "libracoder/kiri - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
-      "points": 5939,
-      "url": "https://github.com/libracoder/kiri",
-      "score": 5.6
-    },
-    {
-      "source": "GitHub",
       "title": "KKKKhazix/agent-autoloop - 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "points": 5489,
+      "points": 5620,
       "url": "https://github.com/KKKKhazix/agent-autoloop",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "expo/exact - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it,",
-      "points": 4294,
-      "url": "https://github.com/expo/exact",
+      "title": "deepseek-ai/chat-demo - Chat Demo",
+      "points": 3764,
+      "url": "https://github.com/deepseek-ai/chat-demo",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "shanselman/gputaskman - A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cac",
-      "points": 3324,
+      "points": 3376,
       "url": "https://github.com/shanselman/gputaskman",
       "score": 5.6
     },
     {
-      "source": "HackerNews",
-      "title": "A family tree of software job titles",
-      "points": 422,
-      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-      "score": 4.59
+      "source": "GitHub",
+      "title": "jhaizhou-ops/S2Arm - Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics d",
+      "points": 3318,
+      "url": "https://github.com/jhaizhou-ops/S2Arm",
+      "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-      "points": 359,
-      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-      "score": 4.41
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "points": 532,
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "score": 4.88
     },
     {
       "source": "HackerNews",
-      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-      "points": 297,
-      "url": "https://retrocomputing.stackexchange.com/questions/17957",
-      "score": 4.2
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "points": 347,
+      "url": "https://iter.ca/post/ubo-uxss/",
+      "score": 4.37
     },
     {
       "source": "HackerNews",
-      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "points": 191,
-      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "score": 3.78
+      "title": "What's Next for Nvidia?",
+      "points": 254,
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "score": 4.04
     },
     {
       "source": "HackerNews",
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "points": 157,
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "score": 3.62
+      "title": "A short explainer on how El Niño works [video]",
+      "points": 235,
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "score": 3.97
     },
     {
       "source": "HackerNews",
       "title": "SpaceX catches the Starship to end Flight 15",
-      "points": 1568,
+      "points": 1691,
       "url": "https://www.spacex.com/launches/starship-flight-15",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "Minireel/HGhub - Plug-in media player",
-      "points": 8976,
+      "points": 9330,
       "url": "https://github.com/Minireel/HGhub",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "tangerineturtle1/NX2navi -",
-      "points": 4196,
+      "points": 4255,
       "url": "https://github.com/tangerineturtle1/NX2navi",
       "score": 3.5
+    },
+    {
+      "source": "HackerNews",
+      "title": "Qwen4-Max",
+      "points": 483,
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "score": 2.97
+    },
+    {
+      "source": "HackerNews",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "points": 329,
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "score": 2.69
     }
   ],
   "count": 32
