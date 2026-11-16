@@ -1,33 +1,32 @@
 # Viral Tech Pack · 2026-11-16
 
-**Format:** The Before/After Transformation · **Source topic:** A short explainer on how El Nio works video
+**Format:** The Ad Creative Remix · **Source topic:** The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life 2007
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK] I went from confused and overwhelmed to running it on autopilot using only A short explainer on how El Nio works video - and it took one month.
-[STEP 1] Step one: pick ONE tool in the A short explainer on how El Nio works video space and master it.
-[STEP 2] Step two: systemize the workflow so it runs without you.
-[STEP 3] Step three: document the results and post the process.
-[RESULT] The result: a system that works while you sleep.
-[CTA] Comment 'ALPHA' and I will send you the exact system. Follow - it only goes to followers.
+[HOOK - financial pain] Most people spend $10,000 testing the platform everyone is switching to to find the one that actually works. You can now recreate that success for free.
+[FLIP] Most people do this backwards. You just flip the equation: start with something that's already proven, then make it yours.
+[THE TOOL] Go to the platform everyone is switching to. Find one you like, click it, upload your logo, your product images, your colors. It rebuilds the exact same structure that's already converting.
+[VISUAL PROOF] You are pointing at a the platform everyone is switching to that is already making someone else money, and saying: build this, but make it mine.
+[CTA] Comment 'SECRET' and I will send you the direct link. Follow first - the system only sends it to followers.
 
 ## TITLE
-How A Short Explainer On How El Nio Works Video Made My Work Disappear
+Recreate A Winning Ad For Free In 5 Minutes
 
 ## CAPTION
-Systems beat motivation every time. Comment 'ALPHA' and follow for the exact system.
+Stop testing from zero. Remix what already converts. Comment 'SECRET' and follow for the direct link.
 
 ## HASHTAGS
-#productivity #technology #technews #ashortexplaineronh
+#aitools #automation #aitrends #thesecretthinkpadp
 
 ## POSTING TIPS
 - End every video with the same follow CTA so it becomes a habit for viewers.
-- Use 3 hashtags max. More looks desperate.
-- Reply to EVERY comment in the first hour - it doubles the algorithm push.
+- Pin your own comment with the direct link + a question.
+- Post 4-5 times a week consistently for 4 weeks before judging anything.
 
 ## THUMBNAIL IDEA
-Two columns 'BEFORE chaos' vs 'AFTER system' with an arrow between.
+Before/after mockup of an ad, big text 'REMAKE THIS AD - FREE' with a dollar-sign strike-through.
 
 ---
-**Keyword CTA:** comment 'ALPHA' · **Voiceover file:** voiceover_2026-11-16.mp3 · **Captions:** captions_2026-11-16.srt
+**Keyword CTA:** comment 'SECRET' · **Voiceover file:** voiceover_2026-11-16.mp3 · **Captions:** captions_2026-11-16.srt
