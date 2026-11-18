@@ -3,108 +3,108 @@
   "top": [
     {
       "source": "HackerNews",
-      "title": "GPT‑6.2 Astra and Sol",
-      "points": 1283,
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "title": "Unauthenticated remote code execution in Nginx",
+      "points": 957,
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "huami-dev/GestaltX - An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
-      "points": 8232,
-      "url": "https://github.com/huami-dev/GestaltX",
+      "title": "huami1314/GestaltX - An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+      "points": 8360,
+      "url": "https://github.com/huami1314/GestaltX",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "deepseek-ai/chat-demo - Chat Demo",
-      "points": 4680,
+      "points": 4812,
       "url": "https://github.com/deepseek-ai/chat-demo",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "jhaizhou-ops/S2Arm - Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics d",
-      "points": 3558,
-      "url": "https://github.com/jhaizhou-ops/S2Arm",
-      "score": 5.6
-    },
-    {
-      "source": "GitHub",
       "title": "krisgfx9/Wireless-Device-Battery-Monitor - Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 ta",
-      "points": 3432,
+      "points": 3894,
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
       "score": 5.6
     },
     {
       "source": "GitHub",
+      "title": "jhaizhou-ops/S2Arm - Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics d",
+      "points": 3594,
+      "url": "https://github.com/jhaizhou-ops/S2Arm",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "erkamyaman/rust-anything - Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavio",
+      "points": 3266,
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
       "title": "ersinkoc/phonebox - Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux a",
-      "points": 2942,
+      "points": 3205,
       "url": "https://github.com/ersinkoc/phonebox",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-      "points": 558,
-      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-      "score": 4.95
-    },
-    {
-      "source": "HackerNews",
-      "title": "Google's AI answers reducing search traffic by 40%",
-      "points": 425,
-      "url": "https://revscope.co/blog/search-seo-geo-2026/",
-      "score": 4.6
-    },
-    {
-      "source": "HackerNews",
-      "title": "What is the best harness for each model?",
-      "points": 379,
-      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "title": "Seven new models at scalable price-performance",
+      "points": 380,
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
       "score": 4.47
     },
     {
       "source": "HackerNews",
-      "title": "AI is killing All About Berlin",
-      "points": 375,
-      "url": "https://nicolasbouliane.com/blog/death-by-ai",
-      "score": 4.45
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "points": 276,
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "score": 4.13
     },
     {
       "source": "HackerNews",
-      "title": "MAI Code 2 and Code 2 Flash",
-      "points": 367,
-      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-      "score": 4.43
-    },
-    {
-      "source": "HackerNews",
-      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-      "points": 340,
-      "url": "https://github.com/microsoft/onnxruntime",
-      "score": 4.35
-    },
-    {
-      "source": "HackerNews",
-      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-      "points": 964,
-      "url": "https://calif.io/java4shell/",
-      "score": 3.5
+      "title": "Genie 4 is now available",
+      "points": 155,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "score": 3.6
     },
     {
       "source": "GitHub",
       "title": "tangerineturtle1/NX2navi -",
-      "points": 4314,
+      "points": 4317,
       "url": "https://github.com/tangerineturtle1/NX2navi",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "JenkinWoo/sheeridVerify -",
-      "points": 3462,
+      "points": 3491,
       "url": "https://github.com/JenkinWoo/sheeridVerify",
       "score": 3.5
+    },
+    {
+      "source": "HackerNews",
+      "title": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
+      "points": 134,
+      "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+      "score": 3.49
+    },
+    {
+      "source": "HackerNews",
+      "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+      "points": 128,
+      "url": "https://exitpath-ruddy.vercel.app/",
+      "score": 3.46
+    },
+    {
+      "source": "HackerNews",
+      "title": "DNS resolvers are the wrong place to fight piracy",
+      "points": 531,
+      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "score": 3.05
     }
   ],
   "count": 32
