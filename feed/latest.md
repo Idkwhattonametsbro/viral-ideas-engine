@@ -1,33 +1,36 @@
-# Viral Tech Pack · 2026-11-18
+# Viral Tech Pack · 2026-11-19
 
-**Format:** The Industry Takedown (myth vs truth) · **Source topic:** Unauthenticated remote code execution in Nginx
+**Format:** The Vocabulary Reframing · **Source topic:** Show HN Take Voyager 1 apart, down to a single memory chip
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK - contrarian] Everything you know about Unauthenticated remote code execution in Nginx is wrong. Here is what actually works.
-[MYTH] Most people think it is too late to start.
-[TRUTH] The truth: the window is open exactly because Unauthenticated remote code execution in Nginx is still confusing to most people.
-[WHY] Here is why this matters right now: early movers in Unauthenticated remote code execution in Nginx get 10x the attention for half the effort.
-[PROOF] I have tested this. the fastest-growing accounts right now are all built on Unauthenticated remote code execution in Nginx.
-[CTA] Comment 'EDGE' and I will send you the playbook. Follow so you don't miss the next one.
+[HOOK] 5 words to never say in sales.
+[PAIRS - rapid fire]
+Don't say customer, instead say client - because people clients feel like partners, customers feel like numbers.
+Don't say sign, instead say authorize - authorizing feels like a choice, not a trap.
+Don't say problem, instead say concern - concerns get solved, problems get blamed.
+Don't say contract, instead say agreement - agreements are mutual, contracts feel one-sided.
+Don't say cheap, instead say affordable - affordable feels smart, cheap feels risky.
+[CLOSE] Your sales does not have to sound like everyone else's. Comment 'SECRET' and I will send you the full list.
+Make sure you follow - it only goes to followers.
 
 ## TITLE
-Why Unauthenticated Remote Code Execution In Nginx Is Not What You Think
+7 Words To Never Say In Sales
 
 ## CAPTION
-Most people are 2 years late on Unauthenticated remote code execution in Nginx. The ones who act now win. Comment 'EDGE' and follow.
+Words change how people feel about buying. These 7 swaps work everywhere. Comment 'SECRET' and follow for the full list.
 
 ## HASHTAGS
-#aitools #productivity #automation #unauthenticatedrem
+#technews #aitrends #technology #showhntakevoyager1
 
 ## POSTING TIPS
-- Same 3-4 keywords in title, spoken line, and on-screen text.
-- Pin your own comment with the direct link + a question.
-- End every video with the same follow CTA so it becomes a habit for viewers.
+- Post at evening local time (19:00-21:00) for max initial engagement.
+- Use 3 hashtags max. More looks desperate.
+- Keep the first 2 seconds purely the hook - no intro, no logo.
 
 ## THUMBNAIL IDEA
-Big myth crossed out + 'UNAUTHENTICATED REMOTE CODE EXECUTION IN NGINX: THE TRUTH' in bold, light background.
+Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
 
 ---
-**Keyword CTA:** comment 'EDGE' · **Voiceover file:** voiceover_2026-11-18.mp3 · **Captions:** captions_2026-11-18.srt
+**Keyword CTA:** comment 'SECRET' · **Voiceover file:** voiceover_2026-11-19.mp3 · **Captions:** captions_2026-11-19.srt

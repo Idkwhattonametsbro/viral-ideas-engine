@@ -1,51 +1,44 @@
 1
-00:00:00,000 --> 00:00:06,380
-[HOOK - contrarian] Everything you know about Unauthenticated remote code execution in
+00:00:00,000 --> 00:00:03,220
+5 words to never say in sales.
 
 2
-00:00:06,560 --> 00:00:08,790
-Nginx is wrong.
+00:00:03,400 --> 00:00:10,700
+[PAIRS - rapid fire]
+Don't say customer, instead say client - because people clients
 
 3
-00:00:08,970 --> 00:00:11,750
-Here is what actually works.
+00:00:10,880 --> 00:00:15,010
+feel like partners, customers feel like numbers.
 
 4
-00:00:11,930 --> 00:00:15,460
-Most people think it is too late to start.
+00:00:15,190 --> 00:00:21,090
+Don't say sign, instead say authorize - authorizing feels like a choice, not a trap.
 
 5
-00:00:15,640 --> 00:00:22,500
-The truth: the window is open exactly because Unauthenticated remote code execution in
+00:00:21,270 --> 00:00:27,220
+Don't say problem, instead say concern - concerns get solved, problems get blamed.
 
 6
-00:00:22,680 --> 00:00:26,140
-Nginx is still confusing to most people.
+00:00:27,400 --> 00:00:33,420
+Don't say contract, instead say agreement - agreements are mutual, contracts feel
 
 7
-00:00:26,320 --> 00:00:32,370
-Here is why this matters right now: early movers in Unauthenticated remote code
+00:00:33,600 --> 00:00:35,590
+one-sided.
 
 8
-00:00:32,550 --> 00:00:37,660
-execution in Nginx get 10x the attention for half the effort.
+00:00:35,770 --> 00:00:41,750
+Don't say cheap, instead say affordable - affordable feels smart, cheap feels risky.
 
 9
-00:00:37,840 --> 00:00:40,140
-I have tested this.
+00:00:41,930 --> 00:00:46,030
+Your sales does not have to sound like everyone else's.
 
 10
-00:00:40,320 --> 00:00:46,490
-the fastest-growing accounts right now are all built on Unauthenticated remote code
+00:00:46,210 --> 00:00:50,050
+Comment 'SECRET' and I will send you the full list.
 
 11
-00:00:46,670 --> 00:00:49,310
-execution in Nginx.
-
-12
-00:00:49,490 --> 00:00:53,040
-Comment 'EDGE' and I will send you the playbook.
-
-13
-00:00:53,220 --> 00:00:56,360
-Follow so you don't miss the next one.
+00:00:50,230 --> 00:00:54,020
+Make sure you follow - it only goes to followers.
