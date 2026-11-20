@@ -1,36 +1,34 @@
 # Viral Tech Pack · 2026-11-20
 
-**Format:** The Vocabulary Reframing · **Source topic:** An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.
+**Format:** The Autonomous Workforce · **Source topic:** Linger is An Open-Source Personal Agent That Runs Fully on Your PC. We aim to break Big Techs grip
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK] 5 words to never say in sales.
-[PAIRS - rapid fire]
-Don't say contract, instead say agreement - because people agreements are mutual, contracts feel one-sided.
-Don't say buy, instead say invest - people invest in value, not purchases.
-Don't say problem, instead say concern - concerns get solved, problems get blamed.
-Don't say sign, instead say authorize - authorizing feels like a choice, not a trap.
-Don't say maybe, instead say absolutely - certainty closes, maybe kills.
-[CLOSE] Your sales does not have to sound like everyone else's. Comment 'EDGE' and I will send you the full list.
-Make sure you follow - it only goes to followers.
+[HOOK - urgency] Linger Is An Open-Source Personal Agent That Runs Fully On Your Pc. We Aim To Break Big Techs Grip are taking over the internet right now. This is how you get them working for you today.
+[WHO] And the people who figured this out first are already running entire operations without adding a Single Person to their team.
+[RETENTION BRIDGE] Watch till the end because the last thing I show you changes everything.
+[THE THING] It's called an open-source project that does it all. The first platform where Linger Is An Open-Source Personal Agent That Runs Fully On Your Pc. We Aim To Break Big Techs Grip become real members of your team - with names, with roles, and the ability to work 24 hours a day.
+[RAPID-FIRE] Think creators. Think marketers. Think e-commerce. Think investors. Every single one of them can plug Linger Is An Open-Source Personal Agent That Runs Fully On Your Pc. We Aim To Break Big Techs Grip in and watch the busywork disappear.
+[PROOF] Every decision, every brief, every piece of feedback is remembered forever. No re-explaining. No lost ideas. No scattered files.
+[CTA] Comment 'TOOL' and I will send you the direct link. Make sure you follow - the system only sends it to followers.
 
 ## TITLE
-The Vocabulary That Doubles Your Conversion Rate
+Linger Is An Open-Source Personal Agent That Runs Fully On Your Pc. We Aim To Br
 
 ## CAPTION
-Words change how people feel about buying. These 7 swaps work everywhere. Comment 'EDGE' and follow for the full list.
+Linger Is An Open-Source Personal Agent That Runs Fully On Your Pc. We Aim To Break Big Techs Grip are moving fast. The people who start now get the unfair advantage. Comment 'TOOL' and follow for the direct link.
 
 ## HASHTAGS
-#technology #productivity #startup #anmobilegestaltedi
+#aitools #technews #startup #lingerisanopensour
 
 ## POSTING TIPS
-- Same 3-4 keywords in title, spoken line, and on-screen text.
-- Keep the first 2 seconds purely the hook - no intro, no logo.
+- End every video with the same follow CTA so it becomes a habit for viewers.
 - Use 3 hashtags max. More looks desperate.
+- Pin your own comment with the direct link + a question.
 
 ## THUMBNAIL IDEA
-Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
+Clean light UI mockup + big text 'Linger Is An Open-Source Personal Agent That Runs Fully On Your Pc. We Aim To Break Big Techs Grip ON YOUR TEAM' with a blue accent, phone in hand.
 
 ---
-**Keyword CTA:** comment 'EDGE' · **Voiceover file:** voiceover_2026-11-20.mp3 · **Captions:** captions_2026-11-20.srt
+**Keyword CTA:** comment 'TOOL' · **Voiceover file:** voiceover_2026-11-20.mp3 · **Captions:** captions_2026-11-20.srt
