@@ -1,110 +1,110 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "top": [
     {
       "source": "GitHub",
       "title": "huami1314/GestaltX - An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
-      "points": 8532,
+      "points": 8605,
       "url": "https://github.com/huami1314/GestaltX",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "erkamyaman/rust-anything - Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavio",
-      "points": 5078,
+      "points": 5907,
       "url": "https://github.com/erkamyaman/rust-anything",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "deepseek-ai/chat-demo - Chat Demo",
-      "points": 5022,
+      "points": 5089,
       "url": "https://github.com/deepseek-ai/chat-demo",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "krisgfx9/Wireless-Device-Battery-Monitor - Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 ta",
-      "points": 4632,
+      "points": 4927,
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "ersinkoc/phonebox - Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux a",
-      "points": 3826,
+      "points": 4033,
       "url": "https://github.com/ersinkoc/phonebox",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "jhaizhou-ops/S2Arm - Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics d",
-      "points": 3675,
+      "points": 3709,
       "url": "https://github.com/jhaizhou-ops/S2Arm",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "UK government forced to admit it issued Apple a secret encryption order",
-      "points": 416,
-      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-      "score": 4.58
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "points": 299,
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "score": 4.21
     },
     {
       "source": "HackerNews",
-      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-      "points": 363,
-      "url": "https://verialabs.com/ruby2shell/",
-      "score": 4.42
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "points": 271,
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "score": 4.11
+    },
+    {
+      "source": "HackerNews",
+      "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+      "points": 250,
+      "url": "https://thedataexchange.media/pete-warden-moonshine/",
+      "score": 4.03
+    },
+    {
+      "source": "HackerNews",
+      "title": "Anthropic’s Nasdaq debut",
+      "points": 1087,
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "score": 3.5
+    },
+    {
+      "source": "HackerNews",
+      "title": "Garage Door Spam",
+      "points": 878,
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "tangerineturtle1/NX2navi -",
-      "points": 4331,
+      "points": 4337,
       "url": "https://github.com/tangerineturtle1/NX2navi",
       "score": 3.5
     },
     {
       "source": "GitHub",
-      "title": "JenkinWoo/sheeridVerify -",
-      "points": 3695,
-      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "title": "apex-compute/ANR - Apex Neural Rendering (ANR) by Apex Compute",
+      "points": 2712,
+      "url": "https://github.com/apex-compute/ANR",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "Anthropic hits $2T in Nasdaq debut",
-      "points": 738,
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "score": 3.34
-    },
-    {
-      "source": "HackerNews",
-      "title": "Garage Door Spam",
-      "points": 692,
-      "url": "https://blog.harrison.page/garage-door-spam/",
-      "score": 3.28
-    },
-    {
-      "source": "HackerNews",
-      "title": "How the European Commission rolled out Matrix to more than 40k staff",
-      "points": 627,
-      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
-      "score": 3.19
-    },
-    {
-      "source": "HackerNews",
       "title": "Pancreatic cancer halted by virus injection in three patients",
-      "points": 355,
+      "points": 785,
       "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-      "score": 2.75
+      "score": 3.4
     },
     {
       "source": "HackerNews",
-      "title": "Everything you need to survive and rebuild society",
-      "points": 327,
-      "url": "https://lastbook.org/",
-      "score": 2.69
+      "title": "Claude solves two open problems in the physics of black holes",
+      "points": 507,
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "score": 3.01
     }
   ],
   "count": 32
