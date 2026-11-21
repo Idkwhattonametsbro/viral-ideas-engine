@@ -1,36 +1,33 @@
 # Viral Tech Pack · 2026-11-21
 
-**Format:** The Vocabulary Reframing · **Source topic:** DreamCoder Coding harness and IDE from the author of Mastering Emacs
+**Format:** The Industry Takedown (myth vs truth) · **Source topic:** Run your own Switch games natively on iPhone, iPad and Mac game code rewritten to ARM64, graphics d
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK] 5 words to never say in AI copywriting.
-[PAIRS - rapid fire]
-Don't say game-changer, instead say turns things around - because people cliche alerts.
-Don't say delve, instead say dig into - nobody says delve.
-Don't say revolutionize, instead say change - nobody believes revolution.
-Don't say empower, instead say help - empower is corporate noise.
-Don't say leverage, instead say apply - leveraged is AI-slop.
-[CLOSE] Your AI copywriting does not have to sound like everyone else's. Comment 'EDGE' and I will send you the full list.
-Make sure you follow - it only goes to followers.
+[HOOK - contrarian] Everything you know about Run your own Switch games natively on iPhone, iPad and Mac game code rewritten to ARM64, graphics d is wrong. Here is what actually works.
+[MYTH] Most people think it is too late to start.
+[TRUTH] The truth: the window is open exactly because Run your own Switch games natively on iPhone, iPad and Mac game code rewritten to ARM64, graphics d is still confusing to most people.
+[WHY] Here is why this matters right now: early movers in Run your own Switch games natively on iPhone, iPad and Mac game code rewritten to ARM64, graphics d get 10x the attention for half the effort.
+[PROOF] I have tested this. the fastest-growing accounts right now are all built on Run your own Switch games natively on iPhone, iPad and Mac game code rewritten to ARM64, graphics d.
+[CTA] Comment 'SECRET' and I will send you the playbook. Follow so you don't miss the next one.
 
 ## TITLE
-The Vocabulary That Doubles Your Conversion Rate
+The Run Your Own Switch Games Natively On Iphone, Ipad And Mac Game Code Rewritt
 
 ## CAPTION
-Words change how people feel about buying. These 7 swaps work everywhere. Comment 'EDGE' and follow for the full list.
+Most people are 2 years late on Run your own Switch games natively on iPhone, iPad and Mac game code rewritten to ARM64, graphics d. The ones who act now win. Comment 'SECRET' and follow.
 
 ## HASHTAGS
-#productivity #startup #automation #dreamcodercodingha
+#automation #aiagents #aitrends #runyourownswitchga
 
 ## POSTING TIPS
-- Use 3 hashtags max. More looks desperate.
 - Reply to EVERY comment in the first hour - it doubles the algorithm push.
+- End every video with the same follow CTA so it becomes a habit for viewers.
 - Post 4-5 times a week consistently for 4 weeks before judging anything.
 
 ## THUMBNAIL IDEA
-Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
+Big myth crossed out + 'RUN YOUR OWN SWITCH GAMES NATIVELY ON IPHONE, IPAD AND MAC GAME CODE REWRITTEN TO ARM64, GRAPHICS D: THE TRUTH' in bold, light background.
 
 ---
-**Keyword CTA:** comment 'EDGE' · **Voiceover file:** voiceover_2026-11-21.mp3 · **Captions:** captions_2026-11-21.srt
+**Keyword CTA:** comment 'SECRET' · **Voiceover file:** voiceover_2026-11-21.mp3 · **Captions:** captions_2026-11-21.srt

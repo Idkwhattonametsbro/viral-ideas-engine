@@ -4,107 +4,107 @@
     {
       "source": "HackerNews",
       "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "points": 2656,
+      "points": 2843,
       "url": "https://alpo.ge/remark.pdf",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "huami1314/GestaltX - An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
-      "points": 8686,
+      "points": 8725,
       "url": "https://github.com/huami1314/GestaltX",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "erkamyaman/rust-anything - Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavio",
-      "points": 6971,
+      "points": 7324,
       "url": "https://github.com/erkamyaman/rust-anything",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "krisgfx9/Wireless-Device-Battery-Monitor - Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 ta",
-      "points": 5548,
+      "points": 5771,
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "deepseek-ai/chat-demo - Chat Demo",
-      "points": 5178,
+      "points": 5210,
       "url": "https://github.com/deepseek-ai/chat-demo",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "jhaizhou-ops/S2Arm - Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics d",
-      "points": 3756,
+      "points": 3774,
       "url": "https://github.com/jhaizhou-ops/S2Arm",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "simplexai-labs/linger - Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip",
-      "points": 3129,
+      "points": 3335,
       "url": "https://github.com/simplexai-labs/linger",
       "score": 5.6
     },
     {
       "source": "GitHub",
-      "title": "FrigadeHQ/yogurt - Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, W",
-      "points": 2815,
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 5.6
-    },
-    {
-      "source": "GitHub",
       "title": "Immortal-Protocols/lastbook - Offline knowledge AI, maps and videos for survival and rebuilding",
-      "points": 2804,
+      "points": 2854,
       "url": "https://github.com/Immortal-Protocols/lastbook",
       "score": 5.6
     },
     {
-      "source": "HackerNews",
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "points": 415,
-      "url": "https://arxiv.org/abs/2611.21885",
-      "score": 4.57
+      "source": "GitHub",
+      "title": "FrigadeHQ/yogurt - Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, W",
+      "points": 2852,
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "points": 323,
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "score": 4.29
-    },
-    {
-      "source": "HackerNews",
-      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-      "points": 300,
-      "url": "https://scottaaronson.blog/?p=10344",
-      "score": 4.21
-    },
-    {
-      "source": "HackerNews",
-      "title": "Slopstrap – Make your site look hastily vibecoded",
-      "points": 286,
-      "url": "https://slopstrap.mikelacher.com/",
-      "score": 4.16
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "points": 394,
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "score": 4.51
     },
     {
       "source": "HackerNews",
       "title": "NINLIVE: The Nine Inch Nails live archive",
-      "points": 267,
+      "points": 344,
       "url": "https://ninlive.com/",
-      "score": 4.09
+      "score": 4.36
     },
     {
       "source": "HackerNews",
-      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-      "points": 221,
-      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-      "score": 3.91
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "points": 2347,
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "score": 3.5
+    },
+    {
+      "source": "HackerNews",
+      "title": "Inkling 2 Mini",
+      "points": 1312,
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "score": 3.5
+    },
+    {
+      "source": "HackerNews",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "points": 625,
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "score": 3.19
+    },
+    {
+      "source": "HackerNews",
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "points": 598,
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "score": 3.15
     }
   ],
   "count": 32
