@@ -1,36 +1,33 @@
 # Viral Tech Pack · 2026-11-24
 
-**Format:** The Vocabulary Reframing · **Source topic:** Dario is hyping the dangers so OSS models are illegal and he stays in control
+**Format:** The Industry Takedown (myth vs truth) · **Source topic:** Nvidia Reinstates Jensen Huang as CEO
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK] 5 words to never say in sales.
-[PAIRS - rapid fire]
-Don't say customer, instead say client - because people clients feel like partners, customers feel like numbers.
-Don't say contract, instead say agreement - agreements are mutual, contracts feel one-sided.
-Don't say buy, instead say invest - people invest in value, not purchases.
-Don't say maybe, instead say absolutely - certainty closes, maybe kills.
-Don't say sign, instead say authorize - authorizing feels like a choice, not a trap.
-[CLOSE] Your sales does not have to sound like everyone else's. Comment 'TOOL' and I will send you the full list.
-Make sure you follow - it only goes to followers.
+[HOOK - contrarian] Everything you know about Nvidia Reinstates Jensen Huang as CEO is wrong. Here is what actually works.
+[MYTH] Most people think it is too late to start.
+[TRUTH] The truth: the window is open exactly because Nvidia Reinstates Jensen Huang as CEO is still confusing to most people.
+[WHY] Here is why this matters right now: early movers in Nvidia Reinstates Jensen Huang as CEO get 10x the attention for half the effort.
+[PROOF] I have tested this. the fastest-growing accounts right now are all built on Nvidia Reinstates Jensen Huang as CEO.
+[CTA] Comment 'SECRET' and I will send you the playbook. Follow so you don't miss the next one.
 
 ## TITLE
-7 Words To Never Say In Sales
+The Nvidia Reinstates Jensen Huang As Ceo Myth That's Costing You Money
 
 ## CAPTION
-Words change how people feel about buying. These 7 swaps work everywhere. Comment 'TOOL' and follow for the full list.
+Most people are 2 years late on Nvidia Reinstates Jensen Huang as CEO. The ones who act now win. Comment 'SECRET' and follow.
 
 ## HASHTAGS
-#technology #aiagents #technews #darioishypingtheda
+#productivity #aitools #technews #nvidiareinstatesje
 
 ## POSTING TIPS
-- End every video with the same follow CTA so it becomes a habit for viewers.
-- Pin your own comment with the direct link + a question.
+- Same 3-4 keywords in title, spoken line, and on-screen text.
+- Post at evening local time (19:00-21:00) for max initial engagement.
 - Reply to EVERY comment in the first hour - it doubles the algorithm push.
 
 ## THUMBNAIL IDEA
-Split screen: red X words vs green check words, big bold '7 WORDS' in the middle.
+Big myth crossed out + 'NVIDIA REINSTATES JENSEN HUANG AS CEO: THE TRUTH' in bold, light background.
 
 ---
-**Keyword CTA:** comment 'TOOL' · **Voiceover file:** voiceover_2026-11-24.mp3 · **Captions:** captions_2026-11-24.srt
+**Keyword CTA:** comment 'SECRET' · **Voiceover file:** voiceover_2026-11-24.mp3 · **Captions:** captions_2026-11-24.srt
