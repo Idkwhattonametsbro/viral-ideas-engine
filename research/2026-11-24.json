@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-24",
+  "top": [
+    {
+      "source": "HackerNews",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "points": 2122,
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "score": 5.6
+    },
+    {
+      "source": "HackerNews",
+      "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+      "points": 1174,
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "erkamyaman/rust-anything - Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavio",
+      "points": 8760,
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "deepseek-ai/chat-demo - Chat Demo",
+      "points": 5349,
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "ivall/xcl - Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the cons",
+      "points": 3237,
+      "url": "https://github.com/ivall/xcl",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "EL4CTEO/fast-anything - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the ho",
+      "points": 3161,
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "Immortal-Protocols/lastbook - Offline knowledge AI, maps and videos for survival and rebuilding",
+      "points": 3008,
+      "url": "https://github.com/Immortal-Protocols/lastbook",
+      "score": 5.6
+    },
+    {
+      "source": "HackerNews",
+      "title": "Apple removed my open-source app from EU App Stores after 9 years",
+      "points": 525,
+      "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+      "score": 4.87
+    },
+    {
+      "source": "HackerNews",
+      "title": "Kagi Mail (public beta)",
+      "points": 359,
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "score": 4.41
+    },
+    {
+      "source": "HackerNews",
+      "title": "Ladybird is now in alpha",
+      "points": 1455,
+      "url": "https://ladybird.org/posts/alpha/",
+      "score": 3.5
+    },
+    {
+      "source": "HackerNews",
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "points": 1061,
+      "url": "https://z.ai/blog/glm-5.4",
+      "score": 3.5
+    },
+    {
+      "source": "HackerNews",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "points": 944,
+      "url": "https://spelunkr.tv",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "Hut-hzf/ung220z-tool - ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安",
+      "points": 3419,
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "apex-compute/ANR - Apex Neural Rendering (ANR) by Apex Compute",
+      "points": 2970,
+      "url": "https://github.com/apex-compute/ANR",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "Noniv/abyssal-garden - A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a su",
+      "points": 2878,
+      "url": "https://github.com/Noniv/abyssal-garden",
+      "score": 3.5
+    }
+  ],
+  "count": 32
+}
