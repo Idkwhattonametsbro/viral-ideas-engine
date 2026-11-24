@@ -3,109 +3,109 @@
   "top": [
     {
       "source": "HackerNews",
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "points": 2674,
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "title": "LLM agents work for their parent companies, not for you",
+      "points": 870,
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "erkamyaman/rust-anything - Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavio",
+      "points": 9199,
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "xcl-dev/xcl - Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the cons",
+      "points": 7801,
+      "url": "https://github.com/xcl-dev/xcl",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "deepseek-ai/chat-demo - Chat Demo",
+      "points": 5396,
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "EL4CTEO/fast-anything - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the ho",
+      "points": 3594,
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "Immortal-Protocols/lastbook - Offline knowledge AI, maps and videos for survival and rebuilding",
+      "points": 3052,
+      "url": "https://github.com/Immortal-Protocols/lastbook",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
-      "points": 1810,
-      "url": "https://twitter.com/ylecun/status/2124550037912920090",
-      "score": 5.6
+      "title": "Ternary Bonsai 2.5 27B",
+      "points": 270,
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "score": 4.1
     },
     {
       "source": "HackerNews",
-      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "points": 538,
-      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-      "score": 4.9
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "points": 248,
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "score": 4.02
     },
     {
       "source": "HackerNews",
-      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
-      "points": 282,
-      "url": "https://www.bored.com/",
-      "score": 4.15
+      "title": "A training engine for your local model, using your idle compute",
+      "points": 163,
+      "url": "https://github.com/sous-labs/songe",
+      "score": 3.65
     },
     {
       "source": "HackerNews",
-      "title": "Ladybird is now in alpha",
-      "points": 2137,
-      "url": "https://ladybird.org/posts/alpha/",
+      "title": "Cloudflare hides shortcomings of the underlying infrastructure",
+      "points": 141,
+      "url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+      "score": 3.53
+    },
+    {
+      "source": "GitHub",
+      "title": "Marvisak/VIctory - An attempt at running GTA VI on PC",
+      "points": 11247,
+      "url": "https://github.com/Marvisak/VIctory",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "Hut-hzf/ung220z-tool - ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安",
+      "points": 4428,
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "AFK-surf/xnulinux - XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "points": 3338,
+      "url": "https://github.com/AFK-surf/xnulinux",
       "score": 3.5
     },
     {
       "source": "HackerNews",
-      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-      "points": 1101,
-      "url": "https://arm.jonpalmisc.com/",
-      "score": 3.5
+      "title": "Quad9 pulled their DNS service from France",
+      "points": 333,
+      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+      "score": 2.7
     },
     {
       "source": "HackerNews",
-      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-      "points": 1026,
-      "url": "https://spelunkr.tv",
-      "score": 3.5
-    },
-    {
-      "source": "HackerNews",
-      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
-      "points": 491,
-      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
-      "score": 2.99
-    },
-    {
-      "source": "HackerNews",
-      "title": "2035 Came Early",
-      "points": 423,
-      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-      "score": 2.87
-    },
-    {
-      "source": "HackerNews",
-      "title": "GPUI is getting its own repository",
-      "points": 315,
-      "url": "https://github.com/zed-industries/gpui",
-      "score": 2.66
-    },
-    {
-      "source": "HackerNews",
-      "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
-      "points": 298,
-      "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
-      "score": 2.63
-    },
-    {
-      "source": "HackerNews",
-      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-      "points": 138,
-      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-      "score": 2.2
-    },
-    {
-      "source": "BingNews",
-      "title": "Can Vicor Capitalize on the Shift to 800VDC AI Power Systems?",
-      "points": 0,
-      "url": "",
-      "score": 2.08
-    },
-    {
-      "source": "BingNews",
-      "title": "Amazon Reportedly Agrees $7.5 Billion Decart AI Deal to Strengthen Trainium Chip Technology",
-      "points": 0,
-      "url": "",
-      "score": 2.08
-    },
-    {
-      "source": "BingNews",
-      "title": "Boom or Bubble? Understanding AI and the U.S. Economy",
-      "points": 0,
-      "url": "",
-      "score": 2.08
+      "title": "The Spray Bottle",
+      "points": 322,
+      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "score": 2.68
     }
   ],
-  "count": 25
+  "count": 32
 }
