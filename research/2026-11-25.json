@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-25",
+  "top": [
+    {
+      "source": "GitHub",
+      "title": "erkamyaman/rust-anything - Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavio",
+      "points": 9439,
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "xcl-dev/xcl - Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the cons",
+      "points": 8106,
+      "url": "https://github.com/xcl-dev/xcl",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "deepseek-ai/chat-demo - Chat Demo",
+      "points": 5431,
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "EL4CTEO/fast-anything - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the ho",
+      "points": 3794,
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "score": 5.6
+    },
+    {
+      "source": "HackerNews",
+      "title": "Ternary Bonsai 2.5 27B",
+      "points": 475,
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "score": 4.74
+    },
+    {
+      "source": "HackerNews",
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "points": 289,
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "score": 4.17
+    },
+    {
+      "source": "HackerNews",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "points": 288,
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "score": 4.17
+    },
+    {
+      "source": "HackerNews",
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "points": 284,
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "score": 4.15
+    },
+    {
+      "source": "HackerNews",
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "points": 279,
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "score": 4.14
+    },
+    {
+      "source": "HackerNews",
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "points": 246,
+      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "score": 4.01
+    },
+    {
+      "source": "GitHub",
+      "title": "Marvisak/VIctory - An attempt at running GTA VI on PC",
+      "points": 12014,
+      "url": "https://github.com/Marvisak/VIctory",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "Hut-hzf/ung220z-tool - ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安",
+      "points": 4703,
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "AFK-surf/xnulinux - XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "points": 3723,
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "4lwayz/portwatch-vi - Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated",
+      "points": 3325,
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "score": 3.5
+    },
+    {
+      "source": "HackerNews",
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "points": 722,
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "score": 3.32
+    }
+  ],
+  "count": 32
+}
