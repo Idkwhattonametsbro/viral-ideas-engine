@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-26",
+  "top": [
+    {
+      "source": "HackerNews",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "points": 1631,
+      "url": "https://scottaaronson.blog/?p=10379",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "erkamyaman/rust-anything - Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavio",
+      "points": 9829,
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "xcl-dev/xcl - Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the cons",
+      "points": 8428,
+      "url": "https://github.com/xcl-dev/xcl",
+      "score": 5.6
+    },
+    {
+      "source": "GitHub",
+      "title": "EL4CTEO/fast-anything - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the ho",
+      "points": 4116,
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "score": 5.6
+    },
+    {
+      "source": "HackerNews",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "points": 423,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "score": 4.6
+    },
+    {
+      "source": "HackerNews",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "points": 396,
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "score": 4.52
+    },
+    {
+      "source": "HackerNews",
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "points": 300,
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "score": 4.21
+    },
+    {
+      "source": "HackerNews",
+      "title": "Tell HN: Lots of Ask HNs again",
+      "points": 286,
+      "url": "https://news.ycombinator.com/item?id=50649864",
+      "score": 4.16
+    },
+    {
+      "source": "HackerNews",
+      "title": "1Password Security Incident",
+      "points": 1477,
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "Marvisak/VIctory - An attempt at running GTA VI on PC",
+      "points": 12926,
+      "url": "https://github.com/Marvisak/VIctory",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "Hut-hzf/ung220z-tool - ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安",
+      "points": 5216,
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "4lwayz/portwatch-vi - Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated",
+      "points": 4899,
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "AFK-surf/xnulinux - XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "points": 4105,
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "score": 3.5
+    },
+    {
+      "source": "GitHub",
+      "title": "fxceless/victory-fork - Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No",
+      "points": 3193,
+      "url": "https://github.com/fxceless/victory-fork",
+      "score": 3.5
+    },
+    {
+      "source": "HackerNews",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "points": 473,
+      "url": "https://github.com/lsernau/grh-lean",
+      "score": 2.96
+    }
+  ],
+  "count": 32
+}
