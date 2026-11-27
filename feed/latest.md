@@ -1,33 +1,32 @@
 # Viral Tech Pack · 2026-11-27
 
-**Format:** The Industry Takedown (myth vs truth) · **Source topic:** Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email
+**Format:** The Ad Creative Remix · **Source topic:** Don't rewrite it in Rust. Rewrite the 5 that's slow profile your app, port the hot functions with
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK - contrarian] Everything you know about Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email is wrong. Here is what actually works.
-[MYTH] Most people think it is too late to start.
-[TRUTH] The truth: the window is open exactly because Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email is still confusing to most people.
-[WHY] Here is why this matters right now: early movers in Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email get 10x the attention for half the effort.
-[PROOF] I have tested this. the fastest-growing accounts right now are all built on Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email.
-[CTA] Comment 'TOOL' and I will send you the playbook. Follow so you don't miss the next one.
+[HOOK - financial pain] Most people spend $50,000 testing the exact system top creators use to find the one that actually works. You can now recreate that success for free.
+[FLIP] Most people do this backwards. You just flip the equation: start with something that's already proven, then make it yours.
+[THE TOOL] Go to the exact system top creators use. Find one you like, click it, upload your logo, your product images, your colors. It rebuilds the exact same structure that's already converting.
+[VISUAL PROOF] You are pointing at a the exact system top creators use that is already making someone else money, and saying: build this, but make it mine.
+[CTA] Comment 'EDGE' and I will send you the direct link. Follow first - the system only sends it to followers.
 
 ## TITLE
-Everything You Know About Google Will Make Ai Agents Use Its Mcp Servers. The Gm
+How To Copy A Proven Ad (Legally) And Win
 
 ## CAPTION
-Most people are 2 years late on Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email. The ones who act now win. Comment 'TOOL' and follow.
+Stop testing from zero. Remix what already converts. Comment 'EDGE' and follow for the direct link.
 
 ## HASHTAGS
-#technews #technology #tech #googlewillmakeaiag
+#aiagents #tech #productivity #dontrewriteitinrus
 
 ## POSTING TIPS
-- Reply to EVERY comment in the first hour - it doubles the algorithm push.
+- Pin your own comment with the direct link + a question.
 - Post 4-5 times a week consistently for 4 weeks before judging anything.
-- End every video with the same follow CTA so it becomes a habit for viewers.
+- Keep the first 2 seconds purely the hook - no intro, no logo.
 
 ## THUMBNAIL IDEA
-Big myth crossed out + 'GOOGLE WILL MAKE AI AGENTS USE ITS MCP SERVERS. THE GMAIL ONE CAN'T SEND EMAIL: THE TRUTH' in bold, light background.
+Before/after mockup of an ad, big text 'REMAKE THIS AD - FREE' with a dollar-sign strike-through.
 
 ---
-**Keyword CTA:** comment 'TOOL' · **Voiceover file:** voiceover_2026-11-27.mp3 · **Captions:** captions_2026-11-27.srt
+**Keyword CTA:** comment 'EDGE' · **Voiceover file:** voiceover_2026-11-27.mp3 · **Captions:** captions_2026-11-27.srt
