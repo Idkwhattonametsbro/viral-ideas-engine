@@ -1,110 +1,110 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "top": [
-    {
-      "source": "HackerNews",
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "points": 1969,
-      "url": "https://scottaaronson.blog/?p=10379",
-      "score": 5.6
-    },
     {
       "source": "GitHub",
       "title": "erkamyaman/rust-anything - Rewrite your app in Rust, piece by piece, checked against the original at every step. Works with Typ",
-      "points": 10199,
+      "points": 10535,
       "url": "https://github.com/erkamyaman/rust-anything",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "xcl-dev/xcl - Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the cons",
-      "points": 8603,
+      "points": 8660,
       "url": "https://github.com/xcl-dev/xcl",
       "score": 5.6
     },
     {
       "source": "GitHub",
       "title": "EL4CTEO/fast-anything - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the ho",
-      "points": 4222,
+      "points": 4370,
       "url": "https://github.com/EL4CTEO/fast-anything",
       "score": 5.6
     },
     {
       "source": "HackerNews",
-      "title": "Tell HN: Happy Thanksgiving",
-      "points": 559,
-      "url": "https://news.ycombinator.com/item?id=50655664",
-      "score": 4.95
-    },
-    {
-      "source": "HackerNews",
-      "title": "Nextcloud Office Desktop app",
-      "points": 390,
-      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-      "score": 4.5
-    },
-    {
-      "source": "HackerNews",
-      "title": "OpenAI may be in cost control mode",
-      "points": 229,
-      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
-      "score": 3.94
+      "title": "AI made self-hosting fun again",
+      "points": 765,
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "score": 5.4
     },
     {
       "source": "HackerNews",
       "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "points": 213,
+      "points": 429,
       "url": "https://github.com/antonpictures/youtube-punisher",
-      "score": 3.88
+      "score": 4.61
     },
     {
       "source": "HackerNews",
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "points": 199,
+      "points": 344,
       "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "score": 3.82
+      "score": 4.36
+    },
+    {
+      "source": "HackerNews",
+      "title": "The group chat where your AI talks behind your back",
+      "points": 324,
+      "url": "https://construct22.com/",
+      "score": 4.29
+    },
+    {
+      "source": "HackerNews",
+      "title": "1Password Security Incident",
+      "points": 1675,
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "Marvisak/VIctory - An attempt at running GTA VI on PC",
-      "points": 13336,
+      "points": 13596,
       "url": "https://github.com/Marvisak/VIctory",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "4lwayz/portwatch-vi - Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated",
-      "points": 5723,
+      "points": 6223,
       "url": "https://github.com/4lwayz/portwatch-vi",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "Hut-hzf/ung220z-tool - ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安",
-      "points": 5499,
+      "points": 5756,
       "url": "https://github.com/Hut-hzf/ung220z-tool",
       "score": 3.5
     },
     {
       "source": "GitHub",
       "title": "AFK-surf/xnulinux - XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
-      "points": 4236,
+      "points": 4306,
       "url": "https://github.com/AFK-surf/xnulinux",
       "score": 3.5
     },
     {
       "source": "GitHub",
-      "title": "fxceless/victory-fork - Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No",
-      "points": 3276,
-      "url": "https://github.com/fxceless/victory-fork",
+      "title": "Belobug/VIctory-Belobug-AMD -",
+      "points": 3827,
+      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
       "score": 3.5
     },
     {
       "source": "HackerNews",
       "title": "Intel One Mono font (2023)",
-      "points": 448,
+      "points": 532,
       "url": "https://github.com/intel/intel-one-mono",
-      "score": 2.92
+      "score": 3.05
+    },
+    {
+      "source": "HackerNews",
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "points": 399,
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "score": 2.83
     }
   ],
   "count": 32

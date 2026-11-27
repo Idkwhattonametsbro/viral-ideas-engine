@@ -1,33 +1,33 @@
-# Viral Tech Pack · 2026-11-26
+# Viral Tech Pack · 2026-11-27
 
-**Format:** The Before/After Transformation · **Source topic:** Holy shit holy shit holy shit holy shit The magnitude of whats now happening
+**Format:** The Industry Takedown (myth vs truth) · **Source topic:** Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email
 
 ---
 
 ## SCRIPT (read this in your editor)
-[HOOK] I went from confused and overwhelmed to running it on autopilot using only Holy shit holy shit holy shit holy shit The magnitude of whats now happening - and it took one month.
-[STEP 1] Step one: pick ONE tool in the Holy shit holy shit holy shit holy shit The magnitude of whats now happening space and master it.
-[STEP 2] Step two: systemize the workflow so it runs without you.
-[STEP 3] Step three: document the results and post the process.
-[RESULT] The result: a system that works while you sleep.
-[CTA] Comment 'TOOL' and I will send you the exact system. Follow - it only goes to followers.
+[HOOK - contrarian] Everything you know about Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email is wrong. Here is what actually works.
+[MYTH] Most people think it is too late to start.
+[TRUTH] The truth: the window is open exactly because Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email is still confusing to most people.
+[WHY] Here is why this matters right now: early movers in Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email get 10x the attention for half the effort.
+[PROOF] I have tested this. the fastest-growing accounts right now are all built on Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email.
+[CTA] Comment 'TOOL' and I will send you the playbook. Follow so you don't miss the next one.
 
 ## TITLE
-How Holy Shit Holy Shit Holy Shit Holy Shit The Magnitude Of Whats Now Happening
+Everything You Know About Google Will Make Ai Agents Use Its Mcp Servers. The Gm
 
 ## CAPTION
-Systems beat motivation every time. Comment 'TOOL' and follow for the exact system.
+Most people are 2 years late on Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email. The ones who act now win. Comment 'TOOL' and follow.
 
 ## HASHTAGS
-#aiagents #futureofwork #tech #holyshitholyshitho
+#technews #technology #tech #googlewillmakeaiag
 
 ## POSTING TIPS
-- Keep the first 2 seconds purely the hook - no intro, no logo.
-- End every video with the same follow CTA so it becomes a habit for viewers.
+- Reply to EVERY comment in the first hour - it doubles the algorithm push.
 - Post 4-5 times a week consistently for 4 weeks before judging anything.
+- End every video with the same follow CTA so it becomes a habit for viewers.
 
 ## THUMBNAIL IDEA
-Two columns 'BEFORE chaos' vs 'AFTER system' with an arrow between.
+Big myth crossed out + 'GOOGLE WILL MAKE AI AGENTS USE ITS MCP SERVERS. THE GMAIL ONE CAN'T SEND EMAIL: THE TRUTH' in bold, light background.
 
 ---
-**Keyword CTA:** comment 'TOOL' · **Voiceover file:** voiceover_2026-11-26.mp3 · **Captions:** captions_2026-11-26.srt
+**Keyword CTA:** comment 'TOOL' · **Voiceover file:** voiceover_2026-11-27.mp3 · **Captions:** captions_2026-11-27.srt
